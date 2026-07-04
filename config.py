@@ -42,6 +42,8 @@ VIDEO_W, VIDEO_H = 1080, 1920  # 9:16
 MAX_DURATION = 60              # seconds, Shorts/Reels safe
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = "llama-3.3-70b-versatile"
 ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.0-flash"  # free-tier friendly

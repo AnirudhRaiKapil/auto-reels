@@ -70,6 +70,22 @@ def _llm_text(prompt: str) -> str:
         )
         return msg.content[0].text
 
+    if config.GROQ_API_KEY:
+        import requests
+
+        r = requests.post(
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={"Authorization": f"Bearer {config.GROQ_API_KEY}"},
+            json={
+                "model": config.GROQ_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.9,
+            },
+            timeout=60,
+        )
+        r.raise_for_status()
+        return r.json()["choices"][0]["message"]["content"]
+
     from google import genai
 
     # Supports both key types: AIzaSy... (AI Studio) and AQ.... (Vertex express)
@@ -82,7 +98,7 @@ def _llm_text(prompt: str) -> str:
 
 
 def generate(niche: str, recent_topics: list[str]) -> dict:
-    if not (config.GEMINI_API_KEY or config.ANTHROPIC_API_KEY):
+    if not (config.GEMINI_API_KEY or config.ANTHROPIC_API_KEY or config.GROQ_API_KEY):
         item = random.choice(FALLBACK[niche])
         return {
             "script": item["script"],
