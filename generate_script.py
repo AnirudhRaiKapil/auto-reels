@@ -97,6 +97,54 @@ def _llm_text(prompt: str) -> str:
     return r.json()["choices"][0]["message"]["content"]
 
 
+def _trending_terms() -> list:
+    """Live trending searches from Google Trends RSS (free, no key)."""
+    import requests as _rq
+
+    terms = []
+    for geo in ("US", "IN"):
+        try:
+            r = _rq.get(f"https://trends.google.com/trending/rss?geo={geo}", timeout=15)
+            if r.ok:
+                terms += re.findall(r"<title>(?!Daily Search Trends)([^<]{3,60})</title>", r.text)
+        except Exception:
+            pass
+    return terms[:30]
+
+
+HASHTAG_PROMPT = """You are an Instagram growth expert. Build the best hashtag set \
+for this reel.
+
+REEL TITLE: {title}
+REEL SCRIPT: {script}
+NICHE: {niche}
+
+CURRENTLY TRENDING SEARCHES (use ONLY if genuinely related to the reel's topic, \
+max 5): {trends}
+
+Return exactly 28 hashtags as JSON: {{"hashtags": ["#...", ...]}}
+Mix: ~6 huge general ones (reels/viral/explore type), ~14 niche and topic tags \
+with real search volume, ~8 specific long-tail tags about this exact topic. \
+All lowercase, no spaces, no duplicates."""
+
+
+def _make_hashtags(title: str, script: str, niche: str, fallback: list) -> list:
+    try:
+        raw = _llm_text(HASHTAG_PROMPT.format(
+            title=title, script=script, niche=niche,
+            trends=", ".join(_trending_terms()) or "none available",
+        )).strip()
+        raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
+        tags = json.loads(raw)["hashtags"]
+        tags = [t if t.startswith("#") else "#" + t for t in tags]
+        tags = list(dict.fromkeys(t.lower().replace(" ", "") for t in tags))
+        if len(tags) >= 10:
+            return tags[:30]
+    except Exception as e:
+        print(f"[hashtags] fallback ({e})")
+    return fallback
+
+
 def generate(niche: str, recent_topics: list[str]) -> dict:
     if not config.GROQ_API_KEY:
         item = random.choice(FALLBACK[niche])
@@ -127,6 +175,9 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
     data["script"] = _humanize(data["script"])
     # Third pass: sharpen the hook (first sentence)
     data["script"], data["title"] = _sharpen_hook(data["script"], data["title"])
+    # Fourth pass: trend-aware hashtag set
+    data["hashtags"] = _make_hashtags(data["title"], data["script"], niche,
+                                      data.get("hashtags", []))
     return data
 
 

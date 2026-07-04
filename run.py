@@ -54,7 +54,8 @@ def main():
     if not args.dry_run:
         import publish
 
-        caption = content["caption"] + "\n\n" + " ".join(content["hashtags"])
+        caption = (content["caption"] + "\n\n" + content["script"]
+                   + "\n\n" + " ".join(content["hashtags"][:30]))[:2150]
         errors = []
         if config.IG_USER_ID and config.IG_ACCESS_TOKEN:
             try:
@@ -64,7 +65,9 @@ def main():
         if os.path.exists(os.path.join(os.path.dirname(__file__), "token.json")):
             try:
                 results["youtube"] = publish.publish_youtube(
-                    out_path, content["title"], content["caption"], content["hashtags"]
+                    out_path, content["title"],
+                    content["caption"] + "\n\n" + content["script"],
+                    content["hashtags"],
                 )
             except Exception as e:
                 errors.append(f"youtube: {e}")
