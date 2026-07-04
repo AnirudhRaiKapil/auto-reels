@@ -1,8 +1,9 @@
 {
-  "run_count": 2,
+  "run_count": 3,
   "recent_topics": [
     "Glacier Secrets",
-    "Start Small"
+    "Start Small",
+    "AI Learns Fast"
   ],
   "history": [
     {
@@ -15,6 +16,12 @@
       "niche": "motivation",
       "title": "Start Small",
       "instagram": "18091485581069560"
+    },
+    {
+      "time": "20260704_101811",
+      "niche": "ai_news",
+      "title": "AI Learns Fast",
+      "instagram": "18012079331869114"
     }
   ]
 }
