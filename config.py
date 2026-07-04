@@ -48,6 +48,10 @@ NICHE_FOOTAGE = {
     "ai_news": ["technology", "server room", "circuit board", "futuristic", "coding"],
 }
 
+POSTS_PER_DAY = 5
+# Hourly cron slots (UTC). 3-17 UTC = 8:30am-10:30pm IST posting window.
+SLOT_HOURS_UTC = list(range(3, 18))
+
 VIDEO_W, VIDEO_H = 1080, 1920  # 9:16
 MAX_DURATION = 60              # seconds, Shorts/Reels safe
 

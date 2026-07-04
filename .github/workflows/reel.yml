@@ -2,12 +2,13 @@ name: Publish reel
 
 on:
   schedule:
-    # 4x/day (UTC): 03:30, 08:30, 12:30, 16:30 = 9am, 2pm, 6pm, 10pm IST
-    - cron: "30 3,8,12,16 * * *"
-  workflow_dispatch: {}   # manual trigger button
+    # Hourly slots, 03-17 UTC (8:30am-10:30pm IST). gate.py randomly picks
+    # ~POSTS_PER_DAY of these slots each day, so posting times vary daily.
+    - cron: "0 3-17 * * *"
+  workflow_dispatch: {}   # manual "post right now" button, always posts
 
 permissions:
-  contents: write   # to commit state.json back
+  contents: write   # commit state.json + create media releases
 
 concurrency:
   group: reel-pipeline
@@ -16,7 +17,7 @@ concurrency:
 jobs:
   reel:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
 
@@ -24,19 +25,35 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Decide whether this slot posts (random schedule)
+        id: gate
+        env:
+          FORCE_POST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: python scripts/gate.py
+
+      - name: Random minute jitter
+        if: steps.gate.outputs.post == 'true' && github.event_name != 'workflow_dispatch'
+        run: |
+          DELAY=$((RANDOM % 1500))
+          echo "sleeping ${DELAY}s for jitter"
+          sleep $DELAY
+
       - name: Install ffmpeg
+        if: steps.gate.outputs.post == 'true'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
 
       - name: Install deps
+        if: steps.gate.outputs.post == 'true'
         run: pip install -r requirements.txt
 
       - name: Restore YouTube token
-        if: env.YT_TOKEN_JSON != ''
+        if: steps.gate.outputs.post == 'true' && env.YT_TOKEN_JSON != ''
         env:
           YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
         run: echo "$YT_TOKEN_JSON" > token.json
 
       - name: Run pipeline
+        if: steps.gate.outputs.post == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -46,14 +63,16 @@ jobs:
         run: python run.py
 
       - name: Persist state
+        if: steps.gate.outputs.post == 'true'
         run: |
           git config user.name "reel-bot"
           git config user.email "bot@users.noreply.github.com"
+          git pull --rebase --autostash || true
           git add state.json
           git diff --cached --quiet || git commit -m "state: run $(date -u +%F_%H%M)"
           git push
-
       - name: Upload reel artifact (backup)
+        if: steps.gate.outputs.post == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: reel-${{ github.run_number }}
