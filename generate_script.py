@@ -54,6 +54,12 @@ TASK: {niche_prompt}
 Angle for this one: {domain}.
 Opening style: {hook_style}.
 
+THE HOOK (first sentence) decides everything - viewers scroll away in under \
+2 seconds. Hook rules: 12 words max. It must either (a) state a specific \
+surprising number/claim, (b) challenge something everyone believes, or \
+(c) open an unfinished story. Never open with "Did you know", a definition, \
+or anything a viewer could predict the rest of.
+
 STYLE RULES (strict):
 - Use contractions everywhere. Vary sentence length: some 3-word punches, some longer.
 - Every claim must be concrete. Never "scientists say" - name who, where, when, how much.
@@ -119,6 +125,8 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
 
     # Second pass: rewrite the script to strip anything that sounds AI-written
     data["script"] = _humanize(data["script"])
+    # Third pass: sharpen the hook (first sentence)
+    data["script"], data["title"] = _sharpen_hook(data["script"], data["title"])
     return data
 
 
@@ -132,6 +140,35 @@ Respond with ONLY the rewritten script text, nothing else.
 
 SCRIPT:
 {script}"""
+
+
+HOOK_PROMPT = """Here's a short-form video script. Its first sentence is the hook. \
+Write a STRONGER first sentence: max 12 words, creates an information gap or \
+contradicts common belief, uses the most surprising specific detail from the \
+script. Also write a matching on-screen title: max 7 words, ALL the intrigue, \
+no clickbait words like SHOCKING.
+
+Respond ONLY with JSON: {{"hook": "...", "title": "..."}}
+
+SCRIPT:
+{script}"""
+
+
+def _sharpen_hook(script: str, title: str) -> tuple[str, str]:
+    try:
+        raw = _llm_text(HOOK_PROMPT.format(script=script)).strip()
+        raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
+        d = json.loads(raw)
+        sentences = re.split(r"(?<=[.!?])\s+", script, maxsplit=1)
+        rest = sentences[1] if len(sentences) > 1 else ""
+        hook = d.get("hook", "").strip()
+        if 0 < len(hook.split()) <= 16 and rest:
+            script = hook + " " + rest
+        if d.get("title"):
+            title = d["title"].strip()
+    except Exception as e:
+        print(f"[hook] skipped ({e})")
+    return script, title
 
 
 def _humanize(script: str) -> str:

@@ -43,7 +43,7 @@ def main():
     os.makedirs(config.OUT_DIR, exist_ok=True)
     stamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     out_path = os.path.join(config.OUT_DIR, f"reel_{niche}_{stamp}.mp4")
-    make_video.make_reel(content["script"], niche, out_path, broll=content.get("broll"))
+    make_video.make_reel(content["script"], niche, out_path, broll=content.get("broll"), title=content["title"])
     size_mb = os.path.getsize(out_path) / 1e6
     print(f"[run] video ready: {out_path} ({size_mb:.1f} MB)")
 

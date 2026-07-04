@@ -159,8 +159,8 @@ def _ass_time(t: float) -> str:
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
-def build_captions(marks: list, workdir: str) -> str:
-    """Word-grouped karaoke-style captions as an .ass subtitle file."""
+def build_captions(marks: list, workdir: str, title: str = "", duration: float = 0) -> str:
+    """Word-grouped karaoke captions + persistent top title as an .ass file."""
     ass = os.path.join(workdir, "subs.ass")
     header = f"""[Script Info]
 PlayResX: {config.VIDEO_W}
@@ -170,11 +170,15 @@ WrapStyle: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, OutlineColour, BackColour, Bold, Outline, Shadow, Alignment, MarginL, MarginR, MarginV
 Style: Cap,Arial,88,&H00FFFFFF,&H00000000,&H80000000,-1,5,0,5,60,60,0
+Style: Title,Arial,64,&H0000E7FF,&H00000000,&H90000000,-1,4,0,8,70,70,140
 
 [Events]
 Format: Layer, Start, End, Style, Text
 """
     lines = []
+    if title and duration:
+        safe_title = re.sub(r"[{}]", "", title).upper()
+        lines.append(f"Dialogue: 1,{_ass_time(0)},{_ass_time(duration)},Title,{safe_title}")
     group, gstart = [], None
     for i, mk in enumerate(marks):
         if gstart is None:
@@ -212,11 +216,12 @@ def assemble(bg: str, voice: str, subs: str, duration: float, out_path: str):
     )
 
 
-def make_reel(script: str, niche: str, out_path: str, broll: list | None = None) -> str:
+def make_reel(script: str, niche: str, out_path: str, broll: list | None = None,
+              title: str = "") -> str:
     with tempfile.TemporaryDirectory() as workdir:
         voice_file, marks = synthesize(script, config.NICHE_VOICES[niche], workdir)
         dur = audio_duration(voice_file)
         bg = build_background(broll, niche, dur, workdir)
-        subs = build_captions(marks, workdir)
+        subs = build_captions(marks, workdir, title=title, duration=min(dur + 0.4, config.MAX_DURATION))
         assemble(bg, voice_file, subs, dur, out_path)
     return out_path
