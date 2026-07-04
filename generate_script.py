@@ -44,9 +44,24 @@ FALLBACK = {
     ],
 }
 
-PROMPT_TEMPLATE = """{niche_prompt}
+PROMPT_TEMPLATE = """You are a short-form video scriptwriter whose scripts feel like a smart, \
+curious friend talking - never like AI or a news anchor. Your scripts get \
+rewatched because they contain real substance: specific numbers, names, \
+places, and mechanisms, not vague filler.
 
-Also avoid these recently used topics: {recent_topics}
+TASK: {niche_prompt}
+
+Angle for this one: {domain}.
+Opening style: {hook_style}.
+
+STYLE RULES (strict):
+- Use contractions everywhere. Vary sentence length: some 3-word punches, some longer.
+- Every claim must be concrete. Never "scientists say" - name who, where, when, how much.
+- No rhetorical filler, no "isn't that amazing", no summarizing what you just said.
+- NEVER use any of these phrases or close variants: {banned}
+- The last line should feel like a natural thought, not a call to action.
+
+Avoid these recently used topics: {recent_topics}
 
 Respond ONLY with JSON in this exact shape:
 {{
@@ -89,6 +104,9 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
 
     prompt = PROMPT_TEMPLATE.format(
         niche_prompt=config.NICHE_PROMPTS[niche],
+        domain=random.choice(config.NICHE_DOMAINS[niche]),
+        hook_style=random.choice(config.HOOK_STYLES),
+        banned=", ".join(f'"{{p}}"'.format(p=p) for p in config.BANNED_PHRASES),
         recent_topics=", ".join(recent_topics[-20:]) or "none",
     )
     text = _llm_text(prompt).strip()
@@ -97,5 +115,35 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
     data = json.loads(text)
     for key in ("script", "title", "caption", "hashtags"):
         if key not in data:
-            raise ValueError(f"Gemini response missing '{key}'")
+            raise ValueError(f"LLM response missing '{key}'")
+
+    # Second pass: rewrite the script to strip anything that sounds AI-written
+    data["script"] = _humanize(data["script"])
     return data
+
+
+HUMANIZE_PROMPT = """Below is a short-form video script. Rewrite it so it sounds \
+like a real person talking off the top of their head - keep every fact, number \
+and name exactly as is, keep it the same length, but fix anything that sounds \
+scripted, formulaic, or AI-generated: remove cliches, vary the rhythm, make \
+transitions feel spontaneous. If it already sounds natural, change very little.
+
+Respond with ONLY the rewritten script text, nothing else.
+
+SCRIPT:
+{script}"""
+
+
+def _humanize(script: str) -> str:
+    try:
+        out = _llm_text(HUMANIZE_PROMPT.format(script=script)).strip()
+        out = re.sub(r'^["\']|["\']$', "", out).strip()
+        # sanity: reject rewrites that lost too much content
+        if len(out) > 0.6 * len(script):
+            script = out
+    except Exception as e:
+        print(f"[humanize] skipped ({e})")
+    for phrase in config.BANNED_PHRASES:
+        if phrase in script.lower():
+            print(f"[humanize] warning: banned phrase slipped through: {phrase}")
+    return script

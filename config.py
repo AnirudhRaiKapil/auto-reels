@@ -34,6 +34,40 @@ NICHE_PROMPTS = {
     ),
 }
 
+# Topic domains rotated randomly per run for variety
+NICHE_DOMAINS = {
+    "facts": ["the deep ocean", "space and astronomy", "ancient history",
+              "the human body", "animal behavior", "physics in daily life",
+              "geography extremes", "food history", "language and words",
+              "weird laws and customs", "engineering marvels", "the brain and memory"],
+    "motivation": ["discipline vs motivation", "starting before you're ready",
+                   "handling failure", "comparison and envy", "consistency over intensity",
+                   "doing hard things alone", "patience with slow progress",
+                   "quitting bad habits", "fear of judgment", "tiny daily wins"],
+    "ai_news": ["how AI models actually work", "AI in medicine", "AI and jobs",
+                "robots and automation", "AI in your phone", "the cost of training AI",
+                "AI mistakes and limits", "open source AI", "AI and creativity",
+                "how recommendation algorithms shape you"],
+}
+
+# Hook styles rotated randomly so openings don't feel same-y
+HOOK_STYLES = [
+    "start with a startling specific number or statistic",
+    "start with a short vivid scene, like the first line of a story",
+    "start with a direct question to the viewer",
+    "start with a confident claim most people would disagree with",
+    "start mid-action, as if continuing a conversation",
+]
+
+# Phrases that make scripts sound AI-written. Never allow these.
+BANNED_PHRASES = [
+    "dive into", "delve", "game-changer", "here's the kicker", "let that sink in",
+    "mind-blowing", "in today's world", "in this day and age", "buckle up",
+    "get this", "believe it or not", "little did they know", "fun fact",
+    "but wait", "plot twist", "the crazy part", "and the best part",
+    "revolutionize", "unleash", "harness the power", "topic of", "world of",
+]
+
 # Voice per niche (edge-tts voices, all free)
 NICHE_VOICES = {
     "facts": "en-US-AndrewMultilingualNeural",
