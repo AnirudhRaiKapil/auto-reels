@@ -57,15 +57,18 @@ Respond ONLY with JSON in this exact shape:
 }}"""
 
 
-def generate(niche: str, recent_topics: list[str]) -> dict:
-    if not config.GEMINI_API_KEY:
-        item = random.choice(FALLBACK[niche])
-        return {
-            "script": item["script"],
-            "title": item["title"],
-            "caption": item["title"],
-            "hashtags": ["#shorts", "#reels", "#" + niche.replace("_", "")],
-        }
+def _llm_text(prompt: str) -> str:
+    """Call Claude if ANTHROPIC_API_KEY is set, otherwise Gemini."""
+    if config.ANTHROPIC_API_KEY:
+        import anthropic
+
+        client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)
+        msg = client.messages.create(
+            model=config.ANTHROPIC_MODEL,
+            max_tokens=1024,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return msg.content[0].text
 
     from google import genai
 
@@ -74,12 +77,25 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
         client = genai.Client(vertexai=True, api_key=config.GEMINI_API_KEY)
     else:
         client = genai.Client(api_key=config.GEMINI_API_KEY)
+    resp = client.models.generate_content(model=config.GEMINI_MODEL, contents=prompt)
+    return resp.text
+
+
+def generate(niche: str, recent_topics: list[str]) -> dict:
+    if not (config.GEMINI_API_KEY or config.ANTHROPIC_API_KEY):
+        item = random.choice(FALLBACK[niche])
+        return {
+            "script": item["script"],
+            "title": item["title"],
+            "caption": item["title"],
+            "hashtags": ["#shorts", "#reels", "#" + niche.replace("_", "")],
+        }
+
     prompt = PROMPT_TEMPLATE.format(
         niche_prompt=config.NICHE_PROMPTS[niche],
         recent_topics=", ".join(recent_topics[-20:]) or "none",
     )
-    resp = client.models.generate_content(model=config.GEMINI_MODEL, contents=prompt)
-    text = resp.text.strip()
+    text = _llm_text(prompt).strip()
     # Strip markdown fences if present
     text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
     data = json.loads(text)

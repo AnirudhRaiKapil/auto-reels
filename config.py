@@ -41,6 +41,8 @@ NICHE_FOOTAGE = {
 VIDEO_W, VIDEO_H = 1080, 1920  # 9:16
 MAX_DURATION = 60              # seconds, Shorts/Reels safe
 
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.0-flash"  # free-tier friendly
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "")
