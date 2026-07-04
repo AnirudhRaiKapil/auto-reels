@@ -67,15 +67,18 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
             "hashtags": ["#shorts", "#reels", "#" + niche.replace("_", "")],
         }
 
-    import google.generativeai as genai
+    from google import genai
 
-    genai.configure(api_key=config.GEMINI_API_KEY)
-    model = genai.GenerativeModel(config.GEMINI_MODEL)
+    # Supports both key types: AIzaSy... (AI Studio) and AQ.... (Vertex express)
+    if config.GEMINI_API_KEY.startswith("AQ."):
+        client = genai.Client(vertexai=True, api_key=config.GEMINI_API_KEY)
+    else:
+        client = genai.Client(api_key=config.GEMINI_API_KEY)
     prompt = PROMPT_TEMPLATE.format(
         niche_prompt=config.NICHE_PROMPTS[niche],
         recent_topics=", ".join(recent_topics[-20:]) or "none",
     )
-    resp = model.generate_content(prompt)
+    resp = client.models.generate_content(model=config.GEMINI_MODEL, contents=prompt)
     text = resp.text.strip()
     # Strip markdown fences if present
     text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
