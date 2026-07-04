@@ -57,11 +57,23 @@ def main():
         caption = (content["caption"] + "\n\n" + content["script"]
                    + "\n\n" + " ".join(content["hashtags"][:30]))[:2150]
         errors = []
-        if config.IG_USER_ID and config.IG_ACCESS_TOKEN:
+        video_url = None
+        if (config.IG_USER_ID and config.IG_ACCESS_TOKEN) or \
+           (config.FB_PAGE_ID and config.FB_PAGE_TOKEN):
             try:
-                results["instagram"] = publish.publish_instagram(out_path, caption)
+                video_url = publish.host_video(out_path)
+            except Exception as e:
+                errors.append(f"hosting: {e}")
+        if video_url and config.IG_USER_ID and config.IG_ACCESS_TOKEN:
+            try:
+                results["instagram"] = publish.publish_instagram(video_url, caption)
             except Exception as e:
                 errors.append(f"instagram: {e}")
+        if video_url and config.FB_PAGE_ID and config.FB_PAGE_TOKEN:
+            try:
+                results["facebook"] = publish.publish_facebook(video_url, caption)
+            except Exception as e:
+                errors.append(f"facebook: {e}")
         if os.path.exists(os.path.join(os.path.dirname(__file__), "token.json")):
             try:
                 results["youtube"] = publish.publish_youtube(

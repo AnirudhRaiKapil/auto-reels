@@ -77,8 +77,7 @@ def host_video(path: str) -> str:
 
 
 # ------------------------------------------------------------ Instagram
-def publish_instagram(video_path: str, caption: str) -> str:
-    video_url = host_video(video_path)
+def publish_instagram(video_url: str, caption: str) -> str:
     r = requests.post(
         f"{GRAPH}/{config.IG_USER_ID}/media",
         data={
@@ -118,6 +117,24 @@ def publish_instagram(video_path: str, caption: str) -> str:
     media_id = r.json()["id"]
     print(f"[instagram] published media {media_id}")
     return media_id
+
+
+# ------------------------------------------------------------- Facebook
+def publish_facebook(video_url: str, description: str) -> str:
+    """Post the reel video to a Facebook Page."""
+    r = requests.post(
+        f"https://graph.facebook.com/v21.0/{config.FB_PAGE_ID}/videos",
+        data={
+            "file_url": video_url,
+            "description": description,
+            "access_token": config.FB_PAGE_TOKEN,
+        },
+        timeout=300,
+    )
+    r.raise_for_status()
+    vid = r.json()["id"]
+    print(f"[facebook] published video {vid}")
+    return vid
 
 
 # ------------------------------------------------------------- YouTube

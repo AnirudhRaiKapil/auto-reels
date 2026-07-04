@@ -92,6 +92,8 @@ MAX_DURATION = 60              # seconds, Shorts/Reels safe
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = "llama-3.3-70b-versatile"
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "")
+FB_PAGE_ID = os.getenv("FB_PAGE_ID", "")
+FB_PAGE_TOKEN = os.getenv("FB_PAGE_TOKEN", "")
 IG_USER_ID = os.getenv("IG_USER_ID", "")
 IG_ACCESS_TOKEN = os.getenv("IG_ACCESS_TOKEN", "")
 
