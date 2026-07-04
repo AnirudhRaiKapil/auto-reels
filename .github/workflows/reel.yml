@@ -1,0 +1,60 @@
+name: Publish reel
+
+on:
+  schedule:
+    # 4x/day (UTC): 03:30, 08:30, 12:30, 16:30 = 9am, 2pm, 6pm, 10pm IST
+    - cron: "30 3,8,12,16 * * *"
+  workflow_dispatch: {}   # manual trigger button
+
+permissions:
+  contents: write   # to commit state.json back
+
+concurrency:
+  group: reel-pipeline
+  cancel-in-progress: false
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Restore YouTube token
+        if: env.YT_TOKEN_JSON != ''
+        env:
+          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+        run: echo "$YT_TOKEN_JSON" > token.json
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python run.py
+
+      - name: Persist state
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "state: run $(date -u +%F_%H%M)"
+          git push
+
+      - name: Upload reel artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ github.run_number }}
+          path: output/*.mp4
+          retention-days: 7
