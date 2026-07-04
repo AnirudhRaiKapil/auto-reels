@@ -124,16 +124,27 @@ def build_background(broll: list, niche: str, duration: float, workdir: str) -> 
         _gradient_clip(dest, duration)
         return dest
 
-    # Normalize each clip to an equal segment length, then concat
-    seg = duration / len(clips) + 0.2
+    # Fast cuts: ~3.5s per segment, cycling clips, alternating slow zoom
+    SEG_LEN = 3.5
+    n_segs = max(2, int(duration / SEG_LEN) + 1)
+    seg = duration / n_segs + 0.2
     seg_files = []
-    for i, clip in enumerate(clips):
+    for i in range(n_segs):
+        clip = clips[i % len(clips)]
         seg_path = os.path.join(workdir, f"seg{i}.mp4")
+        frames = int(seg * 30) + 1
+        if i % 2 == 0:  # zoom in
+            zexpr = "min(1+0.0010*on,1.13)"
+        else:           # zoom out
+            zexpr = "max(1.13-0.0010*on,1.0)"
         subprocess.run(
             ["ffmpeg", "-y", "-stream_loop", "-1", "-i", clip, "-t", f"{seg:.2f}",
              "-vf",
              f"scale={config.VIDEO_W}:{config.VIDEO_H}:force_original_aspect_ratio=increase,"
-             f"crop={config.VIDEO_W}:{config.VIDEO_H},setsar=1,fps=30",
+             f"crop={config.VIDEO_W}:{config.VIDEO_H},setsar=1,fps=30,"
+             f"zoompan=z='{zexpr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+             f":d=1:s={config.VIDEO_W}x{config.VIDEO_H}:fps=30",
+             "-frames:v", str(frames),
              "-c:v", "libx264", "-preset", "fast", "-crf", "23",
              "-pix_fmt", "yuv420p", "-an", seg_path],
             check=True, capture_output=True,
@@ -179,17 +190,20 @@ Format: Layer, Start, End, Style, Text
     if title and duration:
         safe_title = re.sub(r"[{}]", "", title).upper()
         lines.append(f"Dialogue: 1,{_ass_time(0)},{_ass_time(duration)},Title,{safe_title}")
+    POP = r"{\fscx70\fscy70\t(0,70,\fscx100\fscy100)}"
+    HL_ON, HL_OFF = r"{\1c&H00E7FF&}", r"{\1c&HFFFFFF&}"
     group, gstart = [], None
     for i, mk in enumerate(marks):
         if gstart is None:
             gstart = mk["start"]
         group.append(mk["word"])
-        end_of_group = len(group) >= 3 or i == len(marks) - 1
+        end_of_group = len(group) >= 2 or i == len(marks) - 1
         if end_of_group:
             gend = mk["end"] + 0.05
-            text = " ".join(group).upper()
-            text = re.sub(r"[{}]", "", text)
-            lines.append(f"Dialogue: 0,{_ass_time(gstart)},{_ass_time(gend)},Cap,{text}")
+            words = [re.sub(r"[{}]", "", w).upper() for w in group]
+            key = max(range(len(words)), key=lambda k: len(words[k]))
+            words[key] = HL_ON + words[key] + HL_OFF
+            lines.append(f"Dialogue: 0,{_ass_time(gstart)},{_ass_time(gend)},Cap,{POP}{' '.join(words)}")
             group, gstart = [], None
     with open(ass, "w", encoding="utf-8") as f:
         f.write(header + "\n".join(lines))
@@ -209,6 +223,7 @@ def assemble(bg: str, voice: str, subs: str, duration: float, out_path: str):
          "-vf", vf,
          "-map", "0:v", "-map", "1:a",
          "-c:v", "libx264", "-preset", "fast", "-crf", "23",
+         "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",
          "-c:a", "aac", "-b:a", "128k",
          "-pix_fmt", "yuv420p", "-r", "30", "-shortest",
          out_path],
