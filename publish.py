@@ -6,7 +6,15 @@ import requests
 
 import config
 
-GRAPH = "https://graph.facebook.com/v21.0"
+def _graph_base():
+    """Instagram Login tokens (IGAA...) use graph.instagram.com;
+    Facebook Login tokens (EAA...) use graph.facebook.com."""
+    import config as _c
+    if _c.IG_ACCESS_TOKEN.startswith("IGAA"):
+        return "https://graph.instagram.com/v21.0"
+    return "https://graph.facebook.com/v21.0"
+
+GRAPH = _graph_base()
 
 
 # ------------------------------------------------------------ File host
