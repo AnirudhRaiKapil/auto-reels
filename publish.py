@@ -18,21 +18,62 @@ GRAPH = _graph_base()
 
 
 # ------------------------------------------------------------ File host
-def host_video(path: str) -> str:
-    """Instagram's API requires a public video URL. Uses catbox.moe (free).
-    Swap for S3/R2/your own host if you outgrow it."""
+def _host_github_release(path: str) -> str:
+    """Upload the video as a release asset on this repo (public, free, reliable)."""
+    token = os.environ["GITHUB_TOKEN"]
+    repo = os.environ["GITHUB_REPOSITORY"]
+    api = f"https://api.github.com/repos/{repo}"
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
+
+    tag = "media-" + time.strftime("%Y%m%d-%H%M%S")
+    r = requests.post(f"{api}/releases", headers=headers,
+                      json={"tag_name": tag, "name": tag, "prerelease": True}, timeout=60)
+    r.raise_for_status()
+    rel = r.json()
+    upload_url = rel["upload_url"].split("{")[0]
     with open(path, "rb") as f:
         r = requests.post(
-            "https://catbox.moe/user/api.php",
-            data={"reqtype": "fileupload"},
-            files={"fileToUpload": f},
-            timeout=300,
+            f"{upload_url}?name=reel.mp4",
+            headers={**headers, "Content-Type": "video/mp4"},
+            data=f, timeout=600,
         )
     r.raise_for_status()
-    url = r.text.strip()
-    if not url.startswith("http"):
-        raise RuntimeError(f"catbox upload failed: {url}")
+    url = r.json()["browser_download_url"]
+
+    # Housekeeping: keep only the 12 newest media releases
+    try:
+        rels = requests.get(f"{api}/releases?per_page=100", headers=headers, timeout=60).json()
+        media = [x for x in rels if x["tag_name"].startswith("media-")]
+        for old in media[12:]:
+            requests.delete(f"{api}/releases/{old['id']}", headers=headers, timeout=30)
+            requests.delete(f"{api}/git/refs/tags/{old['tag_name']}", headers=headers, timeout=30)
+    except Exception:
+        pass
     return url
+
+
+def _host_tmpfiles(path: str) -> str:
+    with open(path, "rb") as f:
+        r = requests.post("https://tmpfiles.org/api/v1/upload", files={"file": f}, timeout=300)
+    r.raise_for_status()
+    url = r.json()["data"]["url"]
+    return url.replace("tmpfiles.org/", "tmpfiles.org/dl/")
+
+
+def host_video(path: str) -> str:
+    """Instagram's API requires a public video URL. Tries GitHub release
+    assets first (works from Actions), then tmpfiles.org."""
+    errors = []
+    if os.getenv("GITHUB_TOKEN") and os.getenv("GITHUB_REPOSITORY"):
+        try:
+            return _host_github_release(path)
+        except Exception as e:
+            errors.append(f"github: {e}")
+    try:
+        return _host_tmpfiles(path)
+    except Exception as e:
+        errors.append(f"tmpfiles: {e}")
+    raise RuntimeError("all video hosts failed: " + "; ".join(errors))
 
 
 # ------------------------------------------------------------ Instagram
