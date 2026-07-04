@@ -10,6 +10,7 @@ import json
 import os
 import sys
 
+import analytics
 import config
 import generate_script
 import make_video
@@ -34,7 +35,9 @@ def main():
     args = parser.parse_args()
 
     state = load_state()
-    niche = args.niche or config.NICHES[state["run_count"] % len(config.NICHES)]
+    if not args.dry_run:
+        analytics.refresh(state)
+    niche = args.niche or analytics.pick_niche(state, state["run_count"])
     print(f"[run] #{state['run_count'] + 1} niche={niche}")
 
     content = generate_script.generate(niche, state["recent_topics"])
