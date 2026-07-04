@@ -1,13 +1,20 @@
 {
-  "run_count": 1,
+  "run_count": 2,
   "recent_topics": [
-    "Glacier Secrets"
+    "Glacier Secrets",
+    "Start Small"
   ],
   "history": [
     {
       "time": "20260704_095401",
       "niche": "facts",
       "title": "Glacier Secrets"
+    },
+    {
+      "time": "20260704_100050",
+      "niche": "motivation",
+      "title": "Start Small",
+      "instagram": "18091485581069560"
     }
   ]
 }
