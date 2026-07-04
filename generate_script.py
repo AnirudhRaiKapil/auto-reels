@@ -53,7 +53,8 @@ Respond ONLY with JSON in this exact shape:
   "script": "the spoken script",
   "title": "a click-worthy title under 90 characters",
   "caption": "an Instagram caption, 1-2 sentences",
-  "hashtags": ["#tag1", "#tag2", "... 10 relevant hashtags"]
+  "hashtags": ["#tag1", "#tag2", "... 10 relevant hashtags"],
+  "broll": ["4 to 6 short stock-footage search phrases, in script order, each literally showing what that part of the script talks about, e.g. 'glacier collapsing ocean' or 'person running sunrise street'"]
 }}"""
 
 
@@ -83,6 +84,7 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
             "title": item["title"],
             "caption": item["title"],
             "hashtags": ["#shorts", "#reels", "#" + niche.replace("_", "")],
+            "broll": [],
         }
 
     prompt = PROMPT_TEMPLATE.format(

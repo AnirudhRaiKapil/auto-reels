@@ -6,29 +6,39 @@ NICHES = ["facts", "motivation", "ai_news"]
 
 NICHE_PROMPTS = {
     "facts": (
-        "Write a script for a 30-second vertical video about ONE surprising, "
+        "Write a script for a 40-45 second vertical video about ONE surprising, "
         "verifiable fact (science, history, geography, or the human body). "
-        "Hook the viewer in the first sentence. 60-80 words, spoken style, "
-        "no emojis, no hashtags in the script."
+        "Hook the viewer in the first sentence with a bold claim or question. "
+        "Include at least three concrete specifics: real numbers, named places, "
+        "people, or dates. Explain the WHY behind the fact, not just the what. "
+        "End with one line that makes the viewer want to share it. "
+        "100-125 words. Write like a person talking to a friend: contractions, "
+        "short punchy sentences mixed with longer ones. No emojis, no hashtags."
     ),
     "motivation": (
-        "Write a 30-second motivational monologue for a vertical video. "
-        "Direct, second-person, punchy short sentences. One core idea "
-        "(discipline, consistency, starting small, etc.). 60-80 words. "
-        "No emojis, no quotes attributed to real people."
+        "Write a 40-45 second motivational monologue for a vertical video. "
+        "Direct, second-person. One core idea (discipline, consistency, "
+        "starting small, handling failure, etc.) explored with a concrete "
+        "mini-story or vivid example the viewer can picture - a specific "
+        "morning, a specific choice, a specific moment of wanting to quit. "
+        "100-125 words. Contractions, natural rhythm, no cliches like "
+        "'unleash your potential'. No emojis, no quotes from real people."
     ),
     "ai_news": (
-        "Write a 30-second script explaining ONE interesting recent development "
-        "or evergreen concept in AI/technology in simple terms for a general "
-        "audience. Hook first, then explain why it matters. 60-80 words."
+        "Write a 40-45 second script explaining ONE interesting concept or "
+        "development in AI/technology for a general audience. Hook first. "
+        "Use one concrete analogy from everyday life, and at least two real "
+        "specifics (numbers, company/product names, dates). Explain why it "
+        "matters to the viewer personally by the end. 100-125 words. "
+        "Conversational, contractions, no jargon without explaining it."
     ),
 }
 
 # Voice per niche (edge-tts voices, all free)
 NICHE_VOICES = {
-    "facts": "en-US-ChristopherNeural",
-    "motivation": "en-US-GuyNeural",
-    "ai_news": "en-US-AriaNeural",
+    "facts": "en-US-AndrewMultilingualNeural",
+    "motivation": "en-US-BrianMultilingualNeural",
+    "ai_news": "en-US-EmmaMultilingualNeural",
 }
 
 # Pexels search terms per niche for background footage

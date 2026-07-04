@@ -1,8 +1,7 @@
 """Turn a script into a finished 9:16 reel.
 
-Steps: edge-tts voiceover (with word timings) -> Pexels background clip
-(or animated gradient fallback) -> FFmpeg assembly with burned-in captions.
-Only dependency beyond pip packages is ffmpeg.
+edge-tts voiceover (word timings) -> scene-matched Pexels b-roll that cuts
+every few seconds following the script -> FFmpeg assembly with karaoke captions.
 """
 import asyncio
 import json
@@ -21,7 +20,7 @@ import config
 async def _tts(script: str, voice: str, mp3_path: str, marks_path: str):
     import edge_tts
 
-    communicate = edge_tts.Communicate(script, voice, rate="+8%")
+    communicate = edge_tts.Communicate(script, voice, rate="+4%")
     marks = []
     with open(mp3_path, "wb") as f:
         async for chunk in communicate.stream():
@@ -56,40 +55,41 @@ def audio_duration(path: str) -> float:
     return float(out.strip())
 
 
-# ------------------------------------------------------- Background video
-def fetch_background(niche: str, duration: float, workdir: str) -> str:
-    """Download a portrait clip from Pexels; fall back to a generated gradient."""
-    dest = os.path.join(workdir, "bg.mp4")
-    if config.PEXELS_API_KEY:
-        try:
-            query = random.choice(config.NICHE_FOOTAGE[niche])
-            r = requests.get(
-                "https://api.pexels.com/videos/search",
-                headers={"Authorization": config.PEXELS_API_KEY},
-                params={"query": query, "orientation": "portrait", "per_page": 15},
-                timeout=30,
-            )
-            r.raise_for_status()
-            videos = r.json().get("videos", [])
-            random.shuffle(videos)
-            for v in videos:
-                files = [
-                    f for f in v.get("video_files", [])
-                    if f.get("height", 0) >= 1280 and f.get("width", 0) < f.get("height", 0)
-                ]
-                if not files:
-                    continue
-                url = sorted(files, key=lambda f: f["height"])[0]["link"]
-                with requests.get(url, stream=True, timeout=120) as resp:
-                    resp.raise_for_status()
-                    with open(dest, "wb") as fh:
-                        for chunk in resp.iter_content(1 << 20):
-                            fh.write(chunk)
-                return dest
-        except Exception as e:
-            print(f"[bg] Pexels failed ({e}); using gradient fallback")
+# ------------------------------------------------------- Background b-roll
+def _download_pexels_clip(query: str, dest: str, used_ids: set) -> bool:
+    try:
+        r = requests.get(
+            "https://api.pexels.com/videos/search",
+            headers={"Authorization": config.PEXELS_API_KEY},
+            params={"query": query, "orientation": "portrait", "per_page": 12},
+            timeout=30,
+        )
+        r.raise_for_status()
+        videos = r.json().get("videos", [])
+        random.shuffle(videos)
+        for v in videos:
+            if v["id"] in used_ids:
+                continue
+            files = [
+                f for f in v.get("video_files", [])
+                if f.get("height", 0) >= 1280 and f.get("width", 0) < f.get("height", 0)
+            ]
+            if not files:
+                continue
+            url = sorted(files, key=lambda f: f["height"])[0]["link"]
+            with requests.get(url, stream=True, timeout=120) as resp:
+                resp.raise_for_status()
+                with open(dest, "wb") as fh:
+                    for chunk in resp.iter_content(1 << 20):
+                        fh.write(chunk)
+            used_ids.add(v["id"])
+            return True
+    except Exception as e:
+        print(f"[bg] pexels '{query}' failed: {e}")
+    return False
 
-    # Fallback: animated dark gradient, always works offline
+
+def _gradient_clip(dest: str, duration: float):
     subprocess.run(
         ["ffmpeg", "-y", "-f", "lavfi",
          "-i",
@@ -98,7 +98,59 @@ def fetch_background(niche: str, duration: float, workdir: str) -> str:
          "-c:v", "libx264", "-pix_fmt", "yuv420p", "-r", "30", dest],
         check=True, capture_output=True,
     )
-    return dest
+
+
+def build_background(broll: list, niche: str, duration: float, workdir: str) -> str:
+    """Build one background track that cuts between clips matching the script.
+
+    broll: ordered list of search phrases from the LLM describing what is
+    being said in each part of the script.
+    """
+    queries = list(broll or [])
+    if not queries:
+        queries = random.sample(config.NICHE_FOOTAGE[niche],
+                                k=min(4, len(config.NICHE_FOOTAGE[niche])))
+
+    clips, used = [], set()
+    if config.PEXELS_API_KEY:
+        for i, q in enumerate(queries):
+            dest = os.path.join(workdir, f"clip{i}.mp4")
+            if _download_pexels_clip(q, dest, used) or \
+               _download_pexels_clip(random.choice(config.NICHE_FOOTAGE[niche]), dest, used):
+                clips.append(dest)
+
+    if not clips:
+        dest = os.path.join(workdir, "bg.mp4")
+        _gradient_clip(dest, duration)
+        return dest
+
+    # Normalize each clip to an equal segment length, then concat
+    seg = duration / len(clips) + 0.2
+    seg_files = []
+    for i, clip in enumerate(clips):
+        seg_path = os.path.join(workdir, f"seg{i}.mp4")
+        subprocess.run(
+            ["ffmpeg", "-y", "-stream_loop", "-1", "-i", clip, "-t", f"{seg:.2f}",
+             "-vf",
+             f"scale={config.VIDEO_W}:{config.VIDEO_H}:force_original_aspect_ratio=increase,"
+             f"crop={config.VIDEO_W}:{config.VIDEO_H},setsar=1,fps=30",
+             "-c:v", "libx264", "-preset", "fast", "-crf", "23",
+             "-pix_fmt", "yuv420p", "-an", seg_path],
+            check=True, capture_output=True,
+        )
+        seg_files.append(seg_path)
+
+    lst = os.path.join(workdir, "concat.txt")
+    with open(lst, "w") as f:
+        for s in seg_files:
+            f.write(f"file '{s}'\n")
+    bg = os.path.join(workdir, "bg.mp4")
+    subprocess.run(
+        ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst,
+         "-c", "copy", bg],
+        check=True, capture_output=True,
+    )
+    return bg
 
 
 # ------------------------------------------------------------- Captions
@@ -144,11 +196,7 @@ Format: Layer, Start, End, Style, Text
 def assemble(bg: str, voice: str, subs: str, duration: float, out_path: str):
     dur = min(duration + 0.4, config.MAX_DURATION)
     subs_escaped = subs.replace("\\", "/").replace(":", "\\:")
-    vf = (
-        f"scale={config.VIDEO_W}:{config.VIDEO_H}:force_original_aspect_ratio=increase,"
-        f"crop={config.VIDEO_W}:{config.VIDEO_H},setsar=1,"
-        f"eq=brightness=-0.08,ass='{subs_escaped}'"
-    )
+    vf = f"eq=brightness=-0.08,ass='{subs_escaped}'"
     subprocess.run(
         ["ffmpeg", "-y",
          "-stream_loop", "-1", "-i", bg,
@@ -164,11 +212,11 @@ def assemble(bg: str, voice: str, subs: str, duration: float, out_path: str):
     )
 
 
-def make_reel(script: str, niche: str, out_path: str) -> str:
+def make_reel(script: str, niche: str, out_path: str, broll: list | None = None) -> str:
     with tempfile.TemporaryDirectory() as workdir:
         voice_file, marks = synthesize(script, config.NICHE_VOICES[niche], workdir)
         dur = audio_duration(voice_file)
-        bg = fetch_background(niche, dur, workdir)
+        bg = build_background(broll, niche, dur, workdir)
         subs = build_captions(marks, workdir)
         assemble(bg, voice_file, subs, dur, out_path)
     return out_path
