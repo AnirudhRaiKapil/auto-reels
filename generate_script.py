@@ -135,7 +135,7 @@ def _make_hashtags(title: str, script: str, niche: str, fallback: list) -> list:
             trends=", ".join(_trending_terms()) or "none available",
         )).strip()
         raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
-        tags = json.loads(raw)["hashtags"]
+        tags = json.loads(raw, strict=False)["hashtags"]
         tags = [t if t.startswith("#") else "#" + t for t in tags]
         tags = list(dict.fromkeys(t.lower().replace(" ", "") for t in tags))
         if len(tags) >= 10:
@@ -145,7 +145,29 @@ def _make_hashtags(title: str, script: str, niche: str, fallback: list) -> list:
     return fallback
 
 
+def _fallback_content(niche: str) -> dict:
+    item = random.choice(FALLBACK[niche])
+    return {
+        "script": item["script"],
+        "title": item["title"],
+        "caption": item["title"],
+        "hashtags": ["#shorts", "#reels", "#" + niche.replace("_", "")],
+        "broll": [],
+    }
+
+
 def generate(niche: str, recent_topics: list[str]) -> dict:
+    """Generate content; retries once on LLM/parse errors, then falls back."""
+    for attempt in (1, 2):
+        try:
+            return _generate_llm(niche, recent_topics)
+        except Exception as e:
+            print(f"[generate] attempt {attempt} failed: {e}")
+    print("[generate] using offline fallback content")
+    return _fallback_content(niche)
+
+
+def _generate_llm(niche: str, recent_topics: list[str]) -> dict:
     if not config.GROQ_API_KEY:
         item = random.choice(FALLBACK[niche])
         return {
@@ -166,7 +188,7 @@ def generate(niche: str, recent_topics: list[str]) -> dict:
     text = _llm_text(prompt).strip()
     # Strip markdown fences if present
     text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
-    data = json.loads(text)
+    data = json.loads(text, strict=False)
     for key in ("script", "title", "caption", "hashtags"):
         if key not in data:
             raise ValueError(f"LLM response missing '{key}'")
@@ -209,7 +231,7 @@ def _sharpen_hook(script: str, title: str) -> tuple[str, str]:
     try:
         raw = _llm_text(HOOK_PROMPT.format(script=script)).strip()
         raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
-        d = json.loads(raw)
+        d = json.loads(raw, strict=False)
         sentences = re.split(r"(?<=[.!?])\s+", script, maxsplit=1)
         rest = sentences[1] if len(sentences) > 1 else ""
         hook = d.get("hook", "").strip()
