@@ -1,5 +1,5 @@
 {
-  "run_count": 7,
+  "run_count": 8,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -7,7 +7,8 @@
     "Brain Limit Found",
     "Progress Isn't Always Obvious",
     "AI Goes Open Source",
-    "Memory Limit Found"
+    "Memory Limit Found",
+    "Witchcraft Laws Still Exist"
   ],
   "history": [
     {
@@ -27,7 +28,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_135313"
+      "metrics_at": "20260705_151723"
     },
     {
       "time": "20260704_101811",
@@ -41,7 +42,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_135313"
+      "metrics_at": "20260705_151723"
     },
     {
       "time": "20260704_102554",
@@ -55,7 +56,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260705_135313"
+      "metrics_at": "20260705_151723"
     },
     {
       "time": "20260705_081815",
@@ -63,13 +64,13 @@
       "title": "Progress Isn't Always Obvious",
       "instagram": "18093675413040707",
       "metrics": {
-        "views": 135,
+        "views": 145,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_135313"
+      "metrics_at": "20260705_151723"
     },
     {
       "time": "20260705_114605",
@@ -77,19 +78,33 @@
       "title": "AI Goes Open Source",
       "instagram": "17878693728674095",
       "metrics": {
-        "views": 2,
-        "likes": 0,
+        "views": 33,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_135313"
+      "metrics_at": "20260705_151723"
     },
     {
       "time": "20260705_135318",
       "niche": "facts",
       "title": "Memory Limit Found",
-      "instagram": "18017011319856905"
+      "instagram": "18017011319856905",
+      "metrics": {
+        "views": 25,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260705_151723"
+    },
+    {
+      "time": "20260705_151729",
+      "niche": "facts",
+      "title": "Witchcraft Laws Still Exist",
+      "instagram": "17971117965118240"
     }
   ]
 }
