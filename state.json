@@ -1,10 +1,11 @@
 {
-  "run_count": 4,
+  "run_count": 5,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
     "AI Learns Fast",
-    "Brain Limit Found"
+    "Brain Limit Found",
+    "Progress Isn't Always Obvious"
   ],
   "history": [
     {
@@ -16,19 +17,49 @@
       "time": "20260704_100050",
       "niche": "motivation",
       "title": "Start Small",
-      "instagram": "18091485581069560"
+      "instagram": "18091485581069560",
+      "metrics": {
+        "views": 11,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260705_081810"
     },
     {
       "time": "20260704_101811",
       "niche": "ai_news",
       "title": "AI Learns Fast",
-      "instagram": "18012079331869114"
+      "instagram": "18012079331869114",
+      "metrics": {
+        "views": 116,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260705_081810"
     },
     {
       "time": "20260704_102554",
       "niche": "facts",
       "title": "Brain Limit Found",
-      "instagram": "17992880547004419"
+      "instagram": "17992880547004419",
+      "metrics": {
+        "views": 29,
+        "likes": 1,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0
+      },
+      "metrics_at": "20260705_081810"
+    },
+    {
+      "time": "20260705_081815",
+      "niche": "motivation",
+      "title": "Progress Isn't Always Obvious",
+      "instagram": "18093675413040707"
     }
   ]
 }
