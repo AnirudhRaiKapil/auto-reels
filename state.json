@@ -1,11 +1,12 @@
 {
-  "run_count": 5,
+  "run_count": 6,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
     "AI Learns Fast",
     "Brain Limit Found",
-    "Progress Isn't Always Obvious"
+    "Progress Isn't Always Obvious",
+    "AI Goes Open Source"
   ],
   "history": [
     {
@@ -19,13 +20,13 @@
       "title": "Start Small",
       "instagram": "18091485581069560",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_081810"
+      "metrics_at": "20260705_114600"
     },
     {
       "time": "20260704_101811",
@@ -39,7 +40,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260705_081810"
+      "metrics_at": "20260705_114600"
     },
     {
       "time": "20260704_102554",
@@ -47,19 +48,33 @@
       "title": "Brain Limit Found",
       "instagram": "17992880547004419",
       "metrics": {
-        "views": 29,
+        "views": 36,
         "likes": 1,
         "comments": 0,
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260705_081810"
+      "metrics_at": "20260705_114600"
     },
     {
       "time": "20260705_081815",
       "niche": "motivation",
       "title": "Progress Isn't Always Obvious",
-      "instagram": "18093675413040707"
+      "instagram": "18093675413040707",
+      "metrics": {
+        "views": 117,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260705_114600"
+    },
+    {
+      "time": "20260705_114605",
+      "niche": "ai_news",
+      "title": "AI Goes Open Source",
+      "instagram": "17878693728674095"
     }
   ]
 }
