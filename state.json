@@ -1,5 +1,5 @@
 {
-  "run_count": 11,
+  "run_count": 12,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -11,7 +11,8 @@
     "Witchcraft Laws Still Exist",
     "Ocean's Deep Secrets",
     "Automation by 2030",
-    "Stars Born Daily"
+    "Stars Born Daily",
+    "Fear Less"
   ],
   "history": [
     {
@@ -31,7 +32,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260704_101811",
@@ -45,7 +46,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260704_102554",
@@ -59,7 +60,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260705_081815",
@@ -73,7 +74,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260705_114605",
@@ -87,7 +88,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260705_135318",
@@ -101,7 +102,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260705_151729",
@@ -115,7 +116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260705_172512",
@@ -129,7 +130,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260706_072332",
@@ -143,12 +144,18 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260706_162958"
+      "metrics_at": "20260706_191912"
     },
     {
       "time": "20260706_163007",
       "niche": "facts",
       "title": "Stars Born Daily"
+    },
+    {
+      "time": "20260706_191918",
+      "niche": "motivation",
+      "title": "Fear Less",
+      "instagram": "18107460230319608"
     }
   ]
 }
