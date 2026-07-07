@@ -1,5 +1,5 @@
 {
-  "run_count": 15,
+  "run_count": 16,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -15,7 +15,8 @@
     "Fear Less",
     "Underwater Mountain Ranges Exist",
     "Earth's Extreme Temperature Town",
-    "Andes Food Origins"
+    "Andes Food Origins",
+    "Language of Direction"
   ],
   "history": [
     {
@@ -35,7 +36,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260704_101811",
@@ -49,7 +50,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260704_102554",
@@ -63,7 +64,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260705_081815",
@@ -77,7 +78,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260705_114605",
@@ -91,7 +92,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260705_135318",
@@ -105,7 +106,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260705_151729",
@@ -119,7 +120,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260705_172512",
@@ -133,7 +134,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260706_072332",
@@ -147,7 +148,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260706_163007",
@@ -160,13 +161,13 @@
       "title": "Fear Less",
       "instagram": "18107460230319608",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260707_103616",
@@ -174,13 +175,13 @@
       "title": "Underwater Mountain Ranges Exist",
       "instagram": "18128566168630615",
       "metrics": {
-        "views": 62,
+        "views": 69,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260707_134200",
@@ -188,19 +189,33 @@
       "title": "Earth's Extreme Temperature Town",
       "instagram": "17899199445527704",
       "metrics": {
-        "views": 45,
+        "views": 92,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_164650"
+      "metrics_at": "20260707_191724"
     },
     {
       "time": "20260707_164658",
       "niche": "facts",
       "title": "Andes Food Origins",
-      "instagram": "18105687557023007"
+      "instagram": "18105687557023007",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260707_191724"
+    },
+    {
+      "time": "20260707_191736",
+      "niche": "facts",
+      "title": "Language of Direction",
+      "instagram": "18059565068733567"
     }
   ]
 }
