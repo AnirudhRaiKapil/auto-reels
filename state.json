@@ -1,5 +1,5 @@
 {
-  "run_count": 18,
+  "run_count": 19,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -18,7 +18,8 @@
     "Andes Food Origins",
     "Language of Direction",
     "Japanese Roots",
-    "Tunnel Under Sea"
+    "Tunnel Under Sea",
+    "Air Resistance Costs"
   ],
   "history": [
     {
@@ -66,7 +67,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260705_081815",
@@ -80,7 +81,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260705_114605",
@@ -94,7 +95,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260705_135318",
@@ -108,7 +109,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260705_151729",
@@ -122,7 +123,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260705_172512",
@@ -136,7 +137,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260706_072332",
@@ -150,7 +151,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260706_163007",
@@ -169,7 +170,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260707_103616",
@@ -183,7 +184,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260707_134200",
@@ -197,7 +198,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260707_164658",
@@ -211,7 +212,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260707_191736",
@@ -225,7 +226,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260708_085326",
@@ -233,19 +234,33 @@
       "title": "Japanese Roots",
       "instagram": "18373368577227493",
       "metrics": {
-        "views": 97,
+        "views": 108,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_170113"
+      "metrics_at": "20260708_182816"
     },
     {
       "time": "20260708_170122",
       "niche": "facts",
       "title": "Tunnel Under Sea",
-      "instagram": "18186234034391381"
+      "instagram": "18186234034391381",
+      "metrics": {
+        "views": 7,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260708_182816"
+    },
+    {
+      "time": "20260708_182824",
+      "niche": "facts",
+      "title": "Air Resistance Costs",
+      "instagram": "18123574744743404"
     }
   ]
 }
