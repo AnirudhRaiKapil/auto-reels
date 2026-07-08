@@ -1,5 +1,5 @@
 {
-  "run_count": 16,
+  "run_count": 17,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -16,7 +16,8 @@
     "Underwater Mountain Ranges Exist",
     "Earth's Extreme Temperature Town",
     "Andes Food Origins",
-    "Language of Direction"
+    "Language of Direction",
+    "Japanese Roots"
   ],
   "history": [
     {
@@ -36,7 +37,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260704_101811",
@@ -50,7 +51,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260704_102554",
@@ -64,7 +65,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260705_081815",
@@ -72,13 +73,13 @@
       "title": "Progress Isn't Always Obvious",
       "instagram": "18093675413040707",
       "metrics": {
-        "views": 163,
+        "views": 164,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260705_114605",
@@ -92,7 +93,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260705_135318",
@@ -106,7 +107,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260705_151729",
@@ -120,7 +121,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260705_172512",
@@ -134,7 +135,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260706_072332",
@@ -142,13 +143,13 @@
       "title": "Automation by 2030",
       "instagram": "18100442194927545",
       "metrics": {
-        "views": 27,
+        "views": 29,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260706_163007",
@@ -167,7 +168,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260707_103616",
@@ -175,13 +176,13 @@
       "title": "Underwater Mountain Ranges Exist",
       "instagram": "18128566168630615",
       "metrics": {
-        "views": 69,
-        "likes": 0,
+        "views": 99,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260707_134200",
@@ -189,13 +190,13 @@
       "title": "Earth's Extreme Temperature Town",
       "instagram": "17899199445527704",
       "metrics": {
-        "views": 92,
+        "views": 120,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260707_164658",
@@ -203,19 +204,33 @@
       "title": "Andes Food Origins",
       "instagram": "18105687557023007",
       "metrics": {
-        "views": 2,
+        "views": 25,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260707_191724"
+      "metrics_at": "20260708_085318"
     },
     {
       "time": "20260707_191736",
       "niche": "facts",
       "title": "Language of Direction",
-      "instagram": "18059565068733567"
+      "instagram": "18059565068733567",
+      "metrics": {
+        "views": 14,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260708_085318"
+    },
+    {
+      "time": "20260708_085326",
+      "niche": "facts",
+      "title": "Japanese Roots",
+      "instagram": "18373368577227493"
     }
   ]
 }
