@@ -1,5 +1,5 @@
 {
-  "run_count": 17,
+  "run_count": 18,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -17,7 +17,8 @@
     "Earth's Extreme Temperature Town",
     "Andes Food Origins",
     "Language of Direction",
-    "Japanese Roots"
+    "Japanese Roots",
+    "Tunnel Under Sea"
   ],
   "history": [
     {
@@ -51,7 +52,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260704_102554",
@@ -65,7 +66,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260705_081815",
@@ -79,7 +80,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260705_114605",
@@ -93,7 +94,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260705_135318",
@@ -107,7 +108,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260705_151729",
@@ -121,7 +122,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260705_172512",
@@ -135,7 +136,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260706_072332",
@@ -149,7 +150,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260706_163007",
@@ -168,7 +169,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260707_103616",
@@ -176,13 +177,13 @@
       "title": "Underwater Mountain Ranges Exist",
       "instagram": "18128566168630615",
       "metrics": {
-        "views": 99,
+        "views": 104,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260707_134200",
@@ -190,13 +191,13 @@
       "title": "Earth's Extreme Temperature Town",
       "instagram": "17899199445527704",
       "metrics": {
-        "views": 120,
+        "views": 128,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260707_164658",
@@ -204,13 +205,13 @@
       "title": "Andes Food Origins",
       "instagram": "18105687557023007",
       "metrics": {
-        "views": 25,
+        "views": 31,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260707_191736",
@@ -218,19 +219,33 @@
       "title": "Language of Direction",
       "instagram": "18059565068733567",
       "metrics": {
-        "views": 14,
+        "views": 30,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_085318"
+      "metrics_at": "20260708_170113"
     },
     {
       "time": "20260708_085326",
       "niche": "facts",
       "title": "Japanese Roots",
-      "instagram": "18373368577227493"
+      "instagram": "18373368577227493",
+      "metrics": {
+        "views": 97,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260708_170113"
+    },
+    {
+      "time": "20260708_170122",
+      "niche": "facts",
+      "title": "Tunnel Under Sea",
+      "instagram": "18186234034391381"
     }
   ]
 }
