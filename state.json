@@ -1,5 +1,5 @@
 {
-  "run_count": 20,
+  "run_count": 21,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -20,7 +20,8 @@
     "Japanese Roots",
     "Tunnel Under Sea",
     "Air Resistance Costs",
-    "Venus Spins Back"
+    "Venus Spins Back",
+    "Tunnel Feat"
   ],
   "history": [
     {
@@ -90,13 +91,13 @@
       "title": "AI Goes Open Source",
       "instagram": "17878693728674095",
       "metrics": {
-        "views": 66,
+        "views": 69,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260705_135318",
@@ -110,7 +111,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260705_151729",
@@ -124,7 +125,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260705_172512",
@@ -138,7 +139,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260706_072332",
@@ -152,7 +153,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260706_163007",
@@ -165,13 +166,13 @@
       "title": "Fear Less",
       "instagram": "18107460230319608",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260707_103616",
@@ -185,7 +186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260707_134200",
@@ -193,13 +194,13 @@
       "title": "Earth's Extreme Temperature Town",
       "instagram": "17899199445527704",
       "metrics": {
-        "views": 132,
+        "views": 133,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260707_164658",
@@ -207,13 +208,13 @@
       "title": "Andes Food Origins",
       "instagram": "18105687557023007",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260707_191736",
@@ -221,13 +222,13 @@
       "title": "Language of Direction",
       "instagram": "18059565068733567",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260708_085326",
@@ -241,7 +242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260708_170122",
@@ -249,13 +250,13 @@
       "title": "Tunnel Under Sea",
       "instagram": "18186234034391381",
       "metrics": {
-        "views": 41,
+        "views": 43,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260708_182824",
@@ -269,13 +270,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_141248"
+      "metrics_at": "20260709_163320"
     },
     {
       "time": "20260709_141256",
       "niche": "facts",
       "title": "Venus Spins Back",
-      "instagram": "17949821934016426"
+      "instagram": "17949821934016426",
+      "metrics": {
+        "views": 59,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260709_163320"
+    },
+    {
+      "time": "20260709_163327",
+      "niche": "facts",
+      "title": "Tunnel Feat",
+      "instagram": "18001744604973208"
     }
   ]
 }
