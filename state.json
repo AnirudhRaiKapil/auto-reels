@@ -1,5 +1,5 @@
 {
-  "run_count": 19,
+  "run_count": 20,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -19,7 +19,8 @@
     "Language of Direction",
     "Japanese Roots",
     "Tunnel Under Sea",
-    "Air Resistance Costs"
+    "Air Resistance Costs",
+    "Venus Spins Back"
   ],
   "history": [
     {
@@ -75,13 +76,13 @@
       "title": "Progress Isn't Always Obvious",
       "instagram": "18093675413040707",
       "metrics": {
-        "views": 164,
+        "views": 165,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260705_114605",
@@ -95,7 +96,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260705_135318",
@@ -103,13 +104,13 @@
       "title": "Memory Limit Found",
       "instagram": "18017011319856905",
       "metrics": {
-        "views": 135,
+        "views": 136,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260705_151729",
@@ -123,7 +124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260705_172512",
@@ -131,13 +132,13 @@
       "title": "Ocean's Deep Secrets",
       "instagram": "17898351207500216",
       "metrics": {
-        "views": 163,
+        "views": 168,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260706_072332",
@@ -145,13 +146,13 @@
       "title": "Automation by 2030",
       "instagram": "18100442194927545",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260706_163007",
@@ -164,13 +165,13 @@
       "title": "Fear Less",
       "instagram": "18107460230319608",
       "metrics": {
-        "views": 28,
+        "views": 29,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260707_103616",
@@ -178,13 +179,13 @@
       "title": "Underwater Mountain Ranges Exist",
       "instagram": "18128566168630615",
       "metrics": {
-        "views": 104,
+        "views": 105,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260707_134200",
@@ -192,13 +193,13 @@
       "title": "Earth's Extreme Temperature Town",
       "instagram": "17899199445527704",
       "metrics": {
-        "views": 128,
+        "views": 132,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260707_164658",
@@ -206,13 +207,13 @@
       "title": "Andes Food Origins",
       "instagram": "18105687557023007",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260707_191736",
@@ -226,7 +227,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260708_085326",
@@ -234,13 +235,13 @@
       "title": "Japanese Roots",
       "instagram": "18373368577227493",
       "metrics": {
-        "views": 108,
+        "views": 113,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260708_170122",
@@ -248,19 +249,33 @@
       "title": "Tunnel Under Sea",
       "instagram": "18186234034391381",
       "metrics": {
-        "views": 7,
-        "likes": 1,
+        "views": 41,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260708_182816"
+      "metrics_at": "20260709_141248"
     },
     {
       "time": "20260708_182824",
       "niche": "facts",
       "title": "Air Resistance Costs",
-      "instagram": "18123574744743404"
+      "instagram": "18123574744743404",
+      "metrics": {
+        "views": 118,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260709_141248"
+    },
+    {
+      "time": "20260709_141256",
+      "niche": "facts",
+      "title": "Venus Spins Back",
+      "instagram": "17949821934016426"
     }
   ]
 }
