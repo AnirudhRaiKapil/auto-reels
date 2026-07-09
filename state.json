@@ -1,5 +1,5 @@
 {
-  "run_count": 21,
+  "run_count": 22,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -21,7 +21,8 @@
     "Tunnel Under Sea",
     "Air Resistance Costs",
     "Venus Spins Back",
-    "Tunnel Feat"
+    "Tunnel Feat",
+    "Traffic Peaks on Wednesdays"
   ],
   "history": [
     {
@@ -111,7 +112,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260705_151729",
@@ -119,13 +120,13 @@
       "title": "Witchcraft Laws Still Exist",
       "instagram": "17971117965118240",
       "metrics": {
-        "views": 34,
+        "views": 39,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260705_172512",
@@ -139,7 +140,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260706_072332",
@@ -153,7 +154,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260706_163007",
@@ -172,7 +173,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260707_103616",
@@ -180,13 +181,13 @@
       "title": "Underwater Mountain Ranges Exist",
       "instagram": "18128566168630615",
       "metrics": {
-        "views": 105,
+        "views": 107,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260707_134200",
@@ -200,7 +201,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260707_164658",
@@ -208,13 +209,13 @@
       "title": "Andes Food Origins",
       "instagram": "18105687557023007",
       "metrics": {
-        "views": 33,
+        "views": 34,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260707_191736",
@@ -228,7 +229,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260708_085326",
@@ -236,13 +237,13 @@
       "title": "Japanese Roots",
       "instagram": "18373368577227493",
       "metrics": {
-        "views": 113,
+        "views": 115,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260708_170122",
@@ -250,13 +251,13 @@
       "title": "Tunnel Under Sea",
       "instagram": "18186234034391381",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260708_182824",
@@ -270,7 +271,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260709_141256",
@@ -278,19 +279,33 @@
       "title": "Venus Spins Back",
       "instagram": "17949821934016426",
       "metrics": {
-        "views": 59,
-        "likes": 3,
+        "views": 129,
+        "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_163320"
+      "metrics_at": "20260709_191007"
     },
     {
       "time": "20260709_163327",
       "niche": "facts",
       "title": "Tunnel Feat",
-      "instagram": "18001744604973208"
+      "instagram": "18001744604973208",
+      "metrics": {
+        "views": 24,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260709_191007"
+    },
+    {
+      "time": "20260709_191021",
+      "niche": "facts",
+      "title": "Traffic Peaks on Wednesdays",
+      "instagram": "18379672984160609"
     }
   ]
 }
