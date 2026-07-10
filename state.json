@@ -1,5 +1,5 @@
 {
-  "run_count": 23,
+  "run_count": 24,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -23,7 +23,8 @@
     "Venus Spins Back",
     "Tunnel Feat",
     "Traffic Peaks on Wednesdays",
-    "Swiss Guinea Pig Law"
+    "Swiss Guinea Pig Law",
+    "One Tiny Morning Habit"
   ],
   "history": [
     {
@@ -141,7 +142,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260706_072332",
@@ -155,7 +156,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260706_163007",
@@ -168,13 +169,13 @@
       "title": "Fear Less",
       "instagram": "18107460230319608",
       "metrics": {
-        "views": 31,
+        "views": 34,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260707_103616",
@@ -188,7 +189,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260707_134200",
@@ -202,7 +203,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260707_164658",
@@ -216,7 +217,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260707_191736",
@@ -230,7 +231,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260708_085326",
@@ -244,7 +245,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260708_170122",
@@ -258,7 +259,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260708_182824",
@@ -272,7 +273,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260709_141256",
@@ -280,13 +281,13 @@
       "title": "Venus Spins Back",
       "instagram": "17949821934016426",
       "metrics": {
-        "views": 163,
+        "views": 166,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260709_163327",
@@ -294,13 +295,13 @@
       "title": "Tunnel Feat",
       "instagram": "18001744604973208",
       "metrics": {
-        "views": 122,
+        "views": 125,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260709_191021",
@@ -308,19 +309,33 @@
       "title": "Traffic Peaks on Wednesdays",
       "instagram": "18379672984160609",
       "metrics": {
-        "views": 120,
+        "views": 144,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_131441"
+      "metrics_at": "20260710_164353"
     },
     {
       "time": "20260710_131452",
       "niche": "facts",
       "title": "Swiss Guinea Pig Law",
-      "instagram": "18044638358801234"
+      "instagram": "18044638358801234",
+      "metrics": {
+        "views": 17,
+        "likes": 1,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0
+      },
+      "metrics_at": "20260710_164353"
+    },
+    {
+      "time": "20260710_164402",
+      "niche": "motivation",
+      "title": "One Tiny Morning Habit",
+      "instagram": "18187168915349167"
     }
   ]
 }
