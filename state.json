@@ -1,5 +1,5 @@
 {
-  "run_count": 24,
+  "run_count": 25,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -24,7 +24,8 @@
     "Tunnel Feat",
     "Traffic Peaks on Wednesdays",
     "Swiss Guinea Pig Law",
-    "One Tiny Morning Habit"
+    "One Tiny Morning Habit",
+    "Human Microbe Hybrid"
   ],
   "history": [
     {
@@ -156,7 +157,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260706_163007",
@@ -175,7 +176,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260707_103616",
@@ -189,7 +190,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260707_134200",
@@ -203,7 +204,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260707_164658",
@@ -217,7 +218,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260707_191736",
@@ -231,7 +232,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260708_085326",
@@ -245,7 +246,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260708_170122",
@@ -253,13 +254,13 @@
       "title": "Tunnel Under Sea",
       "instagram": "18186234034391381",
       "metrics": {
-        "views": 44,
+        "views": 45,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260708_182824",
@@ -273,7 +274,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260709_141256",
@@ -281,13 +282,13 @@
       "title": "Venus Spins Back",
       "instagram": "17949821934016426",
       "metrics": {
-        "views": 166,
+        "views": 170,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260709_163327",
@@ -301,7 +302,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260709_191021",
@@ -309,13 +310,13 @@
       "title": "Traffic Peaks on Wednesdays",
       "instagram": "18379672984160609",
       "metrics": {
-        "views": 144,
+        "views": 161,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260710_131452",
@@ -323,19 +324,33 @@
       "title": "Swiss Guinea Pig Law",
       "instagram": "18044638358801234",
       "metrics": {
-        "views": 17,
+        "views": 29,
         "likes": 1,
         "comments": 0,
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260710_164353"
+      "metrics_at": "20260710_183249"
     },
     {
       "time": "20260710_164402",
       "niche": "motivation",
       "title": "One Tiny Morning Habit",
-      "instagram": "18187168915349167"
+      "instagram": "18187168915349167",
+      "metrics": {
+        "views": 21,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1
+      },
+      "metrics_at": "20260710_183249"
+    },
+    {
+      "time": "20260710_183257",
+      "niche": "facts",
+      "title": "Human Microbe Hybrid",
+      "instagram": "18034352723813072"
     }
   ]
 }
