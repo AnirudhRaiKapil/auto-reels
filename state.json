@@ -1,5 +1,5 @@
 {
-  "run_count": 22,
+  "run_count": 23,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -22,7 +22,8 @@
     "Air Resistance Costs",
     "Venus Spins Back",
     "Tunnel Feat",
-    "Traffic Peaks on Wednesdays"
+    "Traffic Peaks on Wednesdays",
+    "Swiss Guinea Pig Law"
   ],
   "history": [
     {
@@ -126,7 +127,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260705_172512",
@@ -140,7 +141,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260706_072332",
@@ -148,13 +149,13 @@
       "title": "Automation by 2030",
       "instagram": "18100442194927545",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260706_163007",
@@ -167,13 +168,13 @@
       "title": "Fear Less",
       "instagram": "18107460230319608",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260707_103616",
@@ -187,7 +188,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260707_134200",
@@ -201,7 +202,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260707_164658",
@@ -215,7 +216,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260707_191736",
@@ -223,13 +224,13 @@
       "title": "Language of Direction",
       "instagram": "18059565068733567",
       "metrics": {
-        "views": 31,
+        "views": 35,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260708_085326",
@@ -243,7 +244,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260708_170122",
@@ -257,7 +258,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260708_182824",
@@ -265,13 +266,13 @@
       "title": "Air Resistance Costs",
       "instagram": "18123574744743404",
       "metrics": {
-        "views": 118,
+        "views": 120,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260709_141256",
@@ -279,13 +280,13 @@
       "title": "Venus Spins Back",
       "instagram": "17949821934016426",
       "metrics": {
-        "views": 129,
+        "views": 163,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260709_163327",
@@ -293,19 +294,33 @@
       "title": "Tunnel Feat",
       "instagram": "18001744604973208",
       "metrics": {
-        "views": 24,
-        "likes": 0,
+        "views": 122,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260709_191007"
+      "metrics_at": "20260710_131441"
     },
     {
       "time": "20260709_191021",
       "niche": "facts",
       "title": "Traffic Peaks on Wednesdays",
-      "instagram": "18379672984160609"
+      "instagram": "18379672984160609",
+      "metrics": {
+        "views": 120,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260710_131441"
+    },
+    {
+      "time": "20260710_131452",
+      "niche": "facts",
+      "title": "Swiss Guinea Pig Law",
+      "instagram": "18044638358801234"
     }
   ]
 }
