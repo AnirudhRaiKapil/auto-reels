@@ -1,5 +1,5 @@
 {
-  "run_count": 27,
+  "run_count": 28,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -27,7 +27,8 @@
     "One Tiny Morning Habit",
     "Human Microbe Hybrid",
     "Forgetting Starts Immediately",
-    "Deep Ocean Survival"
+    "Deep Ocean Survival",
+    "Beyond Social Media"
   ],
   "history": [
     {
@@ -192,7 +193,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260707_134200",
@@ -206,7 +207,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260707_164658",
@@ -220,7 +221,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260707_191736",
@@ -234,7 +235,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260708_085326",
@@ -248,7 +249,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260708_170122",
@@ -256,13 +257,13 @@
       "title": "Tunnel Under Sea",
       "instagram": "18186234034391381",
       "metrics": {
-        "views": 46,
+        "views": 47,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260708_182824",
@@ -276,7 +277,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260709_141256",
@@ -290,7 +291,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260709_163327",
@@ -304,7 +305,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260709_191021",
@@ -312,13 +313,13 @@
       "title": "Traffic Peaks on Wednesdays",
       "instagram": "18379672984160609",
       "metrics": {
-        "views": 189,
+        "views": 190,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260710_131452",
@@ -326,13 +327,13 @@
       "title": "Swiss Guinea Pig Law",
       "instagram": "18044638358801234",
       "metrics": {
-        "views": 167,
+        "views": 173,
         "likes": 2,
         "comments": 0,
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260710_164402",
@@ -340,13 +341,13 @@
       "title": "One Tiny Morning Habit",
       "instagram": "18187168915349167",
       "metrics": {
-        "views": 74,
+        "views": 76,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260710_183257",
@@ -360,7 +361,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260711_112624",
@@ -368,19 +369,33 @@
       "title": "Forgetting Starts Immediately",
       "instagram": "18122206882782257",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_133939"
+      "metrics_at": "20260711_150647"
     },
     {
       "time": "20260711_133950",
       "niche": "facts",
       "title": "Deep Ocean Survival",
-      "instagram": "17947337445223644"
+      "instagram": "17947337445223644",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260711_150647"
+    },
+    {
+      "time": "20260711_150655",
+      "niche": "motivation",
+      "title": "Beyond Social Media",
+      "instagram": "17953246926011238"
     }
   ]
 }
