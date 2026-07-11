@@ -1,5 +1,5 @@
 {
-  "run_count": 28,
+  "run_count": 29,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -28,7 +28,8 @@
     "Human Microbe Hybrid",
     "Forgetting Starts Immediately",
     "Deep Ocean Survival",
-    "Beyond Social Media"
+    "Beyond Social Media",
+    "Blood Vessel Network"
   ],
   "history": [
     {
@@ -207,7 +208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260707_164658",
@@ -221,7 +222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260707_191736",
@@ -235,7 +236,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260708_085326",
@@ -249,7 +250,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260708_170122",
@@ -263,7 +264,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260708_182824",
@@ -277,7 +278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260709_141256",
@@ -291,7 +292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260709_163327",
@@ -305,7 +306,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260709_191021",
@@ -319,7 +320,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260710_131452",
@@ -327,13 +328,13 @@
       "title": "Swiss Guinea Pig Law",
       "instagram": "18044638358801234",
       "metrics": {
-        "views": 173,
-        "likes": 2,
+        "views": 177,
+        "likes": 3,
         "comments": 0,
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260710_164402",
@@ -341,13 +342,13 @@
       "title": "One Tiny Morning Habit",
       "instagram": "18187168915349167",
       "metrics": {
-        "views": 76,
+        "views": 82,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260710_183257",
@@ -355,13 +356,13 @@
       "title": "Human Microbe Hybrid",
       "instagram": "18034352723813072",
       "metrics": {
-        "views": 17,
+        "views": 19,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260711_112624",
@@ -369,13 +370,13 @@
       "title": "Forgetting Starts Immediately",
       "instagram": "18122206882782257",
       "metrics": {
-        "views": 6,
+        "views": 15,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260711_133950",
@@ -383,19 +384,33 @@
       "title": "Deep Ocean Survival",
       "instagram": "17947337445223644",
       "metrics": {
-        "views": 3,
-        "likes": 0,
+        "views": 5,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260711_150647"
+      "metrics_at": "20260711_171859"
     },
     {
       "time": "20260711_150655",
       "niche": "motivation",
       "title": "Beyond Social Media",
-      "instagram": "17953246926011238"
+      "instagram": "17953246926011238",
+      "metrics": {
+        "views": 5,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260711_171859"
+    },
+    {
+      "time": "20260711_171908",
+      "niche": "facts",
+      "title": "Blood Vessel Network",
+      "instagram": "18014126834863973"
     }
   ]
 }
