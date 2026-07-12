@@ -1,5 +1,5 @@
 {
-  "run_count": 33,
+  "run_count": 34,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -33,7 +33,8 @@
     "Weird Law",
     "Deep Ocean Secrets",
     "Depth Beyond Belief",
-    "Failure Predicted"
+    "Failure Predicted",
+    "Suits Required by Law"
   ],
   "history": [
     {
@@ -282,7 +283,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260709_141256",
@@ -296,7 +297,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260709_163327",
@@ -310,7 +311,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260709_191021",
@@ -324,7 +325,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260710_131452",
@@ -338,7 +339,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260710_164402",
@@ -352,7 +353,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260710_183257",
@@ -366,7 +367,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260711_112624",
@@ -380,7 +381,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260711_133950",
@@ -394,7 +395,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260711_150655",
@@ -408,7 +409,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260711_171908",
@@ -416,13 +417,13 @@
       "title": "Blood Vessel Network",
       "instagram": "18014126834863973",
       "metrics": {
-        "views": 87,
+        "views": 95,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260712_062422",
@@ -430,13 +431,13 @@
       "title": "Weird Law",
       "instagram": "18546332218074272",
       "metrics": {
-        "views": 121,
+        "views": 124,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260712_092316",
@@ -444,13 +445,13 @@
       "title": "Deep Ocean Secrets",
       "instagram": "18083179781401238",
       "metrics": {
-        "views": 9,
+        "views": 10,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
       "time": "20260712_150958",
@@ -458,19 +459,33 @@
       "title": "Depth Beyond Belief",
       "instagram": "17962813458132293",
       "metrics": {
+        "views": 14,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260712_180820"
+    },
+    {
+      "time": "20260712_162536",
+      "niche": "motivation",
+      "title": "Failure Predicted",
+      "instagram": "18102749765128968",
+      "metrics": {
         "views": 5,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_162527"
+      "metrics_at": "20260712_180820"
     },
     {
-      "time": "20260712_162536",
-      "niche": "motivation",
-      "title": "Failure Predicted",
-      "instagram": "18102749765128968"
+      "time": "20260712_180830",
+      "niche": "facts",
+      "title": "Suits Required by Law",
+      "instagram": "18097519682148822"
     }
   ]
 }
