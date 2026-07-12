@@ -1,5 +1,5 @@
 {
-  "run_count": 30,
+  "run_count": 31,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -30,7 +30,8 @@
     "Deep Ocean Survival",
     "Beyond Social Media",
     "Blood Vessel Network",
-    "Weird Law"
+    "Weird Law",
+    "Deep Ocean Secrets"
   ],
   "history": [
     {
@@ -237,7 +238,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260708_085326",
@@ -251,7 +252,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260708_170122",
@@ -265,7 +266,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260708_182824",
@@ -279,7 +280,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260709_141256",
@@ -293,7 +294,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260709_163327",
@@ -307,7 +308,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260709_191021",
@@ -315,13 +316,13 @@
       "title": "Traffic Peaks on Wednesdays",
       "instagram": "18379672984160609",
       "metrics": {
-        "views": 190,
+        "views": 191,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260710_131452",
@@ -335,7 +336,7 @@
         "shares": 2,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260710_164402",
@@ -349,7 +350,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260710_183257",
@@ -363,7 +364,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260711_112624",
@@ -371,13 +372,13 @@
       "title": "Forgetting Starts Immediately",
       "instagram": "18122206882782257",
       "metrics": {
-        "views": 31,
+        "views": 34,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260711_133950",
@@ -385,13 +386,13 @@
       "title": "Deep Ocean Survival",
       "instagram": "17947337445223644",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260711_150655",
@@ -405,7 +406,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260711_171908",
@@ -413,19 +414,33 @@
       "title": "Blood Vessel Network",
       "instagram": "18014126834863973",
       "metrics": {
-        "views": 38,
+        "views": 58,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260712_062414"
+      "metrics_at": "20260712_092309"
     },
     {
       "time": "20260712_062422",
       "niche": "facts",
       "title": "Weird Law",
-      "instagram": "18546332218074272"
+      "instagram": "18546332218074272",
+      "metrics": {
+        "views": 57,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260712_092309"
+    },
+    {
+      "time": "20260712_092316",
+      "niche": "facts",
+      "title": "Deep Ocean Secrets",
+      "instagram": "18083179781401238"
     }
   ]
 }
