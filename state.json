@@ -1,5 +1,5 @@
 {
-  "run_count": 44,
+  "run_count": 45,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -44,7 +44,8 @@
     "Tiny Wins Add Up",
     "Blood Vessels Inside Us",
     "Microbes Outnumber Humans",
-    "Writing Daily Works"
+    "Writing Daily Works",
+    "Navigation Without Left"
   ],
   "history": [
     {
@@ -447,7 +448,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260712_092316",
@@ -461,7 +462,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260712_150958",
@@ -475,7 +476,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260712_162536",
@@ -489,7 +490,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260712_180830",
@@ -503,7 +504,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260713_063450",
@@ -517,7 +518,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260713_164308",
@@ -531,7 +532,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260713_190006",
@@ -545,7 +546,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260714_081639",
@@ -553,13 +554,13 @@
       "title": "Alaska's Weird Law",
       "instagram": "17997220067986582",
       "metrics": {
-        "views": 204,
+        "views": 205,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260714_105810",
@@ -573,7 +574,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260714_145610",
@@ -581,13 +582,13 @@
       "title": "Faking Death to Survive",
       "instagram": "18348093217169333",
       "metrics": {
-        "views": 136,
+        "views": 137,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260714_162804",
@@ -601,7 +602,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260715_105424",
@@ -615,7 +616,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260715_122924",
@@ -623,19 +624,33 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17872659921625477",
       "metrics": {
-        "views": 6,
+        "views": 11,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_150545"
+      "metrics_at": "20260715_164318"
     },
     {
       "time": "20260715_150554",
       "niche": "motivation",
       "title": "Writing Daily Works",
-      "instagram": "18084873800654435"
+      "instagram": "18084873800654435",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260715_164318"
+    },
+    {
+      "time": "20260715_164327",
+      "niche": "facts",
+      "title": "Navigation Without Left",
+      "instagram": "18119454535888891"
     }
   ]
 }
