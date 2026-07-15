@@ -1,5 +1,5 @@
 {
-  "run_count": 45,
+  "run_count": 46,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -45,7 +45,8 @@
     "Blood Vessels Inside Us",
     "Microbes Outnumber Humans",
     "Writing Daily Works",
-    "Navigation Without Left"
+    "Navigation Without Left",
+    "From Obscurity"
   ],
   "history": [
     {
@@ -462,7 +463,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260712_150958",
@@ -476,7 +477,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260712_162536",
@@ -490,7 +491,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260712_180830",
@@ -504,7 +505,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260713_063450",
@@ -518,7 +519,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260713_164308",
@@ -532,7 +533,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260713_190006",
@@ -546,7 +547,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260714_081639",
@@ -554,13 +555,13 @@
       "title": "Alaska's Weird Law",
       "instagram": "17997220067986582",
       "metrics": {
-        "views": 205,
+        "views": 206,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260714_105810",
@@ -568,13 +569,13 @@
       "title": "World's Longest Tunnel",
       "instagram": "18101440574002270",
       "metrics": {
-        "views": 124,
+        "views": 125,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260714_145610",
@@ -582,13 +583,13 @@
       "title": "Faking Death to Survive",
       "instagram": "18348093217169333",
       "metrics": {
-        "views": 137,
+        "views": 140,
         "likes": 2,
         "comments": 0,
-        "shares": 0,
+        "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260714_162804",
@@ -602,7 +603,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260715_105424",
@@ -610,13 +611,13 @@
       "title": "Blood Vessels Inside Us",
       "instagram": "18147254500464142",
       "metrics": {
-        "views": 8,
+        "views": 10,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260715_122924",
@@ -624,13 +625,13 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17872659921625477",
       "metrics": {
-        "views": 11,
+        "views": 13,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260715_150554",
@@ -638,19 +639,33 @@
       "title": "Writing Daily Works",
       "instagram": "18084873800654435",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260715_164318"
+      "metrics_at": "20260715_181505"
     },
     {
       "time": "20260715_164327",
       "niche": "facts",
       "title": "Navigation Without Left",
-      "instagram": "18119454535888891"
+      "instagram": "18119454535888891",
+      "metrics": {
+        "views": 10,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260715_181505"
+    },
+    {
+      "time": "20260715_181514",
+      "niche": "motivation",
+      "title": "From Obscurity",
+      "instagram": "18104916434277275"
     }
   ]
 }
