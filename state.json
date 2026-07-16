@@ -1,5 +1,5 @@
 {
-  "run_count": 48,
+  "run_count": 49,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -48,7 +48,8 @@
     "Navigation Without Left",
     "From Obscurity",
     "Mongolia's Cousin Marriages",
-    "Old Laws Remain"
+    "Old Laws Remain",
+    "Pioneers Behind Wheel"
   ],
   "history": [
     {
@@ -507,7 +508,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260713_063450",
@@ -521,7 +522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260713_164308",
@@ -535,7 +536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260713_190006",
@@ -549,7 +550,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260714_081639",
@@ -563,7 +564,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260714_105810",
@@ -577,7 +578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260714_145610",
@@ -591,7 +592,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260714_162804",
@@ -605,7 +606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260715_105424",
@@ -613,13 +614,13 @@
       "title": "Blood Vessels Inside Us",
       "instagram": "18147254500464142",
       "metrics": {
-        "views": 15,
+        "views": 17,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260715_122924",
@@ -627,13 +628,13 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17872659921625477",
       "metrics": {
-        "views": 29,
+        "views": 34,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260715_150554",
@@ -641,13 +642,13 @@
       "title": "Writing Daily Works",
       "instagram": "18084873800654435",
       "metrics": {
-        "views": 25,
+        "views": 30,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260715_164327",
@@ -655,13 +656,13 @@
       "title": "Navigation Without Left",
       "instagram": "18119454535888891",
       "metrics": {
-        "views": 119,
+        "views": 120,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260715_181514",
@@ -675,7 +676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260716_054337",
@@ -683,19 +684,33 @@
       "title": "Mongolia's Cousin Marriages",
       "instagram": "18109514929897102",
       "metrics": {
-        "views": 20,
+        "views": 124,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_081736"
+      "metrics_at": "20260716_111756"
     },
     {
       "time": "20260716_081743",
       "niche": "facts",
       "title": "Old Laws Remain",
-      "instagram": "17885740707433907"
+      "instagram": "17885740707433907",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260716_111756"
+    },
+    {
+      "time": "20260716_111805",
+      "niche": "facts",
+      "title": "Pioneers Behind Wheel",
+      "instagram": "18601695565040392"
     }
   ]
 }
