@@ -1,5 +1,5 @@
 {
-  "run_count": 49,
+  "run_count": 50,
   "recent_topics": [
     "Glacier Secrets",
     "Start Small",
@@ -49,7 +49,8 @@
     "From Obscurity",
     "Mongolia's Cousin Marriages",
     "Old Laws Remain",
-    "Pioneers Behind Wheel"
+    "Pioneers Behind Wheel",
+    "Memories Formed in 5 Minutes"
   ],
   "history": [
     {
@@ -522,7 +523,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260713_164308",
@@ -536,7 +537,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260713_190006",
@@ -550,7 +551,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260714_081639",
@@ -564,7 +565,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260714_105810",
@@ -572,13 +573,13 @@
       "title": "World's Longest Tunnel",
       "instagram": "18101440574002270",
       "metrics": {
-        "views": 126,
+        "views": 127,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260714_145610",
@@ -586,13 +587,13 @@
       "title": "Faking Death to Survive",
       "instagram": "18348093217169333",
       "metrics": {
-        "views": 149,
+        "views": 150,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260714_162804",
@@ -606,7 +607,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260715_105424",
@@ -620,7 +621,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260715_122924",
@@ -628,13 +629,13 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17872659921625477",
       "metrics": {
-        "views": 34,
+        "views": 35,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260715_150554",
@@ -642,13 +643,13 @@
       "title": "Writing Daily Works",
       "instagram": "18084873800654435",
       "metrics": {
-        "views": 30,
+        "views": 33,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260715_164327",
@@ -656,13 +657,13 @@
       "title": "Navigation Without Left",
       "instagram": "18119454535888891",
       "metrics": {
-        "views": 120,
+        "views": 121,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260715_181514",
@@ -670,13 +671,13 @@
       "title": "From Obscurity",
       "instagram": "18104916434277275",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260716_054337",
@@ -684,13 +685,13 @@
       "title": "Mongolia's Cousin Marriages",
       "instagram": "18109514929897102",
       "metrics": {
-        "views": 124,
+        "views": 224,
         "likes": 1,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260716_081743",
@@ -698,19 +699,33 @@
       "title": "Old Laws Remain",
       "instagram": "17885740707433907",
       "metrics": {
-        "views": 13,
+        "views": 18,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260716_111756"
+      "metrics_at": "20260716_172515"
     },
     {
       "time": "20260716_111805",
       "niche": "facts",
       "title": "Pioneers Behind Wheel",
-      "instagram": "18601695565040392"
+      "instagram": "18601695565040392",
+      "metrics": {
+        "views": 60,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260716_172515"
+    },
+    {
+      "time": "20260716_172525",
+      "niche": "facts",
+      "title": "Memories Formed in 5 Minutes",
+      "instagram": "18121860298805570"
     }
   ]
 }
