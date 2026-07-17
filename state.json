@@ -1,7 +1,6 @@
 {
-  "run_count": 52,
+  "run_count": 53,
   "recent_topics": [
-    "AI Learns Fast",
     "Brain Limit Found",
     "Progress Isn't Always Obvious",
     "AI Goes Open Source",
@@ -50,7 +49,8 @@
     "Pioneers Behind Wheel",
     "Memories Formed in 5 Minutes",
     "Running Blind",
-    "Energy Lost in Braking"
+    "Energy Lost in Braking",
+    "AI's Blind Spots"
   ],
   "history": [
     {
@@ -565,7 +565,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260714_105810",
@@ -579,7 +579,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260714_145610",
@@ -593,7 +593,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260714_162804",
@@ -607,7 +607,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260715_105424",
@@ -621,7 +621,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260715_122924",
@@ -635,7 +635,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260715_150554",
@@ -649,7 +649,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260715_164327",
@@ -663,7 +663,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260715_181514",
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260716_054337",
@@ -685,13 +685,13 @@
       "title": "Mongolia's Cousin Marriages",
       "instagram": "18109514929897102",
       "metrics": {
-        "views": 1261,
+        "views": 1269,
         "likes": 7,
         "comments": 0,
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260716_172525",
@@ -727,13 +727,13 @@
       "title": "Memories Formed in 5 Minutes",
       "instagram": "18121860298805570",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260717_122706",
@@ -741,19 +741,33 @@
       "title": "Running Blind",
       "instagram": "18112487602938536",
       "metrics": {
-        "views": 22,
+        "views": 26,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_150522"
+      "metrics_at": "20260717_162512"
     },
     {
       "time": "20260717_150530",
       "niche": "facts",
       "title": "Energy Lost in Braking",
-      "instagram": "18150729496507258"
+      "instagram": "18150729496507258",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260717_162512"
+    },
+    {
+      "time": "20260717_162520",
+      "niche": "ai_news",
+      "title": "AI's Blind Spots",
+      "instagram": "18110103848292436"
     }
   ]
 }
