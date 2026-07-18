@@ -1,7 +1,6 @@
 {
-  "run_count": 58,
+  "run_count": 59,
   "recent_topics": [
-    "Ocean's Deep Secrets",
     "Automation by 2030",
     "Stars Born Daily",
     "Fear Less",
@@ -50,7 +49,8 @@
     "Hershey's Secret Ingredient",
     "Denali's Hidden Secret",
     "Ocean's Deepest Point",
-    "Neptune's Chill Secret"
+    "Neptune's Chill Secret",
+    "Petra's Hidden Water System"
   ],
   "history": [
     {
@@ -649,7 +649,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260715_164327",
@@ -663,7 +663,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260715_181514",
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260716_054337",
@@ -691,7 +691,7 @@
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260718_132758",
@@ -811,25 +811,47 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 47,
-        "likes": 2,
+        "views": 82,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260718_160050"
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260718_151613",
       "niche": "facts",
       "title": "Ocean's Deepest Point",
-      "instagram": "18103950662324574"
+      "instagram": "18103950662324574",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260718_170931"
     },
     {
       "time": "20260718_160058",
       "niche": "facts",
       "title": "Neptune's Chill Secret",
-      "instagram": "17954089149188518"
+      "instagram": "17954089149188518",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260718_170931"
+    },
+    {
+      "time": "20260718_170939",
+      "niche": "facts",
+      "title": "Petra's Hidden Water System",
+      "instagram": "18111180079951628"
     }
   ]
 }
