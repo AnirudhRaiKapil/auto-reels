@@ -1,7 +1,6 @@
 {
-  "run_count": 54,
+  "run_count": 55,
   "recent_topics": [
-    "Progress Isn't Always Obvious",
     "AI Goes Open Source",
     "Memory Limit Found",
     "Witchcraft Laws Still Exist",
@@ -50,7 +49,8 @@
     "Running Blind",
     "Energy Lost in Braking",
     "AI's Blind Spots",
-    "AI Art"
+    "AI Art",
+    "Hershey's Secret Ingredient"
   ],
   "history": [
     {
@@ -593,7 +593,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260714_162804",
@@ -607,7 +607,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260715_105424",
@@ -621,7 +621,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260715_122924",
@@ -635,7 +635,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260715_150554",
@@ -649,7 +649,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260715_164327",
@@ -663,7 +663,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260715_181514",
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260716_054337",
@@ -691,7 +691,7 @@
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260716_111805",
@@ -713,13 +713,13 @@
       "title": "Pioneers Behind Wheel",
       "instagram": "18601695565040392",
       "metrics": {
-        "views": 131,
+        "views": 134,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260716_172525",
@@ -727,13 +727,13 @@
       "title": "Memories Formed in 5 Minutes",
       "instagram": "18121860298805570",
       "metrics": {
-        "views": 118,
+        "views": 121,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260717_122706",
@@ -741,13 +741,13 @@
       "title": "Running Blind",
       "instagram": "18112487602938536",
       "metrics": {
-        "views": 38,
+        "views": 57,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260717_150530",
@@ -755,13 +755,13 @@
       "title": "Energy Lost in Braking",
       "instagram": "18150729496507258",
       "metrics": {
-        "views": 44,
-        "likes": 0,
+        "views": 133,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260717_162520",
@@ -769,19 +769,33 @@
       "title": "AI's Blind Spots",
       "instagram": "18110103848292436",
       "metrics": {
-        "views": 8,
+        "views": 41,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260717_180817"
+      "metrics_at": "20260718_054046"
     },
     {
       "time": "20260717_180826",
       "niche": "ai_news",
       "title": "AI Art",
-      "instagram": "18011241350921260"
+      "instagram": "18011241350921260",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260718_054046"
+    },
+    {
+      "time": "20260718_054053",
+      "niche": "facts",
+      "title": "Hershey's Secret Ingredient",
+      "instagram": "18098106896258593"
     }
   ]
 }
