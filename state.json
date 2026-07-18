@@ -1,7 +1,6 @@
 {
-  "run_count": 56,
+  "run_count": 57,
   "recent_topics": [
-    "Memory Limit Found",
     "Witchcraft Laws Still Exist",
     "Ocean's Deep Secrets",
     "Automation by 2030",
@@ -50,7 +49,8 @@
     "AI's Blind Spots",
     "AI Art",
     "Hershey's Secret Ingredient",
-    "Denali's Hidden Secret"
+    "Denali's Hidden Secret",
+    "Ocean's Deepest Point"
   ],
   "history": [
     {
@@ -621,7 +621,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260715_122924",
@@ -635,7 +635,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260715_150554",
@@ -649,7 +649,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260715_164327",
@@ -663,7 +663,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260715_181514",
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260716_054337",
@@ -691,7 +691,7 @@
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260717_150530",
@@ -755,13 +755,13 @@
       "title": "Energy Lost in Braking",
       "instagram": "18150729496507258",
       "metrics": {
-        "views": 138,
+        "views": 139,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260717_162520",
@@ -769,13 +769,13 @@
       "title": "AI's Blind Spots",
       "instagram": "18110103848292436",
       "metrics": {
-        "views": 65,
+        "views": 104,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260718_054053",
@@ -803,13 +803,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_132750"
+      "metrics_at": "20260718_151606"
     },
     {
       "time": "20260718_132758",
       "niche": "facts",
       "title": "Denali's Hidden Secret",
-      "instagram": "18228629800318457"
+      "instagram": "18228629800318457",
+      "metrics": {
+        "views": 24,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260718_151606"
+    },
+    {
+      "time": "20260718_151613",
+      "niche": "facts",
+      "title": "Ocean's Deepest Point",
+      "instagram": "18103950662324574"
     }
   ]
 }
