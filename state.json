@@ -1,7 +1,6 @@
 {
-  "run_count": 60,
+  "run_count": 61,
   "recent_topics": [
-    "Stars Born Daily",
     "Fear Less",
     "Underwater Mountain Ranges Exist",
     "Earth's Extreme Temperature Town",
@@ -50,7 +49,8 @@
     "Ocean's Deepest Point",
     "Neptune's Chill Secret",
     "Petra's Hidden Water System",
-    "Egypt Underwater"
+    "Egypt Underwater",
+    "French Roots of English"
   ],
   "history": [
     {
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260716_054337",
@@ -691,7 +691,7 @@
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260718_054053",
@@ -797,13 +797,13 @@
       "title": "Hershey's Secret Ingredient",
       "instagram": "18098106896258593",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 1169,
+        "views": 1182,
         "likes": 25,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260718_151613",
@@ -825,13 +825,13 @@
       "title": "Ocean's Deepest Point",
       "instagram": "18103950662324574",
       "metrics": {
-        "views": 155,
+        "views": 174,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260718_160058",
@@ -839,13 +839,13 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 269,
+        "views": 302,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260718_170939",
@@ -853,19 +853,32 @@
       "title": "Petra's Hidden Water System",
       "instagram": "18111180079951628",
       "metrics": {
-        "views": 165,
+        "views": 174,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_104832"
+      "metrics_at": "20260719_121439"
     },
     {
       "time": "20260719_104841",
       "niche": "facts",
       "title": "Egypt Underwater",
-      "instagram": "18079387712674045"
+      "instagram": "18079387712674045",
+      "metrics": {
+        "views": 85,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260719_121439"
+    },
+    {
+      "time": "20260719_121447",
+      "niche": "facts",
+      "title": "French Roots of English"
     }
   ]
 }
