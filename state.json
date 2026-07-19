@@ -1,7 +1,6 @@
 {
-  "run_count": 59,
+  "run_count": 60,
   "recent_topics": [
-    "Automation by 2030",
     "Stars Born Daily",
     "Fear Less",
     "Underwater Mountain Ranges Exist",
@@ -50,7 +49,8 @@
     "Denali's Hidden Secret",
     "Ocean's Deepest Point",
     "Neptune's Chill Secret",
-    "Petra's Hidden Water System"
+    "Petra's Hidden Water System",
+    "Egypt Underwater"
   ],
   "history": [
     {
@@ -657,13 +657,13 @@
       "title": "Navigation Without Left",
       "instagram": "18119454535888891",
       "metrics": {
-        "views": 126,
+        "views": 127,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260715_181514",
@@ -677,7 +677,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260716_054337",
@@ -685,13 +685,13 @@
       "title": "Mongolia's Cousin Marriages",
       "instagram": "18109514929897102",
       "metrics": {
-        "views": 1271,
+        "views": 1274,
         "likes": 7,
         "comments": 0,
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260717_150530",
@@ -755,13 +755,13 @@
       "title": "Energy Lost in Braking",
       "instagram": "18150729496507258",
       "metrics": {
-        "views": 140,
+        "views": 142,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260717_162520",
@@ -769,13 +769,13 @@
       "title": "AI's Blind Spots",
       "instagram": "18110103848292436",
       "metrics": {
-        "views": 104,
+        "views": 105,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260717_180826",
@@ -783,13 +783,13 @@
       "title": "AI Art",
       "instagram": "18011241350921260",
       "metrics": {
-        "views": 13,
+        "views": 15,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260718_054053",
@@ -797,13 +797,13 @@
       "title": "Hershey's Secret Ingredient",
       "instagram": "18098106896258593",
       "metrics": {
-        "views": 110,
+        "views": 115,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 82,
-        "likes": 3,
+        "views": 1169,
+        "likes": 25,
         "comments": 0,
-        "shares": 0,
+        "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260718_151613",
@@ -825,13 +825,13 @@
       "title": "Ocean's Deepest Point",
       "instagram": "18103950662324574",
       "metrics": {
-        "views": 16,
-        "likes": 0,
+        "views": 155,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260718_160058",
@@ -839,19 +839,33 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 5,
-        "likes": 0,
+        "views": 269,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260718_170931"
+      "metrics_at": "20260719_104832"
     },
     {
       "time": "20260718_170939",
       "niche": "facts",
       "title": "Petra's Hidden Water System",
-      "instagram": "18111180079951628"
+      "instagram": "18111180079951628",
+      "metrics": {
+        "views": 165,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260719_104832"
+    },
+    {
+      "time": "20260719_104841",
+      "niche": "facts",
+      "title": "Egypt Underwater",
+      "instagram": "18079387712674045"
     }
   ]
 }
