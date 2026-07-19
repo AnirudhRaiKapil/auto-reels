@@ -1,7 +1,6 @@
 {
-  "run_count": 63,
+  "run_count": 64,
   "recent_topics": [
-    "Earth's Extreme Temperature Town",
     "Andes Food Origins",
     "Language of Direction",
     "Japanese Roots",
@@ -50,7 +49,8 @@
     "Egypt Underwater",
     "French Roots of English",
     "Discipline Over Motivation",
-    "Milk in Hershey's Bars"
+    "Milk in Hershey's Bars",
+    "Wolves Take Food"
   ],
   "history": [
     {
@@ -713,13 +713,13 @@
       "title": "Pioneers Behind Wheel",
       "instagram": "18601695565040392",
       "metrics": {
-        "views": 135,
+        "views": 136,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 1188,
+        "views": 1189,
         "likes": 25,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260718_160058",
@@ -839,13 +839,13 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 330,
+        "views": 336,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 268,
+        "views": 306,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_160242"
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260719_121447",
@@ -884,13 +884,35 @@
       "time": "20260719_151801",
       "niche": "motivation",
       "title": "Discipline Over Motivation",
-      "instagram": "17892514548579934"
+      "instagram": "17892514548579934",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260719_181900"
     },
     {
       "time": "20260719_160250",
       "niche": "facts",
       "title": "Milk in Hershey's Bars",
-      "instagram": "17900253432330631"
+      "instagram": "17900253432330631",
+      "metrics": {
+        "views": 95,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260719_181900"
+    },
+    {
+      "time": "20260719_181909",
+      "niche": "facts",
+      "title": "Wolves Take Food",
+      "instagram": "18089080742436620"
     }
   ]
 }
