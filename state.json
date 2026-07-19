@@ -1,7 +1,6 @@
 {
-  "run_count": 62,
+  "run_count": 63,
   "recent_topics": [
-    "Underwater Mountain Ranges Exist",
     "Earth's Extreme Temperature Town",
     "Andes Food Origins",
     "Language of Direction",
@@ -50,7 +49,8 @@
     "Petra's Hidden Water System",
     "Egypt Underwater",
     "French Roots of English",
-    "Discipline Over Motivation"
+    "Discipline Over Motivation",
+    "Milk in Hershey's Bars"
   ],
   "history": [
     {
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260716_111805",
@@ -713,13 +713,13 @@
       "title": "Pioneers Behind Wheel",
       "instagram": "18601695565040392",
       "metrics": {
-        "views": 134,
+        "views": 135,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260718_132758",
@@ -817,7 +817,7 @@
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260718_170939",
@@ -853,13 +853,13 @@
       "title": "Petra's Hidden Water System",
       "instagram": "18111180079951628",
       "metrics": {
-        "views": 180,
+        "views": 181,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 230,
+        "views": 268,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_151754"
+      "metrics_at": "20260719_160242"
     },
     {
       "time": "20260719_121447",
@@ -885,6 +885,12 @@
       "niche": "motivation",
       "title": "Discipline Over Motivation",
       "instagram": "17892514548579934"
+    },
+    {
+      "time": "20260719_160250",
+      "niche": "facts",
+      "title": "Milk in Hershey's Bars",
+      "instagram": "17900253432330631"
     }
   ]
 }
