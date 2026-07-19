@@ -1,7 +1,6 @@
 {
-  "run_count": 61,
+  "run_count": 62,
   "recent_topics": [
-    "Fear Less",
     "Underwater Mountain Ranges Exist",
     "Earth's Extreme Temperature Town",
     "Andes Food Origins",
@@ -50,7 +49,8 @@
     "Neptune's Chill Secret",
     "Petra's Hidden Water System",
     "Egypt Underwater",
-    "French Roots of English"
+    "French Roots of English",
+    "Discipline Over Motivation"
   ],
   "history": [
     {
@@ -691,7 +691,7 @@
         "shares": 5,
         "saved": 3
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260716_081743",
@@ -705,7 +705,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260716_111805",
@@ -719,7 +719,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260716_172525",
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260717_180826",
@@ -783,13 +783,13 @@
       "title": "AI Art",
       "instagram": "18011241350921260",
       "metrics": {
-        "views": 15,
-        "likes": 0,
+        "views": 17,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 1182,
+        "views": 1188,
         "likes": 25,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260718_151613",
@@ -825,13 +825,13 @@
       "title": "Ocean's Deepest Point",
       "instagram": "18103950662324574",
       "metrics": {
-        "views": 174,
+        "views": 175,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260718_160058",
@@ -839,13 +839,13 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 302,
+        "views": 330,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260718_170939",
@@ -853,13 +853,13 @@
       "title": "Petra's Hidden Water System",
       "instagram": "18111180079951628",
       "metrics": {
-        "views": 174,
+        "views": 180,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260719_104841",
@@ -867,18 +867,24 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 85,
-        "likes": 0,
+        "views": 230,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_121439"
+      "metrics_at": "20260719_151754"
     },
     {
       "time": "20260719_121447",
       "niche": "facts",
       "title": "French Roots of English"
+    },
+    {
+      "time": "20260719_151801",
+      "niche": "motivation",
+      "title": "Discipline Over Motivation",
+      "instagram": "17892514548579934"
     }
   ]
 }
