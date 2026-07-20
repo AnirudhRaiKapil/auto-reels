@@ -1,7 +1,6 @@
 {
-  "run_count": 66,
+  "run_count": 67,
   "recent_topics": [
-    "Japanese Roots",
     "Tunnel Under Sea",
     "Air Resistance Costs",
     "Venus Spins Back",
@@ -50,7 +49,8 @@
     "Milk in Hershey's Bars",
     "Wolves Take Food",
     "Grammar Struggle",
-    "Naples Tomato Capital"
+    "Naples Tomato Capital",
+    "AI Goes Open"
   ],
   "history": [
     {
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260718_132758",
@@ -817,7 +817,7 @@
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 356,
+        "views": 380,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260719_121447",
@@ -886,13 +886,13 @@
       "title": "Discipline Over Motivation",
       "instagram": "17892514548579934",
       "metrics": {
-        "views": 12,
+        "views": 14,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260719_160250",
@@ -900,13 +900,13 @@
       "title": "Milk in Hershey's Bars",
       "instagram": "17900253432330631",
       "metrics": {
-        "views": 111,
+        "views": 112,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260719_181909",
@@ -914,13 +914,13 @@
       "title": "Wolves Take Food",
       "instagram": "18089080742436620",
       "metrics": {
-        "views": 111,
+        "views": 116,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260720_063956",
@@ -928,19 +928,33 @@
       "title": "Grammar Struggle",
       "instagram": "18093274463121043",
       "metrics": {
-        "views": 9,
+        "views": 13,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_103334"
+      "metrics_at": "20260720_132559"
     },
     {
       "time": "20260720_103342",
       "niche": "facts",
       "title": "Naples Tomato Capital",
-      "instagram": "18029722697838294"
+      "instagram": "18029722697838294",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260720_132559"
+    },
+    {
+      "time": "20260720_132608",
+      "niche": "ai_news",
+      "title": "AI Goes Open",
+      "instagram": "18081146309669159"
     }
   ]
 }
