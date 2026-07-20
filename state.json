@@ -1,7 +1,6 @@
 {
-  "run_count": 67,
+  "run_count": 68,
   "recent_topics": [
-    "Tunnel Under Sea",
     "Air Resistance Costs",
     "Venus Spins Back",
     "Tunnel Feat",
@@ -50,7 +49,8 @@
     "Wolves Take Food",
     "Grammar Struggle",
     "Naples Tomato Capital",
-    "AI Goes Open"
+    "AI Goes Open",
+    "French in English"
   ],
   "history": [
     {
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260718_132758",
@@ -817,7 +817,7 @@
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260718_151613",
@@ -825,13 +825,13 @@
       "title": "Ocean's Deepest Point",
       "instagram": "18103950662324574",
       "metrics": {
-        "views": 180,
+        "views": 181,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 380,
+        "views": 391,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260719_121447",
@@ -886,13 +886,13 @@
       "title": "Discipline Over Motivation",
       "instagram": "17892514548579934",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260719_181909",
@@ -914,13 +914,13 @@
       "title": "Wolves Take Food",
       "instagram": "18089080742436620",
       "metrics": {
-        "views": 116,
+        "views": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260720_063956",
@@ -928,13 +928,13 @@
       "title": "Grammar Struggle",
       "instagram": "18093274463121043",
       "metrics": {
-        "views": 13,
+        "views": 22,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260720_103342",
@@ -942,19 +942,33 @@
       "title": "Naples Tomato Capital",
       "instagram": "18029722697838294",
       "metrics": {
-        "views": 23,
-        "likes": 0,
+        "views": 95,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_132559"
+      "metrics_at": "20260720_183008"
     },
     {
       "time": "20260720_132608",
       "niche": "ai_news",
       "title": "AI Goes Open",
-      "instagram": "18081146309669159"
+      "instagram": "18081146309669159",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260720_183008"
+    },
+    {
+      "time": "20260720_183018",
+      "niche": "facts",
+      "title": "French in English",
+      "instagram": "17955026799192232"
     }
   ]
 }
