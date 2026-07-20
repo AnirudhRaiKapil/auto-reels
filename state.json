@@ -1,7 +1,6 @@
 {
-  "run_count": 65,
+  "run_count": 66,
   "recent_topics": [
-    "Language of Direction",
     "Japanese Roots",
     "Tunnel Under Sea",
     "Air Resistance Costs",
@@ -50,7 +49,8 @@
     "Discipline Over Motivation",
     "Milk in Hershey's Bars",
     "Wolves Take Food",
-    "Grammar Struggle"
+    "Grammar Struggle",
+    "Naples Tomato Capital"
   ],
   "history": [
     {
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 1197,
+        "views": 1199,
         "likes": 25,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260718_160058",
@@ -839,13 +839,13 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 340,
+        "views": 341,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 347,
+        "views": 356,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260719_121447",
@@ -886,13 +886,13 @@
       "title": "Discipline Over Motivation",
       "instagram": "17892514548579934",
       "metrics": {
-        "views": 8,
+        "views": 12,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260719_160250",
@@ -900,13 +900,13 @@
       "title": "Milk in Hershey's Bars",
       "instagram": "17900253432330631",
       "metrics": {
-        "views": 110,
+        "views": 111,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260719_181909",
@@ -914,19 +914,33 @@
       "title": "Wolves Take Food",
       "instagram": "18089080742436620",
       "metrics": {
-        "views": 110,
+        "views": 111,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260720_063948"
+      "metrics_at": "20260720_103334"
     },
     {
       "time": "20260720_063956",
       "niche": "facts",
       "title": "Grammar Struggle",
-      "instagram": "18093274463121043"
+      "instagram": "18093274463121043",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260720_103334"
+    },
+    {
+      "time": "20260720_103342",
+      "niche": "facts",
+      "title": "Naples Tomato Capital",
+      "instagram": "18029722697838294"
     }
   ]
 }
