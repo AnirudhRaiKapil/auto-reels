@@ -1,7 +1,6 @@
 {
-  "run_count": 64,
+  "run_count": 65,
   "recent_topics": [
-    "Andes Food Origins",
     "Language of Direction",
     "Japanese Roots",
     "Tunnel Under Sea",
@@ -50,7 +49,8 @@
     "French Roots of English",
     "Discipline Over Motivation",
     "Milk in Hershey's Bars",
-    "Wolves Take Food"
+    "Wolves Take Food",
+    "Grammar Struggle"
   ],
   "history": [
     {
@@ -733,7 +733,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260717_122706",
@@ -747,7 +747,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260717_150530",
@@ -761,7 +761,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260717_162520",
@@ -775,7 +775,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260717_180826",
@@ -789,7 +789,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260718_054053",
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260718_132758",
@@ -811,13 +811,13 @@
       "title": "Denali's Hidden Secret",
       "instagram": "18228629800318457",
       "metrics": {
-        "views": 1189,
+        "views": 1197,
         "likes": 25,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260718_151613",
@@ -825,13 +825,13 @@
       "title": "Ocean's Deepest Point",
       "instagram": "18103950662324574",
       "metrics": {
-        "views": 175,
+        "views": 180,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260718_160058",
@@ -839,13 +839,13 @@
       "title": "Neptune's Chill Secret",
       "instagram": "17954089149188518",
       "metrics": {
-        "views": 336,
+        "views": 340,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260718_170939",
@@ -853,13 +853,13 @@
       "title": "Petra's Hidden Water System",
       "instagram": "18111180079951628",
       "metrics": {
-        "views": 181,
+        "views": 183,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260719_104841",
@@ -867,13 +867,13 @@
       "title": "Egypt Underwater",
       "instagram": "18079387712674045",
       "metrics": {
-        "views": 306,
+        "views": 347,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260719_121447",
@@ -886,13 +886,13 @@
       "title": "Discipline Over Motivation",
       "instagram": "17892514548579934",
       "metrics": {
-        "views": 3,
+        "views": 8,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260719_160250",
@@ -900,19 +900,33 @@
       "title": "Milk in Hershey's Bars",
       "instagram": "17900253432330631",
       "metrics": {
-        "views": 95,
+        "views": 110,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260719_181900"
+      "metrics_at": "20260720_063948"
     },
     {
       "time": "20260719_181909",
       "niche": "facts",
       "title": "Wolves Take Food",
-      "instagram": "18089080742436620"
+      "instagram": "18089080742436620",
+      "metrics": {
+        "views": 110,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260720_063948"
+    },
+    {
+      "time": "20260720_063956",
+      "niche": "facts",
+      "title": "Grammar Struggle",
+      "instagram": "18093274463121043"
     }
   ]
 }
