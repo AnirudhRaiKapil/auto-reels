@@ -1,7 +1,6 @@
 {
-  "run_count": 69,
+  "run_count": 70,
   "recent_topics": [
-    "Venus Spins Back",
     "Tunnel Feat",
     "Traffic Peaks on Wednesdays",
     "Swiss Guinea Pig Law",
@@ -50,7 +49,8 @@
     "Naples Tomato Capital",
     "AI Goes Open",
     "French in English",
-    "Birds That Fly Backwards"
+    "Birds That Fly Backwards",
+    "Lions Rule Night"
   ],
   "history": [
     {
@@ -803,7 +803,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260718_132758",
@@ -817,7 +817,7 @@
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260719_104841",
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260720_103342",
@@ -942,13 +942,13 @@
       "title": "Naples Tomato Capital",
       "instagram": "18029722697838294",
       "metrics": {
-        "views": 132,
-        "likes": 3,
+        "views": 165,
+        "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260720_132608",
@@ -956,13 +956,13 @@
       "title": "AI Goes Open",
       "instagram": "18081146309669159",
       "metrics": {
-        "views": 23,
-        "likes": 0,
+        "views": 38,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260720_183018",
@@ -970,19 +970,33 @@
       "title": "French in English",
       "instagram": "17955026799192232",
       "metrics": {
-        "views": 93,
-        "likes": 1,
+        "views": 119,
+        "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260721_084300"
+      "metrics_at": "20260721_160415"
     },
     {
       "time": "20260721_084309",
       "niche": "facts",
       "title": "Birds That Fly Backwards",
-      "instagram": "18093522287374829"
+      "instagram": "18093522287374829",
+      "metrics": {
+        "views": 599,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260721_160415"
+    },
+    {
+      "time": "20260721_160426",
+      "niche": "facts",
+      "title": "Lions Rule Night",
+      "instagram": "18108312632015029"
     }
   ]
 }
