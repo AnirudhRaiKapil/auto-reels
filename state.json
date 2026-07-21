@@ -1,7 +1,6 @@
 {
-  "run_count": 70,
+  "run_count": 71,
   "recent_topics": [
-    "Tunnel Feat",
     "Traffic Peaks on Wednesdays",
     "Swiss Guinea Pig Law",
     "One Tiny Morning Habit",
@@ -50,7 +49,8 @@
     "AI Goes Open",
     "French in English",
     "Birds That Fly Backwards",
-    "Lions Rule Night"
+    "Lions Rule Night",
+    "Birds Outrun Predators"
   ],
   "history": [
     {
@@ -817,7 +817,7 @@
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260718_151613",
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260719_104841",
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260720_103342",
@@ -942,13 +942,13 @@
       "title": "Naples Tomato Capital",
       "instagram": "18029722697838294",
       "metrics": {
-        "views": 165,
+        "views": 175,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260721_084309",
@@ -984,19 +984,33 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18093522287374829",
       "metrics": {
-        "views": 599,
+        "views": 696,
         "likes": 8,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_160415"
+      "metrics_at": "20260721_172231"
     },
     {
       "time": "20260721_160426",
       "niche": "facts",
       "title": "Lions Rule Night",
-      "instagram": "18108312632015029"
+      "instagram": "18108312632015029",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260721_172231"
+    },
+    {
+      "time": "20260721_172239",
+      "niche": "facts",
+      "title": "Birds Outrun Predators",
+      "instagram": "18113618639477655"
     }
   ]
 }
