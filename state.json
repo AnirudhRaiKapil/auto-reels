@@ -1,7 +1,6 @@
 {
-  "run_count": 73,
+  "run_count": 74,
   "recent_topics": [
-    "One Tiny Morning Habit",
     "Human Microbe Hybrid",
     "Forgetting Starts Immediately",
     "Deep Ocean Survival",
@@ -50,7 +49,8 @@
     "Lions Rule Night",
     "Birds Outrun Predators",
     "Akashi Bridge Engineering Feat",
-    "Turtles' Magnetic Navigation"
+    "Turtles' Magnetic Navigation",
+    "Itaipu Dam's Massive Scale"
   ],
   "history": [
     {
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260719_104841",
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260720_103342",
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260721_084309",
@@ -990,7 +990,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260721_172239",
@@ -1012,13 +1012,13 @@
       "title": "Birds Outrun Predators",
       "instagram": "18113618639477655",
       "metrics": {
-        "views": 194,
+        "views": 196,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260722_140838",
@@ -1032,13 +1032,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_155450"
+      "metrics_at": "20260722_172307"
     },
     {
       "time": "20260722_155459",
       "niche": "facts",
       "title": "Turtles' Magnetic Navigation",
-      "instagram": "17980197449885103"
+      "instagram": "17980197449885103",
+      "metrics": {
+        "views": 103,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260722_172307"
+    },
+    {
+      "time": "20260722_172316",
+      "niche": "facts",
+      "title": "Itaipu Dam's Massive Scale",
+      "instagram": "18408422398157632"
     }
   ]
 }
