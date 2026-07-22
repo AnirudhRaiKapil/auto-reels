@@ -1,7 +1,6 @@
 {
-  "run_count": 72,
+  "run_count": 73,
   "recent_topics": [
-    "Swiss Guinea Pig Law",
     "One Tiny Morning Habit",
     "Human Microbe Hybrid",
     "Forgetting Starts Immediately",
@@ -50,7 +49,8 @@
     "Birds That Fly Backwards",
     "Lions Rule Night",
     "Birds Outrun Predators",
-    "Akashi Bridge Engineering Feat"
+    "Akashi Bridge Engineering Feat",
+    "Turtles' Magnetic Navigation"
   ],
   "history": [
     {
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260719_104841",
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260720_103342",
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260721_084309",
@@ -984,13 +984,13 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18093522287374829",
       "metrics": {
-        "views": 1183,
+        "views": 1184,
         "likes": 15,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260721_172239",
@@ -1018,13 +1018,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_140830"
+      "metrics_at": "20260722_155450"
     },
     {
       "time": "20260722_140838",
       "niche": "facts",
       "title": "Akashi Bridge Engineering Feat",
-      "instagram": "18414570010149512"
+      "instagram": "18414570010149512",
+      "metrics": {
+        "views": 116,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260722_155450"
+    },
+    {
+      "time": "20260722_155459",
+      "niche": "facts",
+      "title": "Turtles' Magnetic Navigation",
+      "instagram": "17980197449885103"
     }
   ]
 }
