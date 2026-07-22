@@ -1,7 +1,6 @@
 {
-  "run_count": 71,
+  "run_count": 72,
   "recent_topics": [
-    "Traffic Peaks on Wednesdays",
     "Swiss Guinea Pig Law",
     "One Tiny Morning Habit",
     "Human Microbe Hybrid",
@@ -50,7 +49,8 @@
     "French in English",
     "Birds That Fly Backwards",
     "Lions Rule Night",
-    "Birds Outrun Predators"
+    "Birds Outrun Predators",
+    "Akashi Bridge Engineering Feat"
   ],
   "history": [
     {
@@ -831,7 +831,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260718_160058",
@@ -845,7 +845,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260718_170939",
@@ -859,7 +859,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260719_104841",
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260719_181909",
@@ -914,13 +914,13 @@
       "title": "Wolves Take Food",
       "instagram": "18089080742436620",
       "metrics": {
-        "views": 124,
+        "views": 125,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260720_103342",
@@ -942,13 +942,13 @@
       "title": "Naples Tomato Capital",
       "instagram": "18029722697838294",
       "metrics": {
-        "views": 175,
-        "likes": 4,
+        "views": 184,
+        "likes": 5,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260720_183018",
@@ -970,13 +970,13 @@
       "title": "French in English",
       "instagram": "17955026799192232",
       "metrics": {
-        "views": 119,
+        "views": 126,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260721_084309",
@@ -984,13 +984,13 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18093522287374829",
       "metrics": {
-        "views": 696,
-        "likes": 8,
+        "views": 1183,
+        "likes": 15,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260721_160426",
@@ -998,19 +998,33 @@
       "title": "Lions Rule Night",
       "instagram": "18108312632015029",
       "metrics": {
-        "views": 10,
-        "likes": 0,
+        "views": 118,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260721_172231"
+      "metrics_at": "20260722_140830"
     },
     {
       "time": "20260721_172239",
       "niche": "facts",
       "title": "Birds Outrun Predators",
-      "instagram": "18113618639477655"
+      "instagram": "18113618639477655",
+      "metrics": {
+        "views": 194,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260722_140830"
+    },
+    {
+      "time": "20260722_140838",
+      "niche": "facts",
+      "title": "Akashi Bridge Engineering Feat",
+      "instagram": "18414570010149512"
     }
   ]
 }
