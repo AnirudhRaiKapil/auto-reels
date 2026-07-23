@@ -1,7 +1,6 @@
 {
-  "run_count": 76,
+  "run_count": 77,
   "recent_topics": [
-    "Deep Ocean Survival",
     "Beyond Social Media",
     "Blood Vessel Network",
     "Weird Law",
@@ -50,7 +49,8 @@
     "Turtles' Magnetic Navigation",
     "Itaipu Dam's Massive Scale",
     "Bridges Defy Extreme Winds",
-    "French Roots in English"
+    "French Roots in English",
+    "Robots Build Cars"
   ],
   "history": [
     {
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260720_103342",
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260721_084309",
@@ -990,7 +990,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260721_172239",
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260722_155459",
@@ -1046,7 +1046,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260722_172316",
@@ -1054,13 +1054,13 @@
       "title": "Itaipu Dam's Massive Scale",
       "instagram": "18408422398157632",
       "metrics": {
-        "views": 143,
+        "views": 144,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260723_060453",
@@ -1068,19 +1068,33 @@
       "title": "Bridges Defy Extreme Winds",
       "instagram": "18182454217364973",
       "metrics": {
-        "views": 119,
+        "views": 121,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_141901"
+      "metrics_at": "20260723_163431"
     },
     {
       "time": "20260723_141915",
       "niche": "facts",
       "title": "French Roots in English",
-      "instagram": "17899773156533604"
+      "instagram": "17899773156533604",
+      "metrics": {
+        "views": 60,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260723_163431"
+    },
+    {
+      "time": "20260723_163440",
+      "niche": "ai_news",
+      "title": "Robots Build Cars",
+      "instagram": "18104230709174054"
     }
   ]
 }
