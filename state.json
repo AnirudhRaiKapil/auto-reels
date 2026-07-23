@@ -1,7 +1,6 @@
 {
-  "run_count": 74,
+  "run_count": 75,
   "recent_topics": [
-    "Human Microbe Hybrid",
     "Forgetting Starts Immediately",
     "Deep Ocean Survival",
     "Beyond Social Media",
@@ -50,7 +49,8 @@
     "Birds Outrun Predators",
     "Akashi Bridge Engineering Feat",
     "Turtles' Magnetic Navigation",
-    "Itaipu Dam's Massive Scale"
+    "Itaipu Dam's Massive Scale",
+    "Bridges Defy Extreme Winds"
   ],
   "history": [
     {
@@ -873,7 +873,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260719_121447",
@@ -892,7 +892,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260719_160250",
@@ -906,7 +906,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260719_181909",
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260720_103342",
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260721_084309",
@@ -984,13 +984,13 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18093522287374829",
       "metrics": {
-        "views": 1184,
+        "views": 1187,
         "likes": 15,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260721_160426",
@@ -998,13 +998,13 @@
       "title": "Lions Rule Night",
       "instagram": "18108312632015029",
       "metrics": {
-        "views": 118,
+        "views": 120,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260721_172239",
@@ -1012,13 +1012,13 @@
       "title": "Birds Outrun Predators",
       "instagram": "18113618639477655",
       "metrics": {
-        "views": 196,
+        "views": 199,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260722_140838",
@@ -1026,13 +1026,13 @@
       "title": "Akashi Bridge Engineering Feat",
       "instagram": "18414570010149512",
       "metrics": {
-        "views": 116,
+        "views": 117,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260722_155459",
@@ -1040,19 +1040,33 @@
       "title": "Turtles' Magnetic Navigation",
       "instagram": "17980197449885103",
       "metrics": {
-        "views": 103,
-        "likes": 3,
+        "views": 146,
+        "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260722_172307"
+      "metrics_at": "20260723_060445"
     },
     {
       "time": "20260722_172316",
       "niche": "facts",
       "title": "Itaipu Dam's Massive Scale",
-      "instagram": "18408422398157632"
+      "instagram": "18408422398157632",
+      "metrics": {
+        "views": 126,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260723_060445"
+    },
+    {
+      "time": "20260723_060453",
+      "niche": "facts",
+      "title": "Bridges Defy Extreme Winds",
+      "instagram": "18182454217364973"
     }
   ]
 }
