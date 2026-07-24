@@ -1,7 +1,6 @@
 {
-  "run_count": 80,
+  "run_count": 81,
   "recent_topics": [
-    "Deep Ocean Secrets",
     "Depth Beyond Belief",
     "Failure Predicted",
     "Suits Required by Law",
@@ -50,7 +49,8 @@
     "Robots Build Cars",
     "Deepest Hole",
     "Forgetting Curve Explained",
-    "Talus Bone Fracture Risk"
+    "Talus Bone Fracture Risk",
+    "Cocoa's Hidden Journey"
   ],
   "history": [
     {
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260721_084309",
@@ -990,7 +990,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260721_172239",
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260722_155459",
@@ -1040,13 +1040,13 @@
       "title": "Turtles' Magnetic Navigation",
       "instagram": "17980197449885103",
       "metrics": {
-        "views": 168,
-        "likes": 4,
+        "views": 169,
+        "likes": 5,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260722_172316",
@@ -1060,7 +1060,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260723_060453",
@@ -1074,7 +1074,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260723_141915",
@@ -1088,7 +1088,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260723_163440",
@@ -1096,13 +1096,13 @@
       "title": "Robots Build Cars",
       "instagram": "18104230709174054",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260723_183742",
@@ -1110,13 +1110,13 @@
       "title": "Deepest Hole",
       "instagram": "18444226516143522",
       "metrics": {
-        "views": 123,
+        "views": 125,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260724_083355",
@@ -1124,19 +1124,33 @@
       "title": "Forgetting Curve Explained",
       "instagram": "17956788294175785",
       "metrics": {
-        "views": 68,
+        "views": 110,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_110506"
+      "metrics_at": "20260724_154441"
     },
     {
       "time": "20260724_110515",
       "niche": "facts",
       "title": "Talus Bone Fracture Risk",
-      "instagram": "17976678795116570"
+      "instagram": "17976678795116570",
+      "metrics": {
+        "views": 164,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260724_154441"
+    },
+    {
+      "time": "20260724_154451",
+      "niche": "facts",
+      "title": "Cocoa's Hidden Journey",
+      "instagram": "18022298696852638"
     }
   ]
 }
