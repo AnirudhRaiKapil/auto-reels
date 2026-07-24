@@ -1,7 +1,6 @@
 {
-  "run_count": 78,
+  "run_count": 79,
   "recent_topics": [
-    "Blood Vessel Network",
     "Weird Law",
     "Deep Ocean Secrets",
     "Depth Beyond Belief",
@@ -50,7 +49,8 @@
     "Bridges Defy Extreme Winds",
     "French Roots in English",
     "Robots Build Cars",
-    "Deepest Hole"
+    "Deepest Hole",
+    "Forgetting Curve Explained"
   ],
   "history": [
     {
@@ -920,7 +920,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260720_063956",
@@ -934,7 +934,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260720_103342",
@@ -948,7 +948,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260720_132608",
@@ -962,7 +962,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260720_183018",
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260721_084309",
@@ -990,7 +990,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260721_172239",
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260722_155459",
@@ -1040,13 +1040,13 @@
       "title": "Turtles' Magnetic Navigation",
       "instagram": "17980197449885103",
       "metrics": {
-        "views": 157,
+        "views": 168,
         "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260722_172316",
@@ -1054,13 +1054,13 @@
       "title": "Itaipu Dam's Massive Scale",
       "instagram": "18408422398157632",
       "metrics": {
-        "views": 145,
+        "views": 153,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260723_060453",
@@ -1068,13 +1068,13 @@
       "title": "Bridges Defy Extreme Winds",
       "instagram": "18182454217364973",
       "metrics": {
-        "views": 121,
+        "views": 124,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260723_141915",
@@ -1082,13 +1082,13 @@
       "title": "French Roots in English",
       "instagram": "17899773156533604",
       "metrics": {
-        "views": 65,
+        "views": 115,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260723_163440",
@@ -1096,19 +1096,33 @@
       "title": "Robots Build Cars",
       "instagram": "18104230709174054",
       "metrics": {
-        "views": 45,
-        "likes": 1,
+        "views": 113,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260723_183734"
+      "metrics_at": "20260724_083347"
     },
     {
       "time": "20260723_183742",
       "niche": "facts",
       "title": "Deepest Hole",
-      "instagram": "18444226516143522"
+      "instagram": "18444226516143522",
+      "metrics": {
+        "views": 122,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260724_083347"
+    },
+    {
+      "time": "20260724_083355",
+      "niche": "facts",
+      "title": "Forgetting Curve Explained",
+      "instagram": "17956788294175785"
     }
   ]
 }
