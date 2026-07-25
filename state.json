@@ -1,7 +1,6 @@
 {
-  "run_count": 82,
+  "run_count": 83,
   "recent_topics": [
-    "Failure Predicted",
     "Suits Required by Law",
     "AI Outsmarts Human Doctors",
     "Longest Bridge",
@@ -50,7 +49,8 @@
     "Forgetting Curve Explained",
     "Talus Bone Fracture Risk",
     "Cocoa's Hidden Journey",
-    "Chocolate's Secret"
+    "Chocolate's Secret",
+    "Voting Mandatory"
   ],
   "history": [
     {
@@ -976,7 +976,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260721_084309",
@@ -990,7 +990,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260721_160426",
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260721_172239",
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260722_155459",
@@ -1046,7 +1046,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260722_172316",
@@ -1060,7 +1060,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260723_060453",
@@ -1074,7 +1074,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260723_141915",
@@ -1088,7 +1088,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260723_163440",
@@ -1096,13 +1096,13 @@
       "title": "Robots Build Cars",
       "instagram": "18104230709174054",
       "metrics": {
-        "views": 117,
+        "views": 119,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260723_183742",
@@ -1116,7 +1116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260724_083355",
@@ -1124,13 +1124,13 @@
       "title": "Forgetting Curve Explained",
       "instagram": "17956788294175785",
       "metrics": {
-        "views": 110,
+        "views": 113,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260724_110515",
@@ -1138,13 +1138,13 @@
       "title": "Talus Bone Fracture Risk",
       "instagram": "17976678795116570",
       "metrics": {
-        "views": 251,
+        "views": 447,
         "likes": 2,
         "comments": 0,
-        "shares": 0,
+        "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260724_154451",
@@ -1152,19 +1152,33 @@
       "title": "Cocoa's Hidden Journey",
       "instagram": "18022298696852638",
       "metrics": {
-        "views": 27,
+        "views": 110,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260724_174513"
+      "metrics_at": "20260725_060751"
     },
     {
       "time": "20260724_174522",
       "niche": "facts",
       "title": "Chocolate's Secret",
-      "instagram": "17987149664848049"
+      "instagram": "17987149664848049",
+      "metrics": {
+        "views": 118,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260725_060751"
+    },
+    {
+      "time": "20260725_060800",
+      "niche": "facts",
+      "title": "Voting Mandatory",
+      "instagram": "18105944105023831"
     }
   ]
 }
