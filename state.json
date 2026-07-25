@@ -1,7 +1,6 @@
 {
-  "run_count": 85,
+  "run_count": 86,
   "recent_topics": [
-    "Longest Bridge",
     "Longest Left-Hand Word",
     "Alaska's Weird Law",
     "World's Longest Tunnel",
@@ -50,7 +49,8 @@
     "Chocolate's Secret",
     "Voting Mandatory",
     "Thailand's Hidden Underwear Law",
-    "Fear Less, Learn More"
+    "Fear Less, Learn More",
+    "Tallest Mountain Not Everest"
   ],
   "history": [
     {
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260722_155459",
@@ -1046,7 +1046,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260722_172316",
@@ -1060,7 +1060,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260723_060453",
@@ -1074,7 +1074,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260723_141915",
@@ -1088,7 +1088,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260723_163440",
@@ -1102,7 +1102,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260723_183742",
@@ -1116,7 +1116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260724_083355",
@@ -1130,7 +1130,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260724_110515",
@@ -1138,13 +1138,13 @@
       "title": "Talus Bone Fracture Risk",
       "instagram": "17976678795116570",
       "metrics": {
-        "views": 555,
+        "views": 558,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260724_154451",
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260724_174522",
@@ -1166,13 +1166,13 @@
       "title": "Chocolate's Secret",
       "instagram": "17987149664848049",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260725_060800",
@@ -1180,13 +1180,13 @@
       "title": "Voting Mandatory",
       "instagram": "18105944105023831",
       "metrics": {
-        "views": 119,
+        "views": 120,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260725_120450",
@@ -1194,19 +1194,33 @@
       "title": "Thailand's Hidden Underwear Law",
       "instagram": "18039366932618972",
       "metrics": {
-        "views": 27,
+        "views": 46,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_145708"
+      "metrics_at": "20260725_161439"
     },
     {
       "time": "20260725_145716",
       "niche": "motivation",
       "title": "Fear Less, Learn More",
-      "instagram": "17937757212292248"
+      "instagram": "17937757212292248",
+      "metrics": {
+        "views": 9,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260725_161439"
+    },
+    {
+      "time": "20260725_161446",
+      "niche": "facts",
+      "title": "Tallest Mountain Not Everest",
+      "instagram": "18140642470563869"
     }
   ]
 }
