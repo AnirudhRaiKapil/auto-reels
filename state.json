@@ -1,7 +1,6 @@
 {
-  "run_count": 84,
+  "run_count": 85,
   "recent_topics": [
-    "AI Outsmarts Human Doctors",
     "Longest Bridge",
     "Longest Left-Hand Word",
     "Alaska's Weird Law",
@@ -50,7 +49,8 @@
     "Cocoa's Hidden Journey",
     "Chocolate's Secret",
     "Voting Mandatory",
-    "Thailand's Hidden Underwear Law"
+    "Thailand's Hidden Underwear Law",
+    "Fear Less, Learn More"
   ],
   "history": [
     {
@@ -1004,7 +1004,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260721_172239",
@@ -1018,7 +1018,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260722_140838",
@@ -1032,7 +1032,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260722_155459",
@@ -1046,7 +1046,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260722_172316",
@@ -1060,7 +1060,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260723_060453",
@@ -1074,7 +1074,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260723_141915",
@@ -1088,7 +1088,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260723_163440",
@@ -1102,7 +1102,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260723_183742",
@@ -1116,7 +1116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260724_083355",
@@ -1130,7 +1130,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260724_110515",
@@ -1138,13 +1138,13 @@
       "title": "Talus Bone Fracture Risk",
       "instagram": "17976678795116570",
       "metrics": {
-        "views": 529,
-        "likes": 2,
+        "views": 555,
+        "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260724_154451",
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260724_174522",
@@ -1172,7 +1172,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260725_060800",
@@ -1180,19 +1180,33 @@
       "title": "Voting Mandatory",
       "instagram": "18105944105023831",
       "metrics": {
-        "views": 118,
+        "views": 119,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_120442"
+      "metrics_at": "20260725_145708"
     },
     {
       "time": "20260725_120450",
       "niche": "facts",
       "title": "Thailand's Hidden Underwear Law",
-      "instagram": "18039366932618972"
+      "instagram": "18039366932618972",
+      "metrics": {
+        "views": 27,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260725_145708"
+    },
+    {
+      "time": "20260725_145716",
+      "niche": "motivation",
+      "title": "Fear Less, Learn More",
+      "instagram": "17937757212292248"
     }
   ]
 }
