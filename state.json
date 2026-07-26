@@ -1,7 +1,6 @@
 {
-  "run_count": 91,
+  "run_count": 92,
   "recent_topics": [
-    "Blood Vessels Inside Us",
     "Microbes Outnumber Humans",
     "Writing Daily Works",
     "Navigation Without Left",
@@ -50,7 +49,8 @@
     "Arabic Roots",
     "Earth's Hottest Place",
     "Saffron's Hidden Cost",
-    "Mariana Trench Extreme Depths"
+    "Mariana Trench Extreme Depths",
+    "Space Station Orbits Earth"
   ],
   "history": [
     {
@@ -1102,7 +1102,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260723_183742",
@@ -1116,7 +1116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260724_083355",
@@ -1130,7 +1130,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260724_110515",
@@ -1144,7 +1144,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260724_154451",
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260724_174522",
@@ -1172,7 +1172,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260725_060800",
@@ -1186,7 +1186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260725_120450",
@@ -1194,13 +1194,13 @@
       "title": "Thailand's Hidden Underwear Law",
       "instagram": "18039366932618972",
       "metrics": {
-        "views": 195,
+        "views": 197,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260725_145716",
@@ -1208,13 +1208,13 @@
       "title": "Fear Less, Learn More",
       "instagram": "17937757212292248",
       "metrics": {
-        "views": 38,
+        "views": 41,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260725_180501",
@@ -1236,13 +1236,13 @@
       "title": "Ramadan Public Eating Fines",
       "instagram": "18208227475359149",
       "metrics": {
-        "views": 123,
+        "views": 125,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260726_092111",
@@ -1264,13 +1264,13 @@
       "title": "Earth's Hottest Place",
       "instagram": "18107225969032005",
       "metrics": {
-        "views": 124,
-        "likes": 2,
+        "views": 130,
+        "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260726_114259",
@@ -1278,19 +1278,33 @@
       "title": "Saffron's Hidden Cost",
       "instagram": "18086430866557475",
       "metrics": {
-        "views": 111,
+        "views": 113,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260726_134746"
+      "metrics_at": "20260726_150939"
     },
     {
       "time": "20260726_134755",
       "niche": "facts",
       "title": "Mariana Trench Extreme Depths",
-      "instagram": "18056174048781170"
+      "instagram": "18056174048781170",
+      "metrics": {
+        "views": 23,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260726_150939"
+    },
+    {
+      "time": "20260726_150947",
+      "niche": "facts",
+      "title": "Space Station Orbits Earth",
+      "instagram": "17916157890422459"
     }
   ]
 }
