@@ -1,7 +1,6 @@
 {
-  "run_count": 87,
+  "run_count": 88,
   "recent_topics": [
-    "Alaska's Weird Law",
     "World's Longest Tunnel",
     "Faking Death to Survive",
     "Tiny Wins Add Up",
@@ -50,7 +49,8 @@
     "Thailand's Hidden Underwear Law",
     "Fear Less, Learn More",
     "Tallest Mountain Not Everest",
-    "Ramadan Public Eating Fines"
+    "Ramadan Public Eating Fines",
+    "Arabic Roots"
   ],
   "history": [
     {
@@ -1046,7 +1046,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260722_172316",
@@ -1060,7 +1060,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260723_060453",
@@ -1074,7 +1074,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260723_141915",
@@ -1088,7 +1088,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260723_163440",
@@ -1102,7 +1102,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260723_183742",
@@ -1116,7 +1116,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260724_083355",
@@ -1124,13 +1124,13 @@
       "title": "Forgetting Curve Explained",
       "instagram": "17956788294175785",
       "metrics": {
-        "views": 113,
+        "views": 115,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260724_110515",
@@ -1138,13 +1138,13 @@
       "title": "Talus Bone Fracture Risk",
       "instagram": "17976678795116570",
       "metrics": {
-        "views": 566,
+        "views": 572,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260724_154451",
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260724_174522",
@@ -1166,13 +1166,13 @@
       "title": "Chocolate's Secret",
       "instagram": "17987149664848049",
       "metrics": {
-        "views": 124,
+        "views": 125,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260725_060800",
@@ -1180,13 +1180,13 @@
       "title": "Voting Mandatory",
       "instagram": "18105944105023831",
       "metrics": {
-        "views": 125,
+        "views": 130,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260725_120450",
@@ -1194,13 +1194,13 @@
       "title": "Thailand's Hidden Underwear Law",
       "instagram": "18039366932618972",
       "metrics": {
-        "views": 144,
+        "views": 173,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260725_145716",
@@ -1208,13 +1208,13 @@
       "title": "Fear Less, Learn More",
       "instagram": "17937757212292248",
       "metrics": {
-        "views": 11,
+        "views": 31,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260725_161446",
@@ -1222,19 +1222,33 @@
       "title": "Tallest Mountain Not Everest",
       "instagram": "18140642470563869",
       "metrics": {
-        "views": 47,
-        "likes": 0,
+        "views": 146,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260725_180452"
+      "metrics_at": "20260726_061115"
     },
     {
       "time": "20260725_180501",
       "niche": "facts",
       "title": "Ramadan Public Eating Fines",
-      "instagram": "18208227475359149"
+      "instagram": "18208227475359149",
+      "metrics": {
+        "views": 117,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260726_061115"
+    },
+    {
+      "time": "20260726_061125",
+      "niche": "facts",
+      "title": "Arabic Roots",
+      "instagram": "18097886069250169"
     }
   ]
 }
