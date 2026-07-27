@@ -1,7 +1,6 @@
 {
-  "run_count": 93,
+  "run_count": 94,
   "recent_topics": [
-    "Writing Daily Works",
     "Navigation Without Left",
     "From Obscurity",
     "Mongolia's Cousin Marriages",
@@ -50,7 +49,8 @@
     "Saffron's Hidden Cost",
     "Mariana Trench Extreme Depths",
     "Space Station Orbits Earth",
-    "AI in Music Creation"
+    "AI in Music Creation",
+    "AI's Secret"
   ],
   "history": [
     {
@@ -1130,7 +1130,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260724_110515",
@@ -1144,7 +1144,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260724_154451",
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260724_174522",
@@ -1172,7 +1172,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260725_060800",
@@ -1186,7 +1186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260725_120450",
@@ -1200,7 +1200,7 @@
         "shares": 4,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260725_145716",
@@ -1214,7 +1214,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260725_180501",
@@ -1242,7 +1242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260726_092111",
@@ -1270,7 +1270,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260726_114259",
@@ -1278,13 +1278,13 @@
       "title": "Saffron's Hidden Cost",
       "instagram": "18086430866557475",
       "metrics": {
-        "views": 175,
+        "views": 179,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260726_134755",
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260726_150947",
@@ -1312,13 +1312,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_140433"
+      "metrics_at": "20260727_164342"
     },
     {
       "time": "20260727_140444",
       "niche": "ai_news",
       "title": "AI in Music Creation",
-      "instagram": "18123333961687560"
+      "instagram": "18123333961687560",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260727_164342"
+    },
+    {
+      "time": "20260727_164358",
+      "niche": "ai_news",
+      "title": "AI's Secret",
+      "instagram": "18418212370194801"
     }
   ]
 }
