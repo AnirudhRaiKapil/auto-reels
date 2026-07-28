@@ -1,7 +1,6 @@
 {
-  "run_count": 95,
+  "run_count": 96,
   "recent_topics": [
-    "From Obscurity",
     "Mongolia's Cousin Marriages",
     "Old Laws Remain",
     "Pioneers Behind Wheel",
@@ -50,7 +49,8 @@
     "Space Station Orbits Earth",
     "AI in Music Creation",
     "AI's Secret",
-    "Memory Limit Found"
+    "Memory Limit Found",
+    "Venus Hidden Volcanoes"
   ],
   "history": [
     {
@@ -1158,7 +1158,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260724_174522",
@@ -1172,7 +1172,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260725_060800",
@@ -1186,7 +1186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260725_120450",
@@ -1194,13 +1194,13 @@
       "title": "Thailand's Hidden Underwear Law",
       "instagram": "18039366932618972",
       "metrics": {
-        "views": 211,
+        "views": 212,
         "likes": 1,
         "comments": 0,
         "shares": 4,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260725_145716",
@@ -1214,7 +1214,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260725_180501",
@@ -1242,7 +1242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260726_092111",
@@ -1270,7 +1270,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260726_114259",
@@ -1278,13 +1278,13 @@
       "title": "Saffron's Hidden Cost",
       "instagram": "18086430866557475",
       "metrics": {
-        "views": 181,
+        "views": 186,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260726_134755",
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260726_150947",
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260727_140444",
@@ -1320,13 +1320,13 @@
       "title": "AI in Music Creation",
       "instagram": "18123333961687560",
       "metrics": {
-        "views": 2,
-        "likes": 0,
+        "views": 20,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260727_164358",
@@ -1334,19 +1334,33 @@
       "title": "AI's Secret",
       "instagram": "18418212370194801",
       "metrics": {
-        "views": 2,
+        "views": 8,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260727_183018"
+      "metrics_at": "20260728_084448"
     },
     {
       "time": "20260727_183027",
       "niche": "facts",
       "title": "Memory Limit Found",
-      "instagram": "18017983559904942"
+      "instagram": "18017983559904942",
+      "metrics": {
+        "views": 66,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260728_084448"
+    },
+    {
+      "time": "20260728_084456",
+      "niche": "facts",
+      "title": "Venus Hidden Volcanoes",
+      "instagram": "17979162144071075"
     }
   ]
 }
