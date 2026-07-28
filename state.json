@@ -1,7 +1,6 @@
 {
-  "run_count": 97,
+  "run_count": 98,
   "recent_topics": [
-    "Old Laws Remain",
     "Pioneers Behind Wheel",
     "Memories Formed in 5 Minutes",
     "Running Blind",
@@ -50,7 +49,8 @@
     "AI's Secret",
     "Memory Limit Found",
     "Venus Hidden Volcanoes",
-    "World's Coldest Town"
+    "World's Coldest Town",
+    "Petra's Enduring Stonework"
   ],
   "history": [
     {
@@ -1186,7 +1186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260725_120450",
@@ -1200,7 +1200,7 @@
         "shares": 4,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260725_145716",
@@ -1214,7 +1214,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260725_180501",
@@ -1242,7 +1242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260726_092111",
@@ -1270,7 +1270,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260726_114259",
@@ -1278,13 +1278,13 @@
       "title": "Saffron's Hidden Cost",
       "instagram": "18086430866557475",
       "metrics": {
-        "views": 186,
+        "views": 187,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260726_134755",
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260726_150947",
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260727_140444",
@@ -1326,7 +1326,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260727_164358",
@@ -1340,7 +1340,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260727_183027",
@@ -1348,13 +1348,13 @@
       "title": "Memory Limit Found",
       "instagram": "18017983559904942",
       "metrics": {
-        "views": 94,
+        "views": 112,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260728_084456",
@@ -1362,19 +1362,33 @@
       "title": "Venus Hidden Volcanoes",
       "instagram": "17979162144071075",
       "metrics": {
-        "views": 176,
-        "likes": 3,
+        "views": 217,
+        "likes": 4,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_141900"
+      "metrics_at": "20260728_164231"
     },
     {
       "time": "20260728_141911",
       "niche": "facts",
       "title": "World's Coldest Town",
-      "instagram": "18105481012871752"
+      "instagram": "18105481012871752",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260728_164231"
+    },
+    {
+      "time": "20260728_164238",
+      "niche": "facts",
+      "title": "Petra's Enduring Stonework",
+      "instagram": "17935800873307931"
     }
   ]
 }
