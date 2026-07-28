@@ -1,7 +1,6 @@
 {
-  "run_count": 96,
+  "run_count": 97,
   "recent_topics": [
-    "Mongolia's Cousin Marriages",
     "Old Laws Remain",
     "Pioneers Behind Wheel",
     "Memories Formed in 5 Minutes",
@@ -50,7 +49,8 @@
     "AI in Music Creation",
     "AI's Secret",
     "Memory Limit Found",
-    "Venus Hidden Volcanoes"
+    "Venus Hidden Volcanoes",
+    "World's Coldest Town"
   ],
   "history": [
     {
@@ -1172,7 +1172,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260725_060800",
@@ -1186,7 +1186,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260725_120450",
@@ -1200,7 +1200,7 @@
         "shares": 4,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260725_145716",
@@ -1214,7 +1214,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260725_180501",
@@ -1242,7 +1242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260726_092111",
@@ -1270,7 +1270,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260726_114259",
@@ -1284,7 +1284,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260726_134755",
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260726_150947",
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260727_140444",
@@ -1320,13 +1320,13 @@
       "title": "AI in Music Creation",
       "instagram": "18123333961687560",
       "metrics": {
-        "views": 20,
+        "views": 25,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260727_164358",
@@ -1334,13 +1334,13 @@
       "title": "AI's Secret",
       "instagram": "18418212370194801",
       "metrics": {
-        "views": 8,
+        "views": 10,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260727_183027",
@@ -1348,19 +1348,33 @@
       "title": "Memory Limit Found",
       "instagram": "18017983559904942",
       "metrics": {
-        "views": 66,
+        "views": 94,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_084448"
+      "metrics_at": "20260728_141900"
     },
     {
       "time": "20260728_084456",
       "niche": "facts",
       "title": "Venus Hidden Volcanoes",
-      "instagram": "17979162144071075"
+      "instagram": "17979162144071075",
+      "metrics": {
+        "views": 176,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260728_141900"
+    },
+    {
+      "time": "20260728_141911",
+      "niche": "facts",
+      "title": "World's Coldest Town",
+      "instagram": "18105481012871752"
     }
   ]
 }
