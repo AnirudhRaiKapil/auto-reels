@@ -1,7 +1,6 @@
 {
-  "run_count": 98,
+  "run_count": 99,
   "recent_topics": [
-    "Pioneers Behind Wheel",
     "Memories Formed in 5 Minutes",
     "Running Blind",
     "Energy Lost in Braking",
@@ -50,7 +49,8 @@
     "Memory Limit Found",
     "Venus Hidden Volcanoes",
     "World's Coldest Town",
-    "Petra's Enduring Stonework"
+    "Petra's Enduring Stonework",
+    "Lifting Heavy Objects"
   ],
   "history": [
     {
@@ -1200,7 +1200,7 @@
         "shares": 4,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260725_145716",
@@ -1214,7 +1214,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260725_161446",
@@ -1228,7 +1228,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260725_180501",
@@ -1242,7 +1242,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260726_061125",
@@ -1256,7 +1256,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260726_092111",
@@ -1270,7 +1270,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260726_114259",
@@ -1284,7 +1284,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260726_134755",
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260726_150947",
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260727_140444",
@@ -1326,7 +1326,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260727_164358",
@@ -1340,7 +1340,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260727_183027",
@@ -1348,13 +1348,13 @@
       "title": "Memory Limit Found",
       "instagram": "18017983559904942",
       "metrics": {
-        "views": 112,
+        "views": 115,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260728_084456",
@@ -1362,13 +1362,13 @@
       "title": "Venus Hidden Volcanoes",
       "instagram": "17979162144071075",
       "metrics": {
-        "views": 217,
-        "likes": 4,
+        "views": 859,
+        "likes": 12,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260728_141911",
@@ -1376,19 +1376,33 @@
       "title": "World's Coldest Town",
       "instagram": "18105481012871752",
       "metrics": {
-        "views": 4,
+        "views": 78,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260728_164231"
+      "metrics_at": "20260729_085026"
     },
     {
       "time": "20260728_164238",
       "niche": "facts",
       "title": "Petra's Enduring Stonework",
-      "instagram": "17935800873307931"
+      "instagram": "17935800873307931",
+      "metrics": {
+        "views": 107,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260729_085026"
+    },
+    {
+      "time": "20260729_085047",
+      "niche": "facts",
+      "title": "Lifting Heavy Objects",
+      "instagram": "18013317095873071"
     }
   ]
 }
