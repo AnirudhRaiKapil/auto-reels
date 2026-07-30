@@ -1,7 +1,6 @@
 {
-  "run_count": 106,
+  "run_count": 107,
   "recent_topics": [
-    "Ocean's Deepest Point",
     "Neptune's Chill Secret",
     "Petra's Hidden Water System",
     "Egypt Underwater",
@@ -50,7 +49,8 @@
     "Dolphins Own Names",
     "AI Required",
     "Ants' Hidden Highway",
-    "World's Longest Bridge"
+    "World's Longest Bridge",
+    "Famous Failures"
   ],
   "history": [
     {
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260727_140444",
@@ -1326,7 +1326,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260727_164358",
@@ -1340,7 +1340,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260727_183027",
@@ -1354,7 +1354,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260728_084456",
@@ -1368,7 +1368,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260728_141911",
@@ -1382,7 +1382,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260728_164238",
@@ -1396,7 +1396,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260729_085047",
@@ -1404,13 +1404,13 @@
       "title": "Lifting Heavy Objects",
       "instagram": "18013317095873071",
       "metrics": {
-        "views": 132,
+        "views": 134,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260729_114719",
@@ -1418,13 +1418,13 @@
       "title": "Garlic Banned",
       "instagram": "17868779655586952",
       "metrics": {
-        "views": 180,
+        "views": 182,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260729_142914",
@@ -1438,7 +1438,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260729_163232",
@@ -1452,7 +1452,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260729_181453",
@@ -1460,13 +1460,13 @@
       "title": "Dolphins Own Names",
       "instagram": "17952911628194539",
       "metrics": {
-        "views": 120,
+        "views": 121,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260730_083724",
@@ -1474,13 +1474,13 @@
       "title": "AI Required",
       "instagram": "18114864880932415",
       "metrics": {
-        "views": 1,
-        "likes": 0,
+        "views": 6,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260730_112030",
@@ -1488,19 +1488,33 @@
       "title": "Ants' Hidden Highway",
       "instagram": "18000559388977985",
       "metrics": {
-        "views": 107,
-        "likes": 0,
+        "views": 108,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_141514"
+      "metrics_at": "20260730_163509"
     },
     {
       "time": "20260730_141526",
       "niche": "facts",
       "title": "World's Longest Bridge",
-      "instagram": "18473138020106057"
+      "instagram": "18473138020106057",
+      "metrics": {
+        "views": 31,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260730_163509"
+    },
+    {
+      "time": "20260730_163517",
+      "niche": "motivation",
+      "title": "Famous Failures",
+      "instagram": "17939104623300070"
     }
   ]
 }
