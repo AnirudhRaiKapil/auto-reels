@@ -1,7 +1,6 @@
 {
-  "run_count": 105,
+  "run_count": 106,
   "recent_topics": [
-    "Denali's Hidden Secret",
     "Ocean's Deepest Point",
     "Neptune's Chill Secret",
     "Petra's Hidden Water System",
@@ -50,7 +49,8 @@
     "California's Tomato Dominance",
     "Dolphins Own Names",
     "AI Required",
-    "Ants' Hidden Highway"
+    "Ants' Hidden Highway",
+    "World's Longest Bridge"
   ],
   "history": [
     {
@@ -1298,7 +1298,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260726_150947",
@@ -1312,7 +1312,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260727_140444",
@@ -1326,7 +1326,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260727_164358",
@@ -1340,7 +1340,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260727_183027",
@@ -1354,7 +1354,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260728_084456",
@@ -1362,13 +1362,13 @@
       "title": "Venus Hidden Volcanoes",
       "instagram": "17979162144071075",
       "metrics": {
-        "views": 926,
+        "views": 927,
         "likes": 14,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260728_141911",
@@ -1382,7 +1382,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260728_164238",
@@ -1396,7 +1396,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260729_085047",
@@ -1404,13 +1404,13 @@
       "title": "Lifting Heavy Objects",
       "instagram": "18013317095873071",
       "metrics": {
-        "views": 129,
+        "views": 132,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260729_114719",
@@ -1418,13 +1418,13 @@
       "title": "Garlic Banned",
       "instagram": "17868779655586952",
       "metrics": {
-        "views": 177,
+        "views": 180,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260729_142914",
@@ -1432,13 +1432,13 @@
       "title": "Phones Understand You",
       "instagram": "18405651169080638",
       "metrics": {
-        "views": 26,
+        "views": 27,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260729_163232",
@@ -1446,13 +1446,13 @@
       "title": "California's Tomato Dominance",
       "instagram": "18130929001716226",
       "metrics": {
-        "views": 136,
+        "views": 139,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260729_181453",
@@ -1460,13 +1460,13 @@
       "title": "Dolphins Own Names",
       "instagram": "17952911628194539",
       "metrics": {
-        "views": 119,
+        "views": 120,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260730_083724",
@@ -1474,19 +1474,33 @@
       "title": "AI Required",
       "instagram": "18114864880932415",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_112022"
+      "metrics_at": "20260730_141514"
     },
     {
       "time": "20260730_112030",
       "niche": "facts",
       "title": "Ants' Hidden Highway",
-      "instagram": "18000559388977985"
+      "instagram": "18000559388977985",
+      "metrics": {
+        "views": 107,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260730_141514"
+    },
+    {
+      "time": "20260730_141526",
+      "niche": "facts",
+      "title": "World's Longest Bridge",
+      "instagram": "18473138020106057"
     }
   ]
 }
