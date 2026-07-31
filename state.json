@@ -1,7 +1,6 @@
 {
-  "run_count": 108,
+  "run_count": 109,
   "recent_topics": [
-    "Petra's Hidden Water System",
     "Egypt Underwater",
     "French Roots of English",
     "Discipline Over Motivation",
@@ -50,7 +49,8 @@
     "Ants' Hidden Highway",
     "World's Longest Bridge",
     "Famous Failures",
-    "Latin Roots"
+    "Latin Roots",
+    "Binary Star Systems"
   ],
   "history": [
     {
@@ -1340,7 +1340,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260727_183027",
@@ -1354,7 +1354,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260728_084456",
@@ -1368,7 +1368,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260728_141911",
@@ -1382,7 +1382,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260728_164238",
@@ -1396,7 +1396,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260729_085047",
@@ -1404,13 +1404,13 @@
       "title": "Lifting Heavy Objects",
       "instagram": "18013317095873071",
       "metrics": {
-        "views": 135,
+        "views": 137,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260729_114719",
@@ -1418,13 +1418,13 @@
       "title": "Garlic Banned",
       "instagram": "17868779655586952",
       "metrics": {
-        "views": 184,
+        "views": 185,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260729_142914",
@@ -1432,13 +1432,13 @@
       "title": "Phones Understand You",
       "instagram": "18405651169080638",
       "metrics": {
-        "views": 27,
+        "views": 29,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260729_163232",
@@ -1446,13 +1446,13 @@
       "title": "California's Tomato Dominance",
       "instagram": "18130929001716226",
       "metrics": {
-        "views": 139,
+        "views": 141,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260729_181453",
@@ -1460,13 +1460,13 @@
       "title": "Dolphins Own Names",
       "instagram": "17952911628194539",
       "metrics": {
-        "views": 121,
+        "views": 123,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260730_083724",
@@ -1474,13 +1474,13 @@
       "title": "AI Required",
       "instagram": "18114864880932415",
       "metrics": {
-        "views": 7,
+        "views": 9,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260730_112030",
@@ -1488,13 +1488,13 @@
       "title": "Ants' Hidden Highway",
       "instagram": "18000559388977985",
       "metrics": {
-        "views": 109,
+        "views": 110,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260730_141526",
@@ -1502,13 +1502,13 @@
       "title": "World's Longest Bridge",
       "instagram": "18473138020106057",
       "metrics": {
-        "views": 53,
+        "views": 112,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260730_163517",
@@ -1516,19 +1516,33 @@
       "title": "Famous Failures",
       "instagram": "17939104623300070",
       "metrics": {
-        "views": 10,
+        "views": 20,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260730_182221"
+      "metrics_at": "20260731_064028"
     },
     {
       "time": "20260730_182232",
       "niche": "facts",
       "title": "Latin Roots",
-      "instagram": "17943550755267504"
+      "instagram": "17943550755267504",
+      "metrics": {
+        "views": 34,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260731_064028"
+    },
+    {
+      "time": "20260731_064037",
+      "niche": "facts",
+      "title": "Binary Star Systems",
+      "instagram": "17916335214220880"
     }
   ]
 }
