@@ -1,7 +1,6 @@
 {
-  "run_count": 109,
+  "run_count": 110,
   "recent_topics": [
-    "Egypt Underwater",
     "French Roots of English",
     "Discipline Over Motivation",
     "Milk in Hershey's Bars",
@@ -50,7 +49,8 @@
     "World's Longest Bridge",
     "Famous Failures",
     "Latin Roots",
-    "Binary Star Systems"
+    "Binary Star Systems",
+    "Ancient Ziggurat of Ur"
   ],
   "history": [
     {
@@ -1354,7 +1354,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260728_084456",
@@ -1368,7 +1368,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260728_141911",
@@ -1382,7 +1382,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260728_164238",
@@ -1396,7 +1396,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260729_085047",
@@ -1410,7 +1410,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260729_114719",
@@ -1424,7 +1424,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260729_142914",
@@ -1438,7 +1438,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260729_163232",
@@ -1452,7 +1452,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260729_181453",
@@ -1466,7 +1466,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260730_083724",
@@ -1474,13 +1474,13 @@
       "title": "AI Required",
       "instagram": "18114864880932415",
       "metrics": {
-        "views": 9,
+        "views": 13,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260730_112030",
@@ -1488,13 +1488,13 @@
       "title": "Ants' Hidden Highway",
       "instagram": "18000559388977985",
       "metrics": {
-        "views": 110,
+        "views": 111,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260730_141526",
@@ -1502,13 +1502,13 @@
       "title": "World's Longest Bridge",
       "instagram": "18473138020106057",
       "metrics": {
-        "views": 112,
+        "views": 116,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260730_163517",
@@ -1516,13 +1516,13 @@
       "title": "Famous Failures",
       "instagram": "17939104623300070",
       "metrics": {
-        "views": 20,
+        "views": 27,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260730_182232",
@@ -1530,19 +1530,33 @@
       "title": "Latin Roots",
       "instagram": "17943550755267504",
       "metrics": {
-        "views": 34,
+        "views": 82,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260731_064028"
+      "metrics_at": "20260731_152229"
     },
     {
       "time": "20260731_064037",
       "niche": "facts",
       "title": "Binary Star Systems",
-      "instagram": "17916335214220880"
+      "instagram": "17916335214220880",
+      "metrics": {
+        "views": 27,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260731_152229"
+    },
+    {
+      "time": "20260731_152239",
+      "niche": "facts",
+      "title": "Ancient Ziggurat of Ur",
+      "instagram": "18609131983020961"
     }
   ]
 }
