@@ -1,7 +1,6 @@
 {
-  "run_count": 114,
+  "run_count": 115,
   "recent_topics": [
-    "Grammar Struggle",
     "Naples Tomato Capital",
     "AI Goes Open",
     "French in English",
@@ -50,7 +49,8 @@
     "Jobs Lost to Automation",
     "Tut's Tomb Discovery",
     "Bird Brain Equals Human",
-    "Worcestershire Sauce Origin"
+    "Worcestershire Sauce Origin",
+    "Your Viewing Habits"
   ],
   "history": [
     {
@@ -1424,7 +1424,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260729_142914",
@@ -1438,7 +1438,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260729_163232",
@@ -1452,7 +1452,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260729_181453",
@@ -1466,7 +1466,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260730_083724",
@@ -1480,7 +1480,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260730_112030",
@@ -1494,7 +1494,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260730_141526",
@@ -1508,7 +1508,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260730_163517",
@@ -1522,7 +1522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260730_182232",
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260731_064037",
@@ -1550,7 +1550,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260731_152239",
@@ -1558,13 +1558,13 @@
       "title": "Ancient Ziggurat of Ur",
       "instagram": "18609131983020961",
       "metrics": {
-        "views": 136,
+        "views": 141,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260801_060304",
@@ -1586,13 +1586,13 @@
       "title": "Tut's Tomb Discovery",
       "instagram": "17896245330560278",
       "metrics": {
-        "views": 117,
+        "views": 127,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260801_083148",
@@ -1600,19 +1600,33 @@
       "title": "Bird Brain Equals Human",
       "instagram": "17859378987680540",
       "metrics": {
-        "views": 23,
-        "likes": 1,
+        "views": 53,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_104716"
+      "metrics_at": "20260801_120719"
     },
     {
       "time": "20260801_104725",
       "niche": "facts",
       "title": "Worcestershire Sauce Origin",
-      "instagram": "17939221164324308"
+      "instagram": "17939221164324308",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260801_120719"
+    },
+    {
+      "time": "20260801_120726",
+      "niche": "ai_news",
+      "title": "Your Viewing Habits",
+      "instagram": "18139497019583735"
     }
   ]
 }
