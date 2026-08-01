@@ -1,7 +1,6 @@
 {
-  "run_count": 112,
+  "run_count": 113,
   "recent_topics": [
-    "Milk in Hershey's Bars",
     "Wolves Take Food",
     "Grammar Struggle",
     "Naples Tomato Capital",
@@ -50,7 +49,8 @@
     "Binary Star Systems",
     "Ancient Ziggurat of Ur",
     "Jobs Lost to Automation",
-    "Tut's Tomb Discovery"
+    "Tut's Tomb Discovery",
+    "Bird Brain Equals Human"
   ],
   "history": [
     {
@@ -1396,7 +1396,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260729_085047",
@@ -1410,7 +1410,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260729_114719",
@@ -1424,7 +1424,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260729_142914",
@@ -1438,7 +1438,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260729_163232",
@@ -1452,7 +1452,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260729_181453",
@@ -1466,7 +1466,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260730_083724",
@@ -1480,7 +1480,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260730_112030",
@@ -1494,7 +1494,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260730_141526",
@@ -1508,7 +1508,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260730_163517",
@@ -1522,7 +1522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260730_182232",
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260731_064037",
@@ -1544,13 +1544,13 @@
       "title": "Binary Star Systems",
       "instagram": "17916335214220880",
       "metrics": {
-        "views": 80,
+        "views": 92,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260731_152239",
@@ -1558,13 +1558,13 @@
       "title": "Ancient Ziggurat of Ur",
       "instagram": "18609131983020961",
       "metrics": {
-        "views": 121,
+        "views": 129,
         "likes": 2,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260731_180410",
@@ -1578,13 +1578,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_060254"
+      "metrics_at": "20260801_083140"
     },
     {
       "time": "20260801_060304",
       "niche": "facts",
       "title": "Tut's Tomb Discovery",
-      "instagram": "17896245330560278"
+      "instagram": "17896245330560278",
+      "metrics": {
+        "views": 114,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260801_083140"
+    },
+    {
+      "time": "20260801_083148",
+      "niche": "facts",
+      "title": "Bird Brain Equals Human",
+      "instagram": "17859378987680540"
     }
   ]
 }
