@@ -1,7 +1,6 @@
 {
-  "run_count": 116,
+  "run_count": 117,
   "recent_topics": [
-    "AI Goes Open",
     "French in English",
     "Birds That Fly Backwards",
     "Lions Rule Night",
@@ -50,7 +49,8 @@
     "Bird Brain Equals Human",
     "Worcestershire Sauce Origin",
     "Your Viewing Habits",
-    "Thailand's Underwear Law"
+    "Thailand's Underwear Law",
+    "Northernmost Town Exists"
   ],
   "history": [
     {
@@ -1452,7 +1452,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260729_181453",
@@ -1466,7 +1466,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260730_083724",
@@ -1480,7 +1480,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260730_112030",
@@ -1494,7 +1494,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260730_141526",
@@ -1508,7 +1508,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260730_163517",
@@ -1522,7 +1522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260730_182232",
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260731_064037",
@@ -1550,7 +1550,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260731_152239",
@@ -1558,13 +1558,13 @@
       "title": "Ancient Ziggurat of Ur",
       "instagram": "18609131983020961",
       "metrics": {
-        "views": 148,
+        "views": 160,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260801_060304",
@@ -1586,13 +1586,13 @@
       "title": "Tut's Tomb Discovery",
       "instagram": "17896245330560278",
       "metrics": {
-        "views": 161,
+        "views": 600,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260801_083148",
@@ -1600,13 +1600,13 @@
       "title": "Bird Brain Equals Human",
       "instagram": "17859378987680540",
       "metrics": {
-        "views": 115,
+        "views": 128,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260801_104725",
@@ -1614,13 +1614,13 @@
       "title": "Worcestershire Sauce Origin",
       "instagram": "17939221164324308",
       "metrics": {
-        "views": 44,
+        "views": 114,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260801_120726",
@@ -1628,19 +1628,33 @@
       "title": "Your Viewing Habits",
       "instagram": "18139497019583735",
       "metrics": {
-        "views": 2,
+        "views": 11,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260801_145014"
+      "metrics_at": "20260802_111905"
     },
     {
       "time": "20260801_145023",
       "niche": "facts",
       "title": "Thailand's Underwear Law",
-      "instagram": "17901387828533153"
+      "instagram": "17901387828533153",
+      "metrics": {
+        "views": 1476,
+        "likes": 1,
+        "comments": 0,
+        "shares": 1,
+        "saved": 2
+      },
+      "metrics_at": "20260802_111905"
+    },
+    {
+      "time": "20260802_111928",
+      "niche": "facts",
+      "title": "Northernmost Town Exists",
+      "instagram": "17948927910081783"
     }
   ]
 }
