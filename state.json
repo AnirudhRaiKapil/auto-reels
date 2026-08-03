@@ -1,7 +1,6 @@
 {
-  "run_count": 122,
+  "run_count": 123,
   "recent_topics": [
-    "Turtles' Magnetic Navigation",
     "Itaipu Dam's Massive Scale",
     "Bridges Defy Extreme Winds",
     "French Roots in English",
@@ -50,7 +49,8 @@
     "Older Than Pyramids",
     "Fear Less",
     "Delayed Reality",
-    "Lowest Point"
+    "Lowest Point",
+    "Quit Nicotine Cold"
   ],
   "history": [
     {
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260731_064037",
@@ -1550,7 +1550,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260731_152239",
@@ -1564,7 +1564,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260801_060304",
@@ -1592,7 +1592,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260801_083148",
@@ -1606,7 +1606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1652,
+        "views": 1667,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260802_132428",
@@ -1670,13 +1670,13 @@
       "title": "Nose Shape Matters",
       "instagram": "17931774543360428",
       "metrics": {
-        "views": 154,
+        "views": 158,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260802_151805",
@@ -1684,13 +1684,13 @@
       "title": "Older Than Pyramids",
       "instagram": "18114667418291870",
       "metrics": {
-        "views": 177,
-        "likes": 0,
+        "views": 193,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260802_172611",
@@ -1698,13 +1698,13 @@
       "title": "Fear Less",
       "instagram": "17874166536543220",
       "metrics": {
-        "views": 43,
-        "likes": 0,
+        "views": 53,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260803_062958",
@@ -1712,19 +1712,33 @@
       "title": "Delayed Reality",
       "instagram": "17934579456350006",
       "metrics": {
-        "views": 39,
+        "views": 78,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_110311"
+      "metrics_at": "20260803_164637"
     },
     {
       "time": "20260803_110321",
       "niche": "facts",
       "title": "Lowest Point",
-      "instagram": "18048467069638270"
+      "instagram": "18048467069638270",
+      "metrics": {
+        "views": 80,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260803_164637"
+    },
+    {
+      "time": "20260803_164646",
+      "niche": "motivation",
+      "title": "Quit Nicotine Cold",
+      "instagram": "18056558207787044"
     }
   ]
 }
