@@ -1,7 +1,6 @@
 {
-  "run_count": 121,
+  "run_count": 122,
   "recent_topics": [
-    "Akashi Bridge Engineering Feat",
     "Turtles' Magnetic Navigation",
     "Itaipu Dam's Massive Scale",
     "Bridges Defy Extreme Winds",
@@ -50,7 +49,8 @@
     "Nose Shape Matters",
     "Older Than Pyramids",
     "Fear Less",
-    "Delayed Reality"
+    "Delayed Reality",
+    "Lowest Point"
   ],
   "history": [
     {
@@ -1522,7 +1522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260730_182232",
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260731_064037",
@@ -1550,7 +1550,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260731_152239",
@@ -1564,7 +1564,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260801_060304",
@@ -1592,7 +1592,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260801_083148",
@@ -1606,7 +1606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1617,
-        "likes": 2,
+        "views": 1652,
+        "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260802_111928",
@@ -1656,13 +1656,13 @@
       "title": "Northernmost Town Exists",
       "instagram": "17948927910081783",
       "metrics": {
-        "views": 80,
+        "views": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260802_132428",
@@ -1670,13 +1670,13 @@
       "title": "Nose Shape Matters",
       "instagram": "17931774543360428",
       "metrics": {
-        "views": 144,
+        "views": 154,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260802_151805",
@@ -1684,13 +1684,13 @@
       "title": "Older Than Pyramids",
       "instagram": "18114667418291870",
       "metrics": {
-        "views": 168,
+        "views": 177,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260802_172611",
@@ -1698,19 +1698,33 @@
       "title": "Fear Less",
       "instagram": "17874166536543220",
       "metrics": {
-        "views": 34,
+        "views": 43,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_062951"
+      "metrics_at": "20260803_110311"
     },
     {
       "time": "20260803_062958",
       "niche": "facts",
       "title": "Delayed Reality",
-      "instagram": "17934579456350006"
+      "instagram": "17934579456350006",
+      "metrics": {
+        "views": 39,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260803_110311"
+    },
+    {
+      "time": "20260803_110321",
+      "niche": "facts",
+      "title": "Lowest Point",
+      "instagram": "18048467069638270"
     }
   ]
 }
