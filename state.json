@@ -1,7 +1,6 @@
 {
-  "run_count": 120,
+  "run_count": 121,
   "recent_topics": [
-    "Birds Outrun Predators",
     "Akashi Bridge Engineering Feat",
     "Turtles' Magnetic Navigation",
     "Itaipu Dam's Massive Scale",
@@ -50,7 +49,8 @@
     "Northernmost Town Exists",
     "Nose Shape Matters",
     "Older Than Pyramids",
-    "Fear Less"
+    "Fear Less",
+    "Delayed Reality"
   ],
   "history": [
     {
@@ -1508,7 +1508,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260730_163517",
@@ -1522,7 +1522,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260730_182232",
@@ -1536,7 +1536,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260731_064037",
@@ -1550,7 +1550,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260731_152239",
@@ -1564,7 +1564,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260801_060304",
@@ -1586,13 +1586,13 @@
       "title": "Tut's Tomb Discovery",
       "instagram": "17896245330560278",
       "metrics": {
-        "views": 639,
+        "views": 653,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260801_083148",
@@ -1600,13 +1600,13 @@
       "title": "Bird Brain Equals Human",
       "instagram": "17859378987680540",
       "metrics": {
-        "views": 131,
+        "views": 132,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1574,
+        "views": 1617,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260802_111928",
@@ -1656,13 +1656,13 @@
       "title": "Northernmost Town Exists",
       "instagram": "17948927910081783",
       "metrics": {
-        "views": 35,
+        "views": 80,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260802_132428",
@@ -1670,13 +1670,13 @@
       "title": "Nose Shape Matters",
       "instagram": "17931774543360428",
       "metrics": {
-        "views": 122,
+        "views": 144,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260802_151805",
@@ -1684,19 +1684,33 @@
       "title": "Older Than Pyramids",
       "instagram": "18114667418291870",
       "metrics": {
-        "views": 13,
+        "views": 168,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260802_172601"
+      "metrics_at": "20260803_062951"
     },
     {
       "time": "20260802_172611",
       "niche": "motivation",
       "title": "Fear Less",
-      "instagram": "17874166536543220"
+      "instagram": "17874166536543220",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260803_062951"
+    },
+    {
+      "time": "20260803_062958",
+      "niche": "facts",
+      "title": "Delayed Reality",
+      "instagram": "17934579456350006"
     }
   ]
 }
