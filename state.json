@@ -1,7 +1,6 @@
 {
-  "run_count": 124,
+  "run_count": 125,
   "recent_topics": [
-    "Bridges Defy Extreme Winds",
     "French Roots in English",
     "Robots Build Cars",
     "Deepest Hole",
@@ -50,7 +49,8 @@
     "Delayed Reality",
     "Lowest Point",
     "Quit Nicotine Cold",
-    "Earth's Lowest Town"
+    "Earth's Lowest Town",
+    "Glass Liquid Myth Busted"
   ],
   "history": [
     {
@@ -1564,7 +1564,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260731_180410",
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260801_060304",
@@ -1592,7 +1592,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260801_083148",
@@ -1606,7 +1606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1668,
+        "views": 1699,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260802_132428",
@@ -1670,13 +1670,13 @@
       "title": "Nose Shape Matters",
       "instagram": "17931774543360428",
       "metrics": {
-        "views": 158,
+        "views": 161,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260802_151805",
@@ -1684,13 +1684,13 @@
       "title": "Older Than Pyramids",
       "instagram": "18114667418291870",
       "metrics": {
-        "views": 203,
+        "views": 220,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260802_172611",
@@ -1698,13 +1698,13 @@
       "title": "Fear Less",
       "instagram": "17874166536543220",
       "metrics": {
-        "views": 73,
+        "views": 75,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260803_062958",
@@ -1712,13 +1712,13 @@
       "title": "Delayed Reality",
       "instagram": "17934579456350006",
       "metrics": {
-        "views": 84,
+        "views": 111,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260803_110321",
@@ -1726,13 +1726,13 @@
       "title": "Lowest Point",
       "instagram": "18048467069638270",
       "metrics": {
-        "views": 110,
+        "views": 166,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260803_164646",
@@ -1740,19 +1740,33 @@
       "title": "Quit Nicotine Cold",
       "instagram": "18056558207787044",
       "metrics": {
-        "views": 24,
+        "views": 80,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260803_190618"
+      "metrics_at": "20260804_142612"
     },
     {
       "time": "20260803_190629",
       "niche": "facts",
       "title": "Earth's Lowest Town",
-      "instagram": "18608268553012661"
+      "instagram": "18608268553012661",
+      "metrics": {
+        "views": 121,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260804_142612"
+    },
+    {
+      "time": "20260804_142623",
+      "niche": "facts",
+      "title": "Glass Liquid Myth Busted",
+      "instagram": "18086811791671718"
     }
   ]
 }
