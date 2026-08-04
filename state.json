@@ -1,7 +1,6 @@
 {
-  "run_count": 126,
+  "run_count": 127,
   "recent_topics": [
-    "Robots Build Cars",
     "Deepest Hole",
     "Forgetting Curve Explained",
     "Talus Bone Fracture Risk",
@@ -50,7 +49,8 @@
     "Quit Nicotine Cold",
     "Earth's Lowest Town",
     "Glass Liquid Myth Busted",
-    "Earth's Lowest Point"
+    "Earth's Lowest Point",
+    "Brain Connections Lost"
   ],
   "history": [
     {
@@ -1592,7 +1592,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260801_083148",
@@ -1606,7 +1606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260801_145023",
@@ -1648,7 +1648,7 @@
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260802_132428",
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260803_110321",
@@ -1726,13 +1726,13 @@
       "title": "Lowest Point",
       "instagram": "18048467069638270",
       "metrics": {
-        "views": 177,
+        "views": 185,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260803_190629",
@@ -1754,13 +1754,13 @@
       "title": "Earth's Lowest Town",
       "instagram": "18608268553012661",
       "metrics": {
-        "views": 123,
+        "views": 124,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260804_142623",
@@ -1768,19 +1768,33 @@
       "title": "Glass Liquid Myth Busted",
       "instagram": "18086811791671718",
       "metrics": {
-        "views": 29,
+        "views": 98,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_165643"
+      "metrics_at": "20260804_183212"
     },
     {
       "time": "20260804_165653",
       "niche": "facts",
       "title": "Earth's Lowest Point",
-      "instagram": "17872417977627281"
+      "instagram": "17872417977627281",
+      "metrics": {
+        "views": 45,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260804_183212"
+    },
+    {
+      "time": "20260804_183223",
+      "niche": "facts",
+      "title": "Brain Connections Lost",
+      "instagram": "18125378326748457"
     }
   ]
 }
