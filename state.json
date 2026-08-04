@@ -1,7 +1,6 @@
 {
-  "run_count": 125,
+  "run_count": 126,
   "recent_topics": [
-    "French Roots in English",
     "Robots Build Cars",
     "Deepest Hole",
     "Forgetting Curve Explained",
@@ -50,7 +49,8 @@
     "Lowest Point",
     "Quit Nicotine Cold",
     "Earth's Lowest Town",
-    "Glass Liquid Myth Busted"
+    "Glass Liquid Myth Busted",
+    "Earth's Lowest Point"
   ],
   "history": [
     {
@@ -1578,7 +1578,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260801_060304",
@@ -1592,7 +1592,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260801_083148",
@@ -1606,7 +1606,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260801_104725",
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1699,
+        "views": 1708,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260802_132428",
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260803_110321",
@@ -1726,13 +1726,13 @@
       "title": "Lowest Point",
       "instagram": "18048467069638270",
       "metrics": {
-        "views": 166,
+        "views": 177,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260803_164646",
@@ -1740,13 +1740,13 @@
       "title": "Quit Nicotine Cold",
       "instagram": "18056558207787044",
       "metrics": {
-        "views": 80,
+        "views": 85,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260803_190629",
@@ -1754,19 +1754,33 @@
       "title": "Earth's Lowest Town",
       "instagram": "18608268553012661",
       "metrics": {
-        "views": 121,
+        "views": 123,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260804_142612"
+      "metrics_at": "20260804_165643"
     },
     {
       "time": "20260804_142623",
       "niche": "facts",
       "title": "Glass Liquid Myth Busted",
-      "instagram": "18086811791671718"
+      "instagram": "18086811791671718",
+      "metrics": {
+        "views": 29,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260804_165643"
+    },
+    {
+      "time": "20260804_165653",
+      "niche": "facts",
+      "title": "Earth's Lowest Point",
+      "instagram": "17872417977627281"
     }
   ]
 }
