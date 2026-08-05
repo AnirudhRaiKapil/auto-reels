@@ -1,7 +1,6 @@
 {
-  "run_count": 128,
+  "run_count": 129,
   "recent_topics": [
-    "Forgetting Curve Explained",
     "Talus Bone Fracture Risk",
     "Cocoa's Hidden Journey",
     "Chocolate's Secret",
@@ -50,7 +49,8 @@
     "Glass Liquid Myth Busted",
     "Earth's Lowest Point",
     "Brain Connections Lost",
-    "Deep Ocean Secret"
+    "Deep Ocean Secret",
+    "AI Trained on 1.5M Books"
   ],
   "history": [
     {
@@ -1620,7 +1620,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260801_120726",
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260801_145023",
@@ -1642,13 +1642,13 @@
       "title": "Thailand's Underwear Law",
       "instagram": "17901387828533153",
       "metrics": {
-        "views": 1728,
+        "views": 1731,
         "likes": 3,
         "comments": 0,
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260802_132428",
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260804_165653",
@@ -1782,13 +1782,13 @@
       "title": "Earth's Lowest Point",
       "instagram": "17872417977627281",
       "metrics": {
-        "views": 682,
+        "views": 771,
         "likes": 7,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260804_183223",
@@ -1796,19 +1796,33 @@
       "title": "Brain Connections Lost",
       "instagram": "18125378326748457",
       "metrics": {
-        "views": 23,
+        "views": 31,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_114413"
+      "metrics_at": "20260805_143005"
     },
     {
       "time": "20260805_114420",
       "niche": "facts",
       "title": "Deep Ocean Secret",
-      "instagram": "18136912828514936"
+      "instagram": "18136912828514936",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260805_143005"
+    },
+    {
+      "time": "20260805_143015",
+      "niche": "ai_news",
+      "title": "AI Trained on 1.5M Books",
+      "instagram": "18124814317682831"
     }
   ]
 }
