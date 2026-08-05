@@ -1,7 +1,6 @@
 {
-  "run_count": 130,
+  "run_count": 131,
   "recent_topics": [
-    "Cocoa's Hidden Journey",
     "Chocolate's Secret",
     "Voting Mandatory",
     "Thailand's Hidden Underwear Law",
@@ -50,7 +49,8 @@
     "Brain Connections Lost",
     "Deep Ocean Secret",
     "AI Trained on 1.5M Books",
-    "Microbes Outnumber Humans"
+    "Microbes Outnumber Humans",
+    "Roman Chimney Secret"
   ],
   "history": [
     {
@@ -1648,7 +1648,7 @@
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260802_132428",
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260804_165653",
@@ -1782,13 +1782,13 @@
       "title": "Earth's Lowest Point",
       "instagram": "17872417977627281",
       "metrics": {
-        "views": 812,
+        "views": 837,
         "likes": 7,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260804_183223",
@@ -1796,13 +1796,13 @@
       "title": "Brain Connections Lost",
       "instagram": "18125378326748457",
       "metrics": {
-        "views": 34,
+        "views": 45,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260805_114420",
@@ -1810,13 +1810,13 @@
       "title": "Deep Ocean Secret",
       "instagram": "18136912828514936",
       "metrics": {
-        "views": 27,
+        "views": 46,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260805_143015",
@@ -1824,19 +1824,33 @@
       "title": "AI Trained on 1.5M Books",
       "instagram": "18124814317682831",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_164644"
+      "metrics_at": "20260805_183608"
     },
     {
       "time": "20260805_164653",
       "niche": "facts",
       "title": "Microbes Outnumber Humans",
-      "instagram": "17882376075479608"
+      "instagram": "17882376075479608",
+      "metrics": {
+        "views": 37,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260805_183608"
+    },
+    {
+      "time": "20260805_183617",
+      "niche": "facts",
+      "title": "Roman Chimney Secret",
+      "instagram": "18113703190941830"
     }
   ]
 }
