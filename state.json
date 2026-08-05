@@ -1,7 +1,6 @@
 {
-  "run_count": 129,
+  "run_count": 130,
   "recent_topics": [
-    "Talus Bone Fracture Risk",
     "Cocoa's Hidden Journey",
     "Chocolate's Secret",
     "Voting Mandatory",
@@ -50,7 +49,8 @@
     "Earth's Lowest Point",
     "Brain Connections Lost",
     "Deep Ocean Secret",
-    "AI Trained on 1.5M Books"
+    "AI Trained on 1.5M Books",
+    "Microbes Outnumber Humans"
   ],
   "history": [
     {
@@ -1634,7 +1634,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260801_145023",
@@ -1648,7 +1648,7 @@
         "shares": 1,
         "saved": 2
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260802_111928",
@@ -1662,7 +1662,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260802_132428",
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260804_142623",
@@ -1768,13 +1768,13 @@
       "title": "Glass Liquid Myth Busted",
       "instagram": "18086811791671718",
       "metrics": {
-        "views": 135,
+        "views": 136,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260804_165653",
@@ -1782,13 +1782,13 @@
       "title": "Earth's Lowest Point",
       "instagram": "17872417977627281",
       "metrics": {
-        "views": 771,
+        "views": 812,
         "likes": 7,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260804_183223",
@@ -1796,13 +1796,13 @@
       "title": "Brain Connections Lost",
       "instagram": "18125378326748457",
       "metrics": {
-        "views": 31,
+        "views": 34,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260805_114420",
@@ -1810,19 +1810,33 @@
       "title": "Deep Ocean Secret",
       "instagram": "18136912828514936",
       "metrics": {
-        "views": 15,
+        "views": 27,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260805_143005"
+      "metrics_at": "20260805_164644"
     },
     {
       "time": "20260805_143015",
       "niche": "ai_news",
       "title": "AI Trained on 1.5M Books",
-      "instagram": "18124814317682831"
+      "instagram": "18124814317682831",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260805_164644"
+    },
+    {
+      "time": "20260805_164653",
+      "niche": "facts",
+      "title": "Microbes Outnumber Humans",
+      "instagram": "17882376075479608"
     }
   ]
 }
