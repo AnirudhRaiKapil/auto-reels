@@ -1,7 +1,6 @@
 {
-  "run_count": 133,
+  "run_count": 134,
   "recent_topics": [
-    "Thailand's Hidden Underwear Law",
     "Fear Less, Learn More",
     "Tallest Mountain Not Everest",
     "Ramadan Public Eating Fines",
@@ -50,7 +49,8 @@
     "Microbes Outnumber Humans",
     "Roman Chimney Secret",
     "Brain Forgets Daily",
-    "2,000 Year Old Tunnel Still Works"
+    "2,000 Year Old Tunnel Still Works",
+    "Most of You is Empty"
   ],
   "history": [
     {
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260804_165653",
@@ -1788,7 +1788,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260805_114420",
@@ -1810,13 +1810,13 @@
       "title": "Deep Ocean Secret",
       "instagram": "18136912828514936",
       "metrics": {
-        "views": 149,
+        "views": 150,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260805_143015",
@@ -1824,13 +1824,13 @@
       "title": "AI Trained on 1.5M Books",
       "instagram": "18124814317682831",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260805_164653",
@@ -1844,7 +1844,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260805_183617",
@@ -1852,13 +1852,13 @@
       "title": "Roman Chimney Secret",
       "instagram": "18113703190941830",
       "metrics": {
-        "views": 242,
+        "views": 244,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260806_090020",
@@ -1866,19 +1866,33 @@
       "title": "Brain Forgets Daily",
       "instagram": "18387537910162733",
       "metrics": {
-        "views": 26,
+        "views": 78,
         "likes": 0,
         "comments": 0,
-        "shares": 0,
+        "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260806_112840"
+      "metrics_at": "20260806_141802"
     },
     {
       "time": "20260806_112848",
       "niche": "facts",
       "title": "2,000 Year Old Tunnel Still Works",
-      "instagram": "18010591019935798"
+      "instagram": "18010591019935798",
+      "metrics": {
+        "views": 139,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260806_141802"
+    },
+    {
+      "time": "20260806_141811",
+      "niche": "facts",
+      "title": "Most of You is Empty",
+      "instagram": "17906828421465018"
     }
   ]
 }
