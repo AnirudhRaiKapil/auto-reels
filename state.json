@@ -1,7 +1,6 @@
 {
-  "run_count": 132,
+  "run_count": 133,
   "recent_topics": [
-    "Voting Mandatory",
     "Thailand's Hidden Underwear Law",
     "Fear Less, Learn More",
     "Tallest Mountain Not Everest",
@@ -50,7 +49,8 @@
     "AI Trained on 1.5M Books",
     "Microbes Outnumber Humans",
     "Roman Chimney Secret",
-    "Brain Forgets Daily"
+    "Brain Forgets Daily",
+    "2,000 Year Old Tunnel Still Works"
   ],
   "history": [
     {
@@ -1676,7 +1676,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260802_151805",
@@ -1690,7 +1690,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260802_172611",
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260804_165653",
@@ -1782,13 +1782,13 @@
       "title": "Earth's Lowest Point",
       "instagram": "17872417977627281",
       "metrics": {
-        "views": 1004,
+        "views": 1007,
         "likes": 10,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260805_114420",
@@ -1810,13 +1810,13 @@
       "title": "Deep Ocean Secret",
       "instagram": "18136912828514936",
       "metrics": {
-        "views": 148,
+        "views": 149,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260805_143015",
@@ -1830,7 +1830,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260805_164653",
@@ -1838,13 +1838,13 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17882376075479608",
       "metrics": {
-        "views": 115,
+        "views": 116,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260805_183617",
@@ -1858,13 +1858,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_090011"
+      "metrics_at": "20260806_112840"
     },
     {
       "time": "20260806_090020",
       "niche": "facts",
       "title": "Brain Forgets Daily",
-      "instagram": "18387537910162733"
+      "instagram": "18387537910162733",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260806_112840"
+    },
+    {
+      "time": "20260806_112848",
+      "niche": "facts",
+      "title": "2,000 Year Old Tunnel Still Works",
+      "instagram": "18010591019935798"
     }
   ]
 }
