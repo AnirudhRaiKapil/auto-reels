@@ -1,7 +1,6 @@
 {
-  "run_count": 134,
+  "run_count": 135,
   "recent_topics": [
-    "Fear Less, Learn More",
     "Tallest Mountain Not Everest",
     "Ramadan Public Eating Fines",
     "Arabic Roots",
@@ -50,7 +49,8 @@
     "Roman Chimney Secret",
     "Brain Forgets Daily",
     "2,000 Year Old Tunnel Still Works",
-    "Most of You is Empty"
+    "Most of You is Empty",
+    "Saturn's 150 Year Storm"
   ],
   "history": [
     {
@@ -1704,7 +1704,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260803_062958",
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260803_110321",
@@ -1726,13 +1726,13 @@
       "title": "Lowest Point",
       "instagram": "18048467069638270",
       "metrics": {
-        "views": 191,
+        "views": 192,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260804_165653",
@@ -1788,7 +1788,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260805_114420",
@@ -1810,13 +1810,13 @@
       "title": "Deep Ocean Secret",
       "instagram": "18136912828514936",
       "metrics": {
-        "views": 150,
+        "views": 152,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260805_143015",
@@ -1824,13 +1824,13 @@
       "title": "AI Trained on 1.5M Books",
       "instagram": "18124814317682831",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260805_164653",
@@ -1844,7 +1844,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260805_183617",
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260806_090020",
@@ -1866,13 +1866,13 @@
       "title": "Brain Forgets Daily",
       "instagram": "18387537910162733",
       "metrics": {
-        "views": 78,
+        "views": 101,
         "likes": 0,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260806_112848",
@@ -1880,19 +1880,33 @@
       "title": "2,000 Year Old Tunnel Still Works",
       "instagram": "18010591019935798",
       "metrics": {
-        "views": 139,
+        "views": 158,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260806_141802"
+      "metrics_at": "20260807_063142"
     },
     {
       "time": "20260806_141811",
       "niche": "facts",
       "title": "Most of You is Empty",
-      "instagram": "17906828421465018"
+      "instagram": "17906828421465018",
+      "metrics": {
+        "views": 42,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260807_063142"
+    },
+    {
+      "time": "20260807_063153",
+      "niche": "facts",
+      "title": "Saturn's 150 Year Storm",
+      "instagram": "18100075064345425"
     }
   ]
 }
