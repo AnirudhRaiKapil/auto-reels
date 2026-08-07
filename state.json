@@ -1,7 +1,6 @@
 {
-  "run_count": 137,
+  "run_count": 138,
   "recent_topics": [
-    "Arabic Roots",
     "Earth's Hottest Place",
     "Saffron's Hidden Cost",
     "Mariana Trench Extreme Depths",
@@ -50,7 +49,8 @@
     "Most of You is Empty",
     "Saturn's 150 Year Storm",
     "Sharks Outswim Humans",
-    "Writing Before Ready"
+    "Writing Before Ready",
+    "Unseen Galaxies Revealed"
   ],
   "history": [
     {
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260804_165653",
@@ -1788,7 +1788,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260805_114420",
@@ -1816,7 +1816,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260805_143015",
@@ -1830,7 +1830,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260805_164653",
@@ -1844,7 +1844,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260805_183617",
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260806_090020",
@@ -1872,7 +1872,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260806_112848",
@@ -1880,13 +1880,13 @@
       "title": "2,000 Year Old Tunnel Still Works",
       "instagram": "18010591019935798",
       "metrics": {
-        "views": 165,
+        "views": 166,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260806_141811",
@@ -1900,7 +1900,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260807_063153",
@@ -1908,13 +1908,13 @@
       "title": "Saturn's 150 Year Storm",
       "instagram": "18100075064345425",
       "metrics": {
-        "views": 36,
+        "views": 39,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260807_102234",
@@ -1922,19 +1922,33 @@
       "title": "Sharks Outswim Humans",
       "instagram": "17977509339080034",
       "metrics": {
-        "views": 128,
-        "likes": 2,
+        "views": 141,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_145641"
+      "metrics_at": "20260807_161531"
     },
     {
       "time": "20260807_145649",
       "niche": "motivation",
       "title": "Writing Before Ready",
-      "instagram": "18097957856525921"
+      "instagram": "18097957856525921",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260807_161531"
+    },
+    {
+      "time": "20260807_161541",
+      "niche": "facts",
+      "title": "Unseen Galaxies Revealed",
+      "instagram": "18110127353079643"
     }
   ]
 }
