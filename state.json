@@ -1,7 +1,6 @@
 {
-  "run_count": 138,
+  "run_count": 139,
   "recent_topics": [
-    "Earth's Hottest Place",
     "Saffron's Hidden Cost",
     "Mariana Trench Extreme Depths",
     "Space Station Orbits Earth",
@@ -50,7 +49,8 @@
     "Saturn's 150 Year Storm",
     "Sharks Outswim Humans",
     "Writing Before Ready",
-    "Unseen Galaxies Revealed"
+    "Unseen Galaxies Revealed",
+    "Vanilla's Secret Origin"
   ],
   "history": [
     {
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260804_165653",
@@ -1788,7 +1788,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260805_114420",
@@ -1816,7 +1816,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260805_143015",
@@ -1830,7 +1830,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260805_164653",
@@ -1844,7 +1844,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260805_183617",
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260806_090020",
@@ -1872,7 +1872,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260806_112848",
@@ -1886,7 +1886,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260806_141811",
@@ -1900,7 +1900,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260807_063153",
@@ -1908,13 +1908,13 @@
       "title": "Saturn's 150 Year Storm",
       "instagram": "18100075064345425",
       "metrics": {
-        "views": 39,
+        "views": 42,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260807_102234",
@@ -1922,13 +1922,13 @@
       "title": "Sharks Outswim Humans",
       "instagram": "17977509339080034",
       "metrics": {
-        "views": 141,
+        "views": 149,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260807_145649",
@@ -1936,19 +1936,33 @@
       "title": "Writing Before Ready",
       "instagram": "18097957856525921",
       "metrics": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_161531"
+      "metrics_at": "20260807_171621"
     },
     {
       "time": "20260807_161541",
       "niche": "facts",
       "title": "Unseen Galaxies Revealed",
-      "instagram": "18110127353079643"
+      "instagram": "18110127353079643",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260807_171621"
+    },
+    {
+      "time": "20260807_171630",
+      "niche": "facts",
+      "title": "Vanilla's Secret Origin",
+      "instagram": "17867036964601869"
     }
   ]
 }
