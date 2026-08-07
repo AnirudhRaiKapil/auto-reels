@@ -1,7 +1,6 @@
 {
-  "run_count": 135,
+  "run_count": 136,
   "recent_topics": [
-    "Tallest Mountain Not Everest",
     "Ramadan Public Eating Fines",
     "Arabic Roots",
     "Earth's Hottest Place",
@@ -50,7 +49,8 @@
     "Brain Forgets Daily",
     "2,000 Year Old Tunnel Still Works",
     "Most of You is Empty",
-    "Saturn's 150 Year Storm"
+    "Saturn's 150 Year Storm",
+    "Sharks Outswim Humans"
   ],
   "history": [
     {
@@ -1718,7 +1718,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260803_110321",
@@ -1732,7 +1732,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260803_164646",
@@ -1746,7 +1746,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260803_190629",
@@ -1760,7 +1760,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260804_142623",
@@ -1774,7 +1774,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260804_165653",
@@ -1782,13 +1782,13 @@
       "title": "Earth's Lowest Point",
       "instagram": "17872417977627281",
       "metrics": {
-        "views": 1007,
+        "views": 1009,
         "likes": 10,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260804_183223",
@@ -1802,7 +1802,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260805_114420",
@@ -1816,7 +1816,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260805_143015",
@@ -1830,7 +1830,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260805_164653",
@@ -1838,13 +1838,13 @@
       "title": "Microbes Outnumber Humans",
       "instagram": "17882376075479608",
       "metrics": {
-        "views": 116,
+        "views": 117,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260805_183617",
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260806_090020",
@@ -1866,13 +1866,13 @@
       "title": "Brain Forgets Daily",
       "instagram": "18387537910162733",
       "metrics": {
-        "views": 101,
+        "views": 102,
         "likes": 0,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260806_112848",
@@ -1880,13 +1880,13 @@
       "title": "2,000 Year Old Tunnel Still Works",
       "instagram": "18010591019935798",
       "metrics": {
-        "views": 158,
+        "views": 159,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260806_141811",
@@ -1900,13 +1900,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260807_063142"
+      "metrics_at": "20260807_102225"
     },
     {
       "time": "20260807_063153",
       "niche": "facts",
       "title": "Saturn's 150 Year Storm",
-      "instagram": "18100075064345425"
+      "instagram": "18100075064345425",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260807_102225"
+    },
+    {
+      "time": "20260807_102234",
+      "niche": "facts",
+      "title": "Sharks Outswim Humans",
+      "instagram": "17977509339080034"
     }
   ]
 }
