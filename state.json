@@ -1,7 +1,6 @@
 {
-  "run_count": 143,
+  "run_count": 144,
   "recent_topics": [
-    "AI's Secret",
     "Memory Limit Found",
     "Venus Hidden Volcanoes",
     "World's Coldest Town",
@@ -50,7 +49,8 @@
     "Africa's Saltiest Lake",
     "Desert Expansion",
     "Vacuum Lifts Car",
-    "Moon's Hidden Side"
+    "Moon's Hidden Side",
+    "Extra Spleen Found"
   ],
   "history": [
     {
@@ -1830,7 +1830,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260805_164653",
@@ -1844,7 +1844,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260805_183617",
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260806_090020",
@@ -1872,7 +1872,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260806_112848",
@@ -1886,7 +1886,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260806_141811",
@@ -1900,7 +1900,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260807_063153",
@@ -1914,7 +1914,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260807_102234",
@@ -1922,13 +1922,13 @@
       "title": "Sharks Outswim Humans",
       "instagram": "17977509339080034",
       "metrics": {
-        "views": 361,
+        "views": 373,
         "likes": 7,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260807_145649",
@@ -1936,13 +1936,13 @@
       "title": "Writing Before Ready",
       "instagram": "18097957856525921",
       "metrics": {
-        "views": 28,
-        "likes": 0,
+        "views": 33,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260807_161541",
@@ -1956,7 +1956,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260807_171630",
@@ -1964,13 +1964,13 @@
       "title": "Vanilla's Secret Origin",
       "instagram": "17867036964601869",
       "metrics": {
-        "views": 110,
+        "views": 112,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260808_055254",
@@ -1978,13 +1978,13 @@
       "title": "Africa's Saltiest Lake",
       "instagram": "18136097500614653",
       "metrics": {
-        "views": 111,
+        "views": 118,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260808_100356",
@@ -1992,13 +1992,13 @@
       "title": "Desert Expansion",
       "instagram": "17877256704529850",
       "metrics": {
-        "views": 10,
+        "views": 15,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260808_104155",
@@ -2006,19 +2006,33 @@
       "title": "Vacuum Lifts Car",
       "instagram": "18130071343635208",
       "metrics": {
-        "views": 120,
+        "views": 122,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260808_144312"
+      "metrics_at": "20260808_175527"
     },
     {
       "time": "20260808_144321",
       "niche": "facts",
       "title": "Moon's Hidden Side",
-      "instagram": "18117737134697636"
+      "instagram": "18117737134697636",
+      "metrics": {
+        "views": 11,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260808_175527"
+    },
+    {
+      "time": "20260808_175538",
+      "niche": "facts",
+      "title": "Extra Spleen Found",
+      "instagram": "18107479696844125"
     }
   ]
 }
