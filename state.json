@@ -1,7 +1,6 @@
 {
-  "run_count": 145,
+  "run_count": 146,
   "recent_topics": [
-    "Venus Hidden Volcanoes",
     "World's Coldest Town",
     "Petra's Enduring Stonework",
     "Lifting Heavy Objects",
@@ -50,7 +49,8 @@
     "Vacuum Lifts Car",
     "Moon's Hidden Side",
     "Extra Spleen Found",
-    "Memory Sharpens with Age"
+    "Memory Sharpens with Age",
+    "Fear of Judgment"
   ],
   "history": [
     {
@@ -1858,7 +1858,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260806_090020",
@@ -1872,7 +1872,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260806_112848",
@@ -1886,7 +1886,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260806_141811",
@@ -1900,7 +1900,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260807_063153",
@@ -1914,7 +1914,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260807_102234",
@@ -1928,7 +1928,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260807_145649",
@@ -1942,7 +1942,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260807_161541",
@@ -1956,7 +1956,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260807_171630",
@@ -1970,7 +1970,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260808_055254",
@@ -1978,13 +1978,13 @@
       "title": "Africa's Saltiest Lake",
       "instagram": "18136097500614653",
       "metrics": {
-        "views": 131,
+        "views": 132,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260808_100356",
@@ -1992,13 +1992,13 @@
       "title": "Desert Expansion",
       "instagram": "17877256704529850",
       "metrics": {
-        "views": 133,
+        "views": 156,
         "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260808_104155",
@@ -2006,13 +2006,13 @@
       "title": "Vacuum Lifts Car",
       "instagram": "18130071343635208",
       "metrics": {
-        "views": 122,
+        "views": 123,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260808_144321",
@@ -2020,13 +2020,13 @@
       "title": "Moon's Hidden Side",
       "instagram": "18117737134697636",
       "metrics": {
-        "views": 57,
+        "views": 87,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260808_175538",
@@ -2040,13 +2040,27 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260809_043302"
+      "metrics_at": "20260809_072220"
     },
     {
       "time": "20260809_043316",
       "niche": "facts",
       "title": "Memory Sharpens with Age",
-      "instagram": "18212062996348509"
+      "instagram": "18212062996348509",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260809_072220"
+    },
+    {
+      "time": "20260809_072228",
+      "niche": "motivation",
+      "title": "Fear of Judgment",
+      "instagram": "17878942878511579"
     }
   ]
 }
