@@ -1,7 +1,6 @@
 {
-  "run_count": 154,
+  "run_count": 155,
   "recent_topics": [
-    "Ants' Hidden Highway",
     "World's Longest Bridge",
     "Famous Failures",
     "Latin Roots",
@@ -50,7 +49,8 @@
     "Asteroids Headed For Earth",
     "Planet Near Our Sun",
     "Spider Silk Secrets",
-    "Dark Matter Revealed"
+    "Dark Matter Revealed",
+    "Breaking Nicotine Habit"
   ],
   "history": [
     {
@@ -1984,7 +1984,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260808_100356",
@@ -1998,7 +1998,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260808_104155",
@@ -2012,7 +2012,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260808_144321",
@@ -2026,7 +2026,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260808_175538",
@@ -2040,7 +2040,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260809_043316",
@@ -2054,7 +2054,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260809_072228",
@@ -2068,7 +2068,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260809_091018",
@@ -2082,7 +2082,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260809_094133",
@@ -2096,7 +2096,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260809_104210",
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260810_104133",
@@ -2118,13 +2118,13 @@
       "title": "Gatun Locks Water Elevator",
       "instagram": "18116902592485266",
       "metrics": {
-        "views": 113,
+        "views": 117,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260810_151017",
@@ -2132,13 +2132,13 @@
       "title": "Asteroids Headed For Earth",
       "instagram": "18101502179189616",
       "metrics": {
-        "views": 38,
+        "views": 81,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260810_162649",
@@ -2146,13 +2146,13 @@
       "title": "Planet Near Our Sun",
       "instagram": "18111899257778905",
       "metrics": {
-        "views": 95,
+        "views": 128,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260810_180202",
@@ -2160,19 +2160,33 @@
       "title": "Spider Silk Secrets",
       "instagram": "17986184715045389",
       "metrics": {
-        "views": 95,
+        "views": 123,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_044023"
+      "metrics_at": "20260811_101851"
     },
     {
       "time": "20260811_044032",
       "niche": "facts",
       "title": "Dark Matter Revealed",
-      "instagram": "18135259957609384"
+      "instagram": "18135259957609384",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260811_101851"
+    },
+    {
+      "time": "20260811_101901",
+      "niche": "motivation",
+      "title": "Breaking Nicotine Habit",
+      "instagram": "17905283529468148"
     }
   ]
 }
