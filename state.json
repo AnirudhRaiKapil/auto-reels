@@ -1,7 +1,6 @@
 {
-  "run_count": 156,
+  "run_count": 157,
   "recent_topics": [
-    "Famous Failures",
     "Latin Roots",
     "Binary Star Systems",
     "Ancient Ziggurat of Ur",
@@ -50,7 +49,8 @@
     "Spider Silk Secrets",
     "Dark Matter Revealed",
     "Breaking Nicotine Habit",
-    "AI Gets It Wrong"
+    "AI Gets It Wrong",
+    "AI in Every Phone"
   ],
   "history": [
     {
@@ -2012,7 +2012,7 @@
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260808_144321",
@@ -2026,7 +2026,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260808_175538",
@@ -2040,7 +2040,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260809_043316",
@@ -2054,7 +2054,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260809_072228",
@@ -2068,7 +2068,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260809_091018",
@@ -2082,7 +2082,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260809_094133",
@@ -2096,7 +2096,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260809_104210",
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260810_104133",
@@ -2118,13 +2118,13 @@
       "title": "Gatun Locks Water Elevator",
       "instagram": "18116902592485266",
       "metrics": {
-        "views": 118,
+        "views": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260811_044032",
@@ -2174,13 +2174,13 @@
       "title": "Dark Matter Revealed",
       "instagram": "18135259957609384",
       "metrics": {
-        "views": 27,
+        "views": 35,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260811_101901",
@@ -2188,19 +2188,33 @@
       "title": "Breaking Nicotine Habit",
       "instagram": "17905283529468148",
       "metrics": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260811_120329"
+      "metrics_at": "20260811_131221"
     },
     {
       "time": "20260811_120337",
       "niche": "ai_news",
       "title": "AI Gets It Wrong",
-      "instagram": "17987470512046659"
+      "instagram": "17987470512046659",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260811_131221"
+    },
+    {
+      "time": "20260811_131232",
+      "niche": "ai_news",
+      "title": "AI in Every Phone",
+      "instagram": "18150261085515658"
     }
   ]
 }
