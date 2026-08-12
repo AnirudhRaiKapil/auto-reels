@@ -1,7 +1,6 @@
 {
-  "run_count": 161,
+  "run_count": 162,
   "recent_topics": [
-    "Tut's Tomb Discovery",
     "Bird Brain Equals Human",
     "Worcestershire Sauce Origin",
     "Your Viewing Habits",
@@ -50,7 +49,8 @@
     "Potholes Hit Hard",
     "Starlings' Secret Safety",
     "Ancient Stone Wonder",
-    "Tiny Wins Add Up"
+    "Tiny Wins Add Up",
+    "Heat Loss Solution Found"
   ],
   "history": [
     {
@@ -2082,7 +2082,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260809_094133",
@@ -2096,7 +2096,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260809_104210",
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260810_104133",
@@ -2124,7 +2124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260811_152118",
@@ -2230,13 +2230,13 @@
       "title": "Potholes Hit Hard",
       "instagram": "18107570708022230",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260812_062608",
@@ -2244,13 +2244,13 @@
       "title": "Starlings' Secret Safety",
       "instagram": "18091659311434174",
       "metrics": {
-        "views": 9,
+        "views": 12,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260812_102902",
@@ -2258,19 +2258,33 @@
       "title": "Ancient Stone Wonder",
       "instagram": "18112837918964583",
       "metrics": {
-        "views": 7,
+        "views": 18,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_131251"
+      "metrics_at": "20260812_151144"
     },
     {
       "time": "20260812_131301",
       "niche": "motivation",
       "title": "Tiny Wins Add Up",
-      "instagram": "18383627491225838"
+      "instagram": "18383627491225838",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260812_151144"
+    },
+    {
+      "time": "20260812_151155",
+      "niche": "facts",
+      "title": "Heat Loss Solution Found",
+      "instagram": "18114225863290587"
     }
   ]
 }
