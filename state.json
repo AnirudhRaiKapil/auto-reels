@@ -1,7 +1,6 @@
 {
-  "run_count": 159,
+  "run_count": 160,
   "recent_topics": [
-    "Ancient Ziggurat of Ur",
     "Jobs Lost to Automation",
     "Tut's Tomb Discovery",
     "Bird Brain Equals Human",
@@ -50,7 +49,8 @@
     "AI Gets It Wrong",
     "AI in Every Phone",
     "Potholes Hit Hard",
-    "Starlings' Secret Safety"
+    "Starlings' Secret Safety",
+    "Ancient Stone Wonder"
   ],
   "history": [
     {
@@ -2054,7 +2054,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260809_072228",
@@ -2068,7 +2068,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260809_091018",
@@ -2082,7 +2082,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260809_094133",
@@ -2096,7 +2096,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260809_104210",
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260810_104133",
@@ -2124,7 +2124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260811_101901",
@@ -2188,13 +2188,13 @@
       "title": "Breaking Nicotine Habit",
       "instagram": "17905283529468148",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260811_120337",
@@ -2202,13 +2202,13 @@
       "title": "AI Gets It Wrong",
       "instagram": "17987470512046659",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260811_131232",
@@ -2216,13 +2216,13 @@
       "title": "AI in Every Phone",
       "instagram": "18150261085515658",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260811_152118",
@@ -2230,19 +2230,33 @@
       "title": "Potholes Hit Hard",
       "instagram": "18107570708022230",
       "metrics": {
-        "views": 113,
+        "views": 124,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_062559"
+      "metrics_at": "20260812_102851"
     },
     {
       "time": "20260812_062608",
       "niche": "facts",
       "title": "Starlings' Secret Safety",
-      "instagram": "18091659311434174"
+      "instagram": "18091659311434174",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260812_102851"
+    },
+    {
+      "time": "20260812_102902",
+      "niche": "facts",
+      "title": "Ancient Stone Wonder",
+      "instagram": "18112837918964583"
     }
   ]
 }
