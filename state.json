@@ -1,7 +1,6 @@
 {
-  "run_count": 160,
+  "run_count": 161,
   "recent_topics": [
-    "Jobs Lost to Automation",
     "Tut's Tomb Discovery",
     "Bird Brain Equals Human",
     "Worcestershire Sauce Origin",
@@ -50,7 +49,8 @@
     "AI in Every Phone",
     "Potholes Hit Hard",
     "Starlings' Secret Safety",
-    "Ancient Stone Wonder"
+    "Ancient Stone Wonder",
+    "Tiny Wins Add Up"
   ],
   "history": [
     {
@@ -2068,7 +2068,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260809_091018",
@@ -2082,7 +2082,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260809_094133",
@@ -2096,7 +2096,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260809_104210",
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260810_104133",
@@ -2124,7 +2124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260811_131232",
@@ -2216,13 +2216,13 @@
       "title": "AI in Every Phone",
       "instagram": "18150261085515658",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260811_152118",
@@ -2230,13 +2230,13 @@
       "title": "Potholes Hit Hard",
       "instagram": "18107570708022230",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260812_062608",
@@ -2244,19 +2244,33 @@
       "title": "Starlings' Secret Safety",
       "instagram": "18091659311434174",
       "metrics": {
-        "views": 6,
+        "views": 9,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_102851"
+      "metrics_at": "20260812_131251"
     },
     {
       "time": "20260812_102902",
       "niche": "facts",
       "title": "Ancient Stone Wonder",
-      "instagram": "18112837918964583"
+      "instagram": "18112837918964583",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260812_131251"
+    },
+    {
+      "time": "20260812_131301",
+      "niche": "motivation",
+      "title": "Tiny Wins Add Up",
+      "instagram": "18383627491225838"
     }
   ]
 }
