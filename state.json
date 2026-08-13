@@ -1,7 +1,6 @@
 {
-  "run_count": 164,
+  "run_count": 165,
   "recent_topics": [
-    "Your Viewing Habits",
     "Thailand's Underwear Law",
     "Northernmost Town Exists",
     "Nose Shape Matters",
@@ -50,7 +49,8 @@
     "Tiny Wins Add Up",
     "Heat Loss Solution Found",
     "New Words Every Day",
-    "BERT Model Secrets"
+    "BERT Model Secrets",
+    "Dam Secrets Revealed"
   ],
   "history": [
     {
@@ -2124,7 +2124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260811_152118",
@@ -2236,7 +2236,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260812_062608",
@@ -2250,7 +2250,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260812_102902",
@@ -2258,13 +2258,13 @@
       "title": "Ancient Stone Wonder",
       "instagram": "18112837918964583",
       "metrics": {
-        "views": 48,
+        "views": 79,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260812_131301",
@@ -2272,13 +2272,13 @@
       "title": "Tiny Wins Add Up",
       "instagram": "18383627491225838",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260812_161026",
@@ -2300,19 +2300,33 @@
       "title": "New Words Every Day",
       "instagram": "17902108968510604",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_062919"
+      "metrics_at": "20260813_102936"
     },
     {
       "time": "20260813_062926",
       "niche": "ai_news",
       "title": "BERT Model Secrets",
-      "instagram": "18614521423062554"
+      "instagram": "18614521423062554",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260813_102936"
+    },
+    {
+      "time": "20260813_102945",
+      "niche": "facts",
+      "title": "Dam Secrets Revealed",
+      "instagram": "18102814655594615"
     }
   ]
 }
