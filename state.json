@@ -1,7 +1,6 @@
 {
-  "run_count": 167,
+  "run_count": 168,
   "recent_topics": [
-    "Nose Shape Matters",
     "Older Than Pyramids",
     "Fear Less",
     "Delayed Reality",
@@ -50,7 +49,8 @@
     "BERT Model Secrets",
     "Dam Secrets Revealed",
     "Consistency Wins",
-    "Falling Objects Deadly Risk"
+    "Falling Objects Deadly Risk",
+    "Webster's Massive Dictionary"
   ],
   "history": [
     {
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260811_152118",
@@ -2236,7 +2236,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260812_062608",
@@ -2250,7 +2250,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260812_102902",
@@ -2258,13 +2258,13 @@
       "title": "Ancient Stone Wonder",
       "instagram": "18112837918964583",
       "metrics": {
-        "views": 84,
+        "views": 85,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260812_131301",
@@ -2278,7 +2278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260812_161026",
@@ -2300,13 +2300,13 @@
       "title": "New Words Every Day",
       "instagram": "17902108968510604",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260813_062926",
@@ -2314,13 +2314,13 @@
       "title": "BERT Model Secrets",
       "instagram": "18614521423062554",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260813_102945",
@@ -2328,13 +2328,13 @@
       "title": "Dam Secrets Revealed",
       "instagram": "18102814655594615",
       "metrics": {
-        "views": 38,
+        "views": 123,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260813_115229",
@@ -2342,19 +2342,33 @@
       "title": "Consistency Wins",
       "instagram": "18387588076167773",
       "metrics": {
-        "views": 0,
+        "views": 8,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_131729"
+      "metrics_at": "20260813_182131"
     },
     {
       "time": "20260813_131740",
       "niche": "facts",
       "title": "Falling Objects Deadly Risk",
-      "instagram": "18112634866782994"
+      "instagram": "18112634866782994",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260813_182131"
+    },
+    {
+      "time": "20260813_182142",
+      "niche": "facts",
+      "title": "Webster's Massive Dictionary",
+      "instagram": "18091279598430320"
     }
   ]
 }
