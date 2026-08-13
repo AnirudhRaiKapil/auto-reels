@@ -1,7 +1,6 @@
 {
-  "run_count": 163,
+  "run_count": 164,
   "recent_topics": [
-    "Worcestershire Sauce Origin",
     "Your Viewing Habits",
     "Thailand's Underwear Law",
     "Northernmost Town Exists",
@@ -50,7 +49,8 @@
     "Ancient Stone Wonder",
     "Tiny Wins Add Up",
     "Heat Loss Solution Found",
-    "New Words Every Day"
+    "New Words Every Day",
+    "BERT Model Secrets"
   ],
   "history": [
     {
@@ -2110,7 +2110,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260810_104133",
@@ -2124,7 +2124,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260810_151017",
@@ -2138,7 +2138,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260810_162649",
@@ -2152,7 +2152,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260810_180202",
@@ -2166,7 +2166,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260811_044032",
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260811_152118",
@@ -2230,13 +2230,13 @@
       "title": "Potholes Hit Hard",
       "instagram": "18107570708022230",
       "metrics": {
-        "views": 130,
+        "views": 134,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260812_062608",
@@ -2244,13 +2244,13 @@
       "title": "Starlings' Secret Safety",
       "instagram": "18091659311434174",
       "metrics": {
-        "views": 12,
+        "views": 21,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260812_102902",
@@ -2258,13 +2258,13 @@
       "title": "Ancient Stone Wonder",
       "instagram": "18112837918964583",
       "metrics": {
-        "views": 20,
+        "views": 48,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260812_131301",
@@ -2272,25 +2272,47 @@
       "title": "Tiny Wins Add Up",
       "instagram": "18383627491225838",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260812_161017"
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260812_151155",
       "niche": "facts",
       "title": "Heat Loss Solution Found",
-      "instagram": "18114225863290587"
+      "instagram": "18114225863290587",
+      "metrics": {
+        "views": 47,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260813_062919"
     },
     {
       "time": "20260812_161026",
       "niche": "facts",
       "title": "New Words Every Day",
-      "instagram": "17902108968510604"
+      "instagram": "17902108968510604",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260813_062919"
+    },
+    {
+      "time": "20260813_062926",
+      "niche": "ai_news",
+      "title": "BERT Model Secrets",
+      "instagram": "18614521423062554"
     }
   ]
 }
