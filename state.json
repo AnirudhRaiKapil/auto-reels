@@ -1,7 +1,6 @@
 {
-  "run_count": 168,
+  "run_count": 169,
   "recent_topics": [
-    "Older Than Pyramids",
     "Fear Less",
     "Delayed Reality",
     "Lowest Point",
@@ -50,7 +49,8 @@
     "Dam Secrets Revealed",
     "Consistency Wins",
     "Falling Objects Deadly Risk",
-    "Webster's Massive Dictionary"
+    "Webster's Massive Dictionary",
+    "Discipline Beats Willpower"
   ],
   "history": [
     {
@@ -2180,7 +2180,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260811_101901",
@@ -2194,7 +2194,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260811_120337",
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260811_152118",
@@ -2236,7 +2236,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260812_062608",
@@ -2250,7 +2250,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260812_102902",
@@ -2264,7 +2264,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260812_131301",
@@ -2278,7 +2278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260812_161026",
@@ -2306,7 +2306,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260813_062926",
@@ -2314,13 +2314,13 @@
       "title": "BERT Model Secrets",
       "instagram": "18614521423062554",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260813_102945",
@@ -2328,13 +2328,13 @@
       "title": "Dam Secrets Revealed",
       "instagram": "18102814655594615",
       "metrics": {
-        "views": 123,
+        "views": 136,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260813_115229",
@@ -2342,13 +2342,13 @@
       "title": "Consistency Wins",
       "instagram": "18387588076167773",
       "metrics": {
-        "views": 8,
+        "views": 23,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260813_131740",
@@ -2356,19 +2356,33 @@
       "title": "Falling Objects Deadly Risk",
       "instagram": "18112634866782994",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260813_182131"
+      "metrics_at": "20260814_050650"
     },
     {
       "time": "20260813_182142",
       "niche": "facts",
       "title": "Webster's Massive Dictionary",
-      "instagram": "18091279598430320"
+      "instagram": "18091279598430320",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260814_050650"
+    },
+    {
+      "time": "20260814_050700",
+      "niche": "motivation",
+      "title": "Discipline Beats Willpower",
+      "instagram": "18158950375489085"
     }
   ]
 }
