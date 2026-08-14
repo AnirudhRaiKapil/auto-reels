@@ -1,7 +1,6 @@
 {
-  "run_count": 170,
+  "run_count": 171,
   "recent_topics": [
-    "Delayed Reality",
     "Lowest Point",
     "Quit Nicotine Cold",
     "Earth's Lowest Town",
@@ -50,7 +49,8 @@
     "Falling Objects Deadly Risk",
     "Webster's Massive Dictionary",
     "Discipline Beats Willpower",
-    "Hottest Day Ever"
+    "Hottest Day Ever",
+    "Megaliths Older Than Pyramids"
   ],
   "history": [
     {
@@ -2208,7 +2208,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260811_131232",
@@ -2222,7 +2222,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260811_152118",
@@ -2236,7 +2236,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260812_062608",
@@ -2250,7 +2250,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260812_102902",
@@ -2264,7 +2264,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260812_131301",
@@ -2278,7 +2278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260812_161026",
@@ -2306,7 +2306,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260813_062926",
@@ -2314,13 +2314,13 @@
       "title": "BERT Model Secrets",
       "instagram": "18614521423062554",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260813_102945",
@@ -2334,7 +2334,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260813_115229",
@@ -2342,13 +2342,13 @@
       "title": "Consistency Wins",
       "instagram": "18387588076167773",
       "metrics": {
-        "views": 25,
+        "views": 30,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260813_131740",
@@ -2356,13 +2356,13 @@
       "title": "Falling Objects Deadly Risk",
       "instagram": "18112634866782994",
       "metrics": {
-        "views": 8,
+        "views": 11,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260813_182142",
@@ -2370,13 +2370,13 @@
       "title": "Webster's Massive Dictionary",
       "instagram": "18091279598430320",
       "metrics": {
-        "views": 16,
+        "views": 23,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260814_050700",
@@ -2384,19 +2384,33 @@
       "title": "Discipline Beats Willpower",
       "instagram": "18158950375489085",
       "metrics": {
-        "views": 4,
+        "views": 24,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260814_062102"
+      "metrics_at": "20260814_114605"
     },
     {
       "time": "20260814_062109",
       "niche": "facts",
       "title": "Hottest Day Ever",
-      "instagram": "18133936951722350"
+      "instagram": "18133936951722350",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260814_114605"
+    },
+    {
+      "time": "20260814_114614",
+      "niche": "facts",
+      "title": "Megaliths Older Than Pyramids",
+      "instagram": "18338877400267947"
     }
   ]
 }
