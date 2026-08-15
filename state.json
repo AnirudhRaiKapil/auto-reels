@@ -1,7 +1,6 @@
 {
-  "run_count": 174,
+  "run_count": 175,
   "recent_topics": [
-    "Glass Liquid Myth Busted",
     "Earth's Lowest Point",
     "Brain Connections Lost",
     "Deep Ocean Secret",
@@ -50,7 +49,8 @@
     "Megaliths Older Than Pyramids",
     "Birds That Fly Backwards",
     "Memory Limit Found",
-    "Clear Air Turbulence Danger"
+    "Clear Air Turbulence Danger",
+    "Sleeping Too Much"
   ],
   "history": [
     {
@@ -2264,7 +2264,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260812_131301",
@@ -2278,7 +2278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260812_161026",
@@ -2306,7 +2306,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260813_062926",
@@ -2320,7 +2320,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260813_102945",
@@ -2334,7 +2334,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260813_115229",
@@ -2348,7 +2348,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260813_131740",
@@ -2362,7 +2362,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260813_182142",
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260814_114614",
@@ -2412,13 +2412,13 @@
       "title": "Megaliths Older Than Pyramids",
       "instagram": "18338877400267947",
       "metrics": {
-        "views": 109,
+        "views": 111,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260814_161055",
@@ -2426,13 +2426,13 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18162399544463246",
       "metrics": {
-        "views": 127,
+        "views": 130,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260814_180705",
@@ -2440,19 +2440,33 @@
       "title": "Memory Limit Found",
       "instagram": "18104607983223657",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_064538"
+      "metrics_at": "20260815_084237"
     },
     {
       "time": "20260815_064546",
       "niche": "facts",
       "title": "Clear Air Turbulence Danger",
-      "instagram": "18013470002939031"
+      "instagram": "18013470002939031",
+      "metrics": {
+        "views": 144,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260815_084237"
+    },
+    {
+      "time": "20260815_084246",
+      "niche": "facts",
+      "title": "Sleeping Too Much",
+      "instagram": "18118211473920594"
     }
   ]
 }
