@@ -1,7 +1,6 @@
 {
-  "run_count": 175,
+  "run_count": 176,
   "recent_topics": [
-    "Earth's Lowest Point",
     "Brain Connections Lost",
     "Deep Ocean Secret",
     "AI Trained on 1.5M Books",
@@ -50,7 +49,8 @@
     "Birds That Fly Backwards",
     "Memory Limit Found",
     "Clear Air Turbulence Danger",
-    "Sleeping Too Much"
+    "Sleeping Too Much",
+    "First Memory"
   ],
   "history": [
     {
@@ -2278,7 +2278,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260812_151155",
@@ -2292,7 +2292,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260812_161026",
@@ -2306,7 +2306,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260813_062926",
@@ -2320,7 +2320,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260813_102945",
@@ -2334,7 +2334,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260813_115229",
@@ -2348,7 +2348,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260813_131740",
@@ -2362,7 +2362,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260813_182142",
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260814_114614",
@@ -2412,13 +2412,13 @@
       "title": "Megaliths Older Than Pyramids",
       "instagram": "18338877400267947",
       "metrics": {
-        "views": 111,
+        "views": 112,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260814_161055",
@@ -2432,7 +2432,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260814_180705",
@@ -2440,13 +2440,13 @@
       "title": "Memory Limit Found",
       "instagram": "18104607983223657",
       "metrics": {
-        "views": 15,
+        "views": 17,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260815_064546",
@@ -2454,19 +2454,33 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 144,
+        "views": 147,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_084237"
+      "metrics_at": "20260815_104457"
     },
     {
       "time": "20260815_084246",
       "niche": "facts",
       "title": "Sleeping Too Much",
-      "instagram": "18118211473920594"
+      "instagram": "18118211473920594",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260815_104457"
+    },
+    {
+      "time": "20260815_104504",
+      "niche": "facts",
+      "title": "First Memory",
+      "instagram": "17917426302431235"
     }
   ]
 }
