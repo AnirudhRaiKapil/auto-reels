@@ -1,7 +1,6 @@
 {
-  "run_count": 178,
+  "run_count": 179,
   "recent_topics": [
-    "AI Trained on 1.5M Books",
     "Microbes Outnumber Humans",
     "Roman Chimney Secret",
     "Brain Forgets Daily",
@@ -50,7 +49,8 @@
     "Sleeping Too Much",
     "First Memory",
     "Weird Law",
-    "Sweat Loss"
+    "Sweat Loss",
+    "Outpacing Most Instagram Users"
   ],
   "history": [
     {
@@ -2320,7 +2320,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260813_102945",
@@ -2328,13 +2328,13 @@
       "title": "Dam Secrets Revealed",
       "instagram": "18102814655594615",
       "metrics": {
-        "views": 140,
+        "views": 141,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260813_115229",
@@ -2348,7 +2348,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260813_131740",
@@ -2362,7 +2362,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260813_182142",
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260814_114614",
@@ -2412,13 +2412,13 @@
       "title": "Megaliths Older Than Pyramids",
       "instagram": "18338877400267947",
       "metrics": {
-        "views": 112,
+        "views": 116,
         "likes": 2,
         "comments": 0,
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260814_161055",
@@ -2426,13 +2426,13 @@
       "title": "Birds That Fly Backwards",
       "instagram": "18162399544463246",
       "metrics": {
-        "views": 132,
+        "views": 152,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260814_180705",
@@ -2440,13 +2440,13 @@
       "title": "Memory Limit Found",
       "instagram": "18104607983223657",
       "metrics": {
-        "views": 17,
+        "views": 21,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260815_064546",
@@ -2454,13 +2454,13 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 181,
-        "likes": 1,
+        "views": 554,
+        "likes": 5,
         "comments": 0,
         "shares": 0,
-        "saved": 0
+        "saved": 1
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260815_084246",
@@ -2468,13 +2468,13 @@
       "title": "Sleeping Too Much",
       "instagram": "18118211473920594",
       "metrics": {
-        "views": 30,
+        "views": 56,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260815_104504",
@@ -2482,13 +2482,13 @@
       "title": "First Memory",
       "instagram": "17917426302431235",
       "metrics": {
-        "views": 8,
+        "views": 32,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260815_112415",
@@ -2496,19 +2496,33 @@
       "title": "Weird Law",
       "instagram": "18038601125817438",
       "metrics": {
-        "views": 12,
+        "views": 58,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260815_124221"
+      "metrics_at": "20260816_040804"
     },
     {
       "time": "20260815_124231",
       "niche": "facts",
       "title": "Sweat Loss",
-      "instagram": "18006412943975486"
+      "instagram": "18006412943975486",
+      "metrics": {
+        "views": 109,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260816_040804"
+    },
+    {
+      "time": "20260816_040820",
+      "niche": "motivation",
+      "title": "Outpacing Most Instagram Users",
+      "instagram": "18079893866701569"
     }
   ]
 }
