@@ -1,7 +1,6 @@
 {
-  "run_count": 182,
+  "run_count": 183,
   "recent_topics": [
-    "2,000 Year Old Tunnel Still Works",
     "Most of You is Empty",
     "Saturn's 150 Year Storm",
     "Sharks Outswim Humans",
@@ -50,7 +49,8 @@
     "Outpacing Most Instagram Users",
     "Coldest Place on Earth",
     "Ocean's Oxygen Source",
-    "China's Dam"
+    "China's Dam",
+    "Code Shapes Your Choices"
   ],
   "history": [
     {
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260814_114614",
@@ -2418,7 +2418,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260814_161055",
@@ -2432,7 +2432,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260814_180705",
@@ -2446,7 +2446,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260815_064546",
@@ -2454,13 +2454,13 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 684,
+        "views": 706,
         "likes": 7,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260815_084246",
@@ -2474,7 +2474,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260815_104504",
@@ -2482,13 +2482,13 @@
       "title": "First Memory",
       "instagram": "17917426302431235",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260815_112415",
@@ -2496,13 +2496,13 @@
       "title": "Weird Law",
       "instagram": "18038601125817438",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260815_124231",
@@ -2516,7 +2516,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260816_040820",
@@ -2524,13 +2524,13 @@
       "title": "Outpacing Most Instagram Users",
       "instagram": "18079893866701569",
       "metrics": {
-        "views": 14,
+        "views": 19,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260816_043802",
@@ -2538,25 +2538,47 @@
       "title": "Coldest Place on Earth",
       "instagram": "18368472043300931",
       "metrics": {
-        "views": 105,
+        "views": 109,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_103139"
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260816_094937",
       "niche": "facts",
       "title": "Ocean's Oxygen Source",
-      "instagram": "17982205331882552"
+      "instagram": "17982205331882552",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260816_130227"
     },
     {
       "time": "20260816_103147",
       "niche": "facts",
       "title": "China's Dam",
-      "instagram": "17962600650155910"
+      "instagram": "17962600650155910",
+      "metrics": {
+        "views": 104,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260816_130227"
+    },
+    {
+      "time": "20260816_130236",
+      "niche": "ai_news",
+      "title": "Code Shapes Your Choices",
+      "instagram": "18350125174218236"
     }
   ]
 }
