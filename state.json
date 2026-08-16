@@ -1,7 +1,6 @@
 {
-  "run_count": 179,
+  "run_count": 180,
   "recent_topics": [
-    "Microbes Outnumber Humans",
     "Roman Chimney Secret",
     "Brain Forgets Daily",
     "2,000 Year Old Tunnel Still Works",
@@ -50,7 +49,8 @@
     "First Memory",
     "Weird Law",
     "Sweat Loss",
-    "Outpacing Most Instagram Users"
+    "Outpacing Most Instagram Users",
+    "Coldest Place on Earth"
   ],
   "history": [
     {
@@ -2334,7 +2334,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260813_115229",
@@ -2348,7 +2348,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260813_131740",
@@ -2362,7 +2362,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260813_182142",
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260814_114614",
@@ -2418,7 +2418,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260814_161055",
@@ -2432,7 +2432,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260814_180705",
@@ -2446,7 +2446,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260815_064546",
@@ -2454,13 +2454,13 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 554,
+        "views": 563,
         "likes": 5,
         "comments": 0,
         "shares": 0,
         "saved": 1
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260815_084246",
@@ -2474,7 +2474,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260815_104504",
@@ -2488,7 +2488,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260815_112415",
@@ -2502,7 +2502,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260815_124231",
@@ -2510,19 +2510,25 @@
       "title": "Sweat Loss",
       "instagram": "18006412943975486",
       "metrics": {
-        "views": 109,
+        "views": 118,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_040804"
+      "metrics_at": "20260816_043752"
     },
     {
       "time": "20260816_040820",
       "niche": "motivation",
       "title": "Outpacing Most Instagram Users",
       "instagram": "18079893866701569"
+    },
+    {
+      "time": "20260816_043802",
+      "niche": "facts",
+      "title": "Coldest Place on Earth",
+      "instagram": "18368472043300931"
     }
   ]
 }
