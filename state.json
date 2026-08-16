@@ -1,7 +1,6 @@
 {
-  "run_count": 181,
+  "run_count": 182,
   "recent_topics": [
-    "Brain Forgets Daily",
     "2,000 Year Old Tunnel Still Works",
     "Most of You is Empty",
     "Saturn's 150 Year Storm",
@@ -50,7 +49,8 @@
     "Sweat Loss",
     "Outpacing Most Instagram Users",
     "Coldest Place on Earth",
-    "Ocean's Oxygen Source"
+    "Ocean's Oxygen Source",
+    "China's Dam"
   ],
   "history": [
     {
@@ -2362,7 +2362,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260813_182142",
@@ -2376,7 +2376,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260814_050700",
@@ -2390,7 +2390,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260814_062109",
@@ -2404,7 +2404,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260814_114614",
@@ -2418,7 +2418,7 @@
         "shares": 1,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260814_161055",
@@ -2432,7 +2432,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260814_180705",
@@ -2446,7 +2446,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260815_064546",
@@ -2454,13 +2454,13 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 679,
+        "views": 684,
         "likes": 7,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260815_084246",
@@ -2474,7 +2474,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260815_104504",
@@ -2482,13 +2482,13 @@
       "title": "First Memory",
       "instagram": "17917426302431235",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260815_112415",
@@ -2496,13 +2496,13 @@
       "title": "Weird Law",
       "instagram": "18038601125817438",
       "metrics": {
-        "views": 67,
+        "views": 68,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260815_124231",
@@ -2516,7 +2516,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260816_040820",
@@ -2530,7 +2530,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260816_043802",
@@ -2544,13 +2544,19 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260816_094929"
+      "metrics_at": "20260816_103139"
     },
     {
       "time": "20260816_094937",
       "niche": "facts",
       "title": "Ocean's Oxygen Source",
       "instagram": "17982205331882552"
+    },
+    {
+      "time": "20260816_103147",
+      "niche": "facts",
+      "title": "China's Dam",
+      "instagram": "17962600650155910"
     }
   ]
 }
