@@ -1,7 +1,6 @@
 {
-  "run_count": 190,
+  "run_count": 191,
   "recent_topics": [
-    "Desert Expansion",
     "Vacuum Lifts Car",
     "Moon's Hidden Side",
     "Extra Spleen Found",
@@ -46,6 +45,7 @@
     "Code Shapes Your Choices",
     "America's Smallest Tunnel Town",
     "From 2 Miles",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -2488,7 +2488,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260815_112415",
@@ -2502,7 +2502,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260815_124231",
@@ -2516,7 +2516,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260816_040820",
@@ -2530,7 +2530,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260816_043802",
@@ -2544,7 +2544,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260816_094937",
@@ -2558,7 +2558,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260816_103147",
@@ -2572,7 +2572,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260816_130236",
@@ -2586,7 +2586,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260817_045810",
@@ -2600,7 +2600,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260817_070434",
@@ -2614,7 +2614,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260817_085153",
@@ -2628,7 +2628,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260817_105754",
@@ -2642,7 +2642,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260817_125006",
@@ -2656,7 +2656,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260818_070425",
@@ -2664,19 +2664,33 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18181023637411495",
       "metrics": {
-        "views": 57,
+        "views": 58,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_130236"
+      "metrics_at": "20260818_143920"
     },
     {
       "time": "20260818_130241",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18107441681153571"
+      "instagram": "18107441681153571",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260818_143920"
+    },
+    {
+      "time": "20260818_143924",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18620908621020674"
     }
   ]
 }
