@@ -1,7 +1,6 @@
 {
-  "run_count": 189,
+  "run_count": 190,
   "recent_topics": [
-    "Africa's Saltiest Lake",
     "Desert Expansion",
     "Vacuum Lifts Car",
     "Moon's Hidden Side",
@@ -47,6 +46,7 @@
     "Code Shapes Your Choices",
     "America's Smallest Tunnel Town",
     "From 2 Miles",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -2474,7 +2474,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260815_104504",
@@ -2488,7 +2488,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260815_112415",
@@ -2502,7 +2502,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260815_124231",
@@ -2516,7 +2516,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260816_040820",
@@ -2530,7 +2530,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260816_043802",
@@ -2544,7 +2544,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260816_094937",
@@ -2558,7 +2558,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260816_103147",
@@ -2566,13 +2566,13 @@
       "title": "China's Dam",
       "instagram": "17962600650155910",
       "metrics": {
-        "views": 1170,
+        "views": 1171,
         "likes": 22,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260816_130236",
@@ -2586,7 +2586,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260817_045810",
@@ -2594,13 +2594,13 @@
       "title": "America's Smallest Tunnel Town",
       "instagram": "17978137119079688",
       "metrics": {
-        "views": 99,
+        "views": 100,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260817_070434",
@@ -2614,7 +2614,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260817_085153",
@@ -2622,13 +2622,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18141577600604366",
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260817_105754",
@@ -2636,13 +2636,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18123830335843701",
       "metrics": {
-        "views": 67,
+        "views": 105,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260817_125006",
@@ -2650,19 +2650,33 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18165409384458464",
       "metrics": {
-        "views": 70,
+        "views": 71,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260818_070421"
+      "metrics_at": "20260818_130236"
     },
     {
       "time": "20260818_070425",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18181023637411495"
+      "instagram": "18181023637411495",
+      "metrics": {
+        "views": 57,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260818_130236"
+    },
+    {
+      "time": "20260818_130241",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18107441681153571"
     }
   ]
 }
