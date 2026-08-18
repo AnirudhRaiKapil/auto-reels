@@ -1,7 +1,6 @@
 {
-  "run_count": 188,
+  "run_count": 189,
   "recent_topics": [
-    "Vanilla's Secret Origin",
     "Africa's Saltiest Lake",
     "Desert Expansion",
     "Vacuum Lifts Car",
@@ -48,6 +47,7 @@
     "Code Shapes Your Choices",
     "America's Smallest Tunnel Town",
     "From 2 Miles",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
@@ -2454,13 +2454,13 @@
       "title": "Clear Air Turbulence Danger",
       "instagram": "18013470002939031",
       "metrics": {
-        "views": 743,
+        "views": 745,
         "likes": 7,
         "comments": 0,
         "shares": 1,
         "saved": 1
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260815_084246",
@@ -2474,7 +2474,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260815_104504",
@@ -2488,7 +2488,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260815_112415",
@@ -2502,7 +2502,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260815_124231",
@@ -2516,7 +2516,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260816_040820",
@@ -2530,7 +2530,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260816_043802",
@@ -2544,7 +2544,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260816_094937",
@@ -2552,13 +2552,13 @@
       "title": "Ocean's Oxygen Source",
       "instagram": "17982205331882552",
       "metrics": {
-        "views": 118,
+        "views": 119,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260816_103147",
@@ -2566,13 +2566,13 @@
       "title": "China's Dam",
       "instagram": "17962600650155910",
       "metrics": {
-        "views": 997,
-        "likes": 17,
+        "views": 1170,
+        "likes": 22,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260816_130236",
@@ -2580,13 +2580,13 @@
       "title": "Code Shapes Your Choices",
       "instagram": "18350125174218236",
       "metrics": {
-        "views": 29,
+        "views": 38,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260817_045810",
@@ -2594,13 +2594,13 @@
       "title": "America's Smallest Tunnel Town",
       "instagram": "17978137119079688",
       "metrics": {
-        "views": 80,
+        "views": 99,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260817_070434",
@@ -2608,13 +2608,13 @@
       "title": "From 2 Miles",
       "instagram": "18102893231242194",
       "metrics": {
-        "views": 34,
+        "views": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260817_085153",
@@ -2622,13 +2622,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18141577600604366",
       "metrics": {
-        "views": 28,
+        "views": 48,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260817_105754",
@@ -2636,19 +2636,33 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18123830335843701",
       "metrics": {
-        "views": 19,
+        "views": 67,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260817_124959"
+      "metrics_at": "20260818_070421"
     },
     {
       "time": "20260817_125006",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18165409384458464"
+      "instagram": "18165409384458464",
+      "metrics": {
+        "views": 70,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260818_070421"
+    },
+    {
+      "time": "20260818_070425",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18181023637411495"
     }
   ]
 }
