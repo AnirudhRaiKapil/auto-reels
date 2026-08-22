@@ -1,7 +1,6 @@
 {
-  "run_count": 212,
+  "run_count": 213,
   "recent_topics": [
-    "New Words Every Day",
     "BERT Model Secrets",
     "Dam Secrets Revealed",
     "Consistency Wins",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260707_103616",
-      "niche": "facts",
-      "title": "Underwater Mountain Ranges Exist",
-      "instagram": "18128566168630615",
-      "metrics": {
-        "views": 108,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260711_150647"
-    },
     {
       "time": "20260707_134200",
       "niche": "facts",
@@ -2646,7 +2632,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260820_044431",
@@ -2660,7 +2646,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260820_064929",
@@ -2674,7 +2660,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260820_095047",
@@ -2688,7 +2674,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260820_113401",
@@ -2702,7 +2688,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260820_173055",
@@ -2716,7 +2702,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260821_041621",
@@ -2730,7 +2716,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260821_105546",
@@ -2744,7 +2730,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260821_125255",
@@ -2758,7 +2744,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260821_164232",
@@ -2772,7 +2758,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260821_173834",
@@ -2786,7 +2772,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260822_064203",
@@ -2794,13 +2780,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18329012050279005",
       "metrics": {
-        "views": 7,
+        "views": 10,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260822_073711",
@@ -2808,13 +2794,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18110714525108448",
       "metrics": {
-        "views": 105,
+        "views": 106,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260822_083330",
@@ -2822,19 +2808,33 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18025647710686308",
       "metrics": {
-        "views": 61,
+        "views": 72,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260822_152402"
+      "metrics_at": "20260822_164420"
     },
     {
       "time": "20260822_152408",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18090072338399397"
+      "instagram": "18090072338399397",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260822_164420"
+    },
+    {
+      "time": "20260822_164426",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "17903842668511923"
     }
   ]
 }
