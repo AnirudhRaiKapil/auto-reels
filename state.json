@@ -1,7 +1,6 @@
 {
-  "run_count": 220,
+  "run_count": 221,
   "recent_topics": [
-    "Megaliths Older Than Pyramids",
     "Birds That Fly Backwards",
     "Memory Limit Found",
     "Clear Air Turbulence Danger",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260709_163327",
-      "niche": "facts",
-      "title": "Tunnel Feat",
-      "instagram": "18001744604973208",
-      "metrics": {
-        "views": 126,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260713_164258"
-    },
     {
       "time": "20260709_191021",
       "niche": "facts",
@@ -2646,7 +2632,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260821_164232",
@@ -2660,7 +2646,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260821_173834",
@@ -2674,7 +2660,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260822_064203",
@@ -2688,7 +2674,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260822_073711",
@@ -2702,7 +2688,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260822_083330",
@@ -2716,7 +2702,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260822_152408",
@@ -2730,7 +2716,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260822_164426",
@@ -2744,7 +2730,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260823_040823",
@@ -2758,7 +2744,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260823_065158",
@@ -2772,7 +2758,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260823_074035",
@@ -2786,7 +2772,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260823_103539",
@@ -2800,7 +2786,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260823_164356",
@@ -2814,7 +2800,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260824_054403",
@@ -2822,19 +2808,25 @@
       "title": "You don't need motivation. You need this.",
       "instagram": "17893814025397566",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_070712"
+      "metrics_at": "20260824_080412"
     },
     {
       "time": "20260824_070717",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18099673814006483"
+    },
+    {
+      "time": "20260824_080417",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18148944481531381"
     }
   ]
 }
