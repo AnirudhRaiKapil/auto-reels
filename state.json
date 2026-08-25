@@ -1,7 +1,6 @@
 {
-  "run_count": 223,
+  "run_count": 224,
   "recent_topics": [
-    "Clear Air Turbulence Danger",
     "Sleeping Too Much",
     "First Memory",
     "Weird Law",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260710_164402",
-      "niche": "motivation",
-      "title": "One Tiny Morning Habit",
-      "instagram": "18187168915349167",
-      "metrics": {
-        "views": 84,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1
-      },
-      "metrics_at": "20260714_105759"
-    },
     {
       "time": "20260710_183257",
       "niche": "facts",
@@ -2646,7 +2632,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260822_073711",
@@ -2660,7 +2646,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260822_083330",
@@ -2674,7 +2660,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260822_152408",
@@ -2688,7 +2674,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260822_164426",
@@ -2702,7 +2688,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260823_040823",
@@ -2716,7 +2702,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260823_065158",
@@ -2730,7 +2716,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260823_074035",
@@ -2744,7 +2730,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260823_103539",
@@ -2758,7 +2744,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260823_164356",
@@ -2772,7 +2758,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260824_054403",
@@ -2780,13 +2766,13 @@
       "title": "You don't need motivation. You need this.",
       "instagram": "17893814025397566",
       "metrics": {
-        "views": 4,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260824_070717",
@@ -2794,13 +2780,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18099673814006483",
       "metrics": {
-        "views": 28,
+        "views": 42,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260824_080417",
@@ -2808,25 +2794,47 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18148944481531381",
       "metrics": {
-        "views": 11,
+        "views": 19,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260824_154114"
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260824_150440",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18042676313817369"
+      "instagram": "18042676313817369",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260825_040205"
     },
     {
       "time": "20260824_154120",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18026230466684026"
+      "instagram": "18026230466684026",
+      "metrics": {
+        "views": 30,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260825_040205"
+    },
+    {
+      "time": "20260825_040220",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18099107480245529"
     }
   ]
 }
