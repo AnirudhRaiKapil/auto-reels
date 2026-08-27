@@ -1,7 +1,6 @@
 {
-  "run_count": 234,
+  "run_count": 235,
   "recent_topics": [
-    "From 2 Miles",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260713_063450",
-      "niche": "ai_news",
-      "title": "AI Outsmarts Human Doctors",
-      "instagram": "18169993471441436",
-      "metrics": {
-        "views": 3,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260716_172515"
-    },
     {
       "time": "20260713_164308",
       "niche": "facts",
@@ -2646,7 +2632,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260824_080417",
@@ -2660,7 +2646,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260824_150440",
@@ -2674,7 +2660,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260824_154120",
@@ -2688,7 +2674,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260825_040220",
@@ -2702,7 +2688,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260825_045057",
@@ -2716,7 +2702,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260825_054701",
@@ -2730,7 +2716,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260825_125243",
@@ -2744,7 +2730,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260825_145044",
@@ -2758,7 +2744,7 @@
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_040810",
@@ -2766,13 +2752,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18135495778637782",
       "metrics": {
-        "views": 29,
+        "views": 46,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_071409",
@@ -2780,13 +2766,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "17953795329015177",
       "metrics": {
-        "views": 51,
+        "views": 71,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_094934",
@@ -2794,13 +2780,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18014671475923696",
       "metrics": {
-        "views": 62,
-        "likes": 0,
+        "views": 102,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_104432",
@@ -2808,13 +2794,13 @@
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18022129403872311",
       "metrics": {
-        "views": 21,
+        "views": 38,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_131633",
@@ -2822,19 +2808,33 @@
       "title": "You don't need motivation. You need this.",
       "instagram": "18026393003888117",
       "metrics": {
-        "views": 5,
+        "views": 9,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0
       },
-      "metrics_at": "20260826_191449"
+      "metrics_at": "20260827_135948"
     },
     {
       "time": "20260826_191454",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18099085094200795"
+      "instagram": "18099085094200795",
+      "metrics": {
+        "views": 107,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0
+      },
+      "metrics_at": "20260827_135948"
+    },
+    {
+      "time": "20260827_135953",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years",
+      "instagram": "18114132502992095"
     }
   ]
 }
