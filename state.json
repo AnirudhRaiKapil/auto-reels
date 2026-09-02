@@ -1,7 +1,6 @@
 {
-  "run_count": 248,
+  "run_count": 249,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -46,6 +45,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260716_111805",
-      "niche": "facts",
-      "title": "Pioneers Behind Wheel",
-      "instagram": "18601695565040392",
-      "metrics": {
-        "views": 136,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260719_181900"
-    },
     {
       "time": "20260716_172525",
       "niche": "facts",
@@ -2835,6 +2821,11 @@
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years",
       "instagram": "18099594002064999"
+    },
+    {
+      "time": "20260902_124729",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
