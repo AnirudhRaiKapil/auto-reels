@@ -1,12 +1,11 @@
 {
-  "run_count": 250,
+  "run_count": 251,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -44,6 +43,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260717_122706",
-      "niche": "motivation",
-      "title": "Running Blind",
-      "instagram": "18112487602938536",
-      "metrics": {
-        "views": 68,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260720_103334"
-    },
     {
       "time": "20260717_150530",
       "niche": "facts",
@@ -2815,6 +2801,11 @@
     },
     {
       "time": "20260902_170351",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260903_080157",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
