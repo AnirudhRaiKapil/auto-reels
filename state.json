@@ -1,11 +1,10 @@
 {
-  "run_count": 251,
+  "run_count": 252,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -43,6 +42,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260717_150530",
-      "niche": "facts",
-      "title": "Energy Lost in Braking",
-      "instagram": "18150729496507258",
-      "metrics": {
-        "views": 142,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260720_132559"
-    },
     {
       "time": "20260717_162520",
       "niche": "ai_news",
@@ -2806,6 +2792,11 @@
     },
     {
       "time": "20260903_080157",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260903_125638",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
