@@ -1,10 +1,9 @@
 {
-  "run_count": 252,
+  "run_count": 253,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -42,6 +41,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260717_162520",
-      "niche": "ai_news",
-      "title": "AI's Blind Spots",
-      "instagram": "18110103848292436",
-      "metrics": {
-        "views": 105,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260720_183008"
-    },
     {
       "time": "20260717_180826",
       "niche": "ai_news",
@@ -2797,6 +2783,11 @@
     },
     {
       "time": "20260903_125638",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260903_171513",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
