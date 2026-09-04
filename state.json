@@ -1,8 +1,7 @@
 {
-  "run_count": 254,
+  "run_count": 255,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -40,6 +39,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260718_054053",
-      "niche": "facts",
-      "title": "Hershey's Secret Ingredient",
-      "instagram": "18098106896258593",
-      "metrics": {
-        "views": 116,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260721_160415"
-    },
     {
       "time": "20260718_132758",
       "niche": "facts",
@@ -2779,6 +2765,11 @@
     },
     {
       "time": "20260903_200017",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260904_080955",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
