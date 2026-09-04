@@ -1,7 +1,6 @@
 {
-  "run_count": 255,
+  "run_count": 256,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -39,6 +38,7 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260718_132758",
-      "niche": "facts",
-      "title": "Denali's Hidden Secret",
-      "instagram": "18228629800318457",
-      "metrics": {
-        "views": 1199,
-        "likes": 25,
-        "comments": 0,
-        "shares": 1,
-        "saved": 1
-      },
-      "metrics_at": "20260721_172231"
-    },
     {
       "time": "20260718_151613",
       "niche": "facts",
@@ -2770,6 +2756,11 @@
     },
     {
       "time": "20260904_080955",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260904_165955",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
