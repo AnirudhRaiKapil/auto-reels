@@ -1,7 +1,6 @@
 {
-  "run_count": 256,
+  "run_count": 257,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260718_151613",
-      "niche": "facts",
-      "title": "Ocean's Deepest Point",
-      "instagram": "18103950662324574",
-      "metrics": {
-        "views": 181,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260722_140830"
-    },
     {
       "time": "20260718_160058",
       "niche": "facts",
@@ -2763,6 +2749,11 @@
       "time": "20260904_165955",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260904_194112",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
