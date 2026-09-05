@@ -1,5 +1,5 @@
 {
-  "run_count": 257,
+  "run_count": 258,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -9,7 +9,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "You don't need motivation. You need this."
+    "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260718_160058",
-      "niche": "facts",
-      "title": "Neptune's Chill Secret",
-      "instagram": "17954089149188518",
-      "metrics": {
-        "views": 341,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1
-      },
-      "metrics_at": "20260722_155450"
-    },
     {
       "time": "20260718_170939",
       "niche": "facts",
@@ -2754,6 +2740,11 @@
       "time": "20260904_194112",
       "niche": "motivation",
       "title": "You don't need motivation. You need this."
+    },
+    {
+      "time": "20260905_144955",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
