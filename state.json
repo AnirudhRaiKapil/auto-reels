@@ -1,5 +1,5 @@
 {
-  "run_count": 259,
+  "run_count": 260,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -7,7 +7,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260719_104841",
-      "niche": "facts",
-      "title": "Egypt Underwater",
-      "instagram": "18079387712674045",
-      "metrics": {
-        "views": 399,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260723_060445"
-    },
     {
       "time": "20260719_121447",
       "niche": "facts",
@@ -2734,6 +2720,11 @@
     },
     {
       "time": "20260905_171234",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260906_153847",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
