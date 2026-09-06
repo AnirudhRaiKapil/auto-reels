@@ -1,12 +1,11 @@
 {
-  "run_count": 260,
+  "run_count": 261,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -50,14 +49,10 @@
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260719_121447",
-      "niche": "facts",
-      "title": "French Roots of English"
-    },
     {
       "time": "20260719_151801",
       "niche": "motivation",
@@ -2727,6 +2722,11 @@
       "time": "20260906_153847",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260906_181402",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
