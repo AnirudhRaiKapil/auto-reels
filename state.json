@@ -1,11 +1,10 @@
 {
-  "run_count": 261,
+  "run_count": 262,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260719_151801",
-      "niche": "motivation",
-      "title": "Discipline Over Motivation",
-      "instagram": "17892514548579934",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260723_163431"
-    },
     {
       "time": "20260719_160250",
       "niche": "facts",
@@ -2727,6 +2713,11 @@
       "time": "20260906_181402",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260907_081642",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
