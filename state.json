@@ -1,9 +1,8 @@
 {
-  "run_count": 263,
+  "run_count": 264,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260719_181909",
-      "niche": "facts",
-      "title": "Wolves Take Food",
-      "instagram": "18089080742436620",
-      "metrics": {
-        "views": 125,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260724_083347"
-    },
     {
       "time": "20260720_063956",
       "niche": "facts",
@@ -2709,6 +2695,11 @@
       "time": "20260907_145839",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260907_192323",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
