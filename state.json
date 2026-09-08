@@ -1,7 +1,6 @@
 {
-  "run_count": 265,
+  "run_count": 266,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -49,24 +48,11 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260720_103342",
-      "niche": "facts",
-      "title": "Naples Tomato Capital",
-      "instagram": "18029722697838294",
-      "metrics": {
-        "views": 184,
-        "likes": 5,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260724_154441"
-    },
     {
       "time": "20260720_132608",
       "niche": "ai_news",
@@ -2689,6 +2675,11 @@
     },
     {
       "time": "20260908_130024",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260908_171157",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
