@@ -1,8 +1,7 @@
 {
-  "run_count": 264,
+  "run_count": 265,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260720_063956",
-      "niche": "facts",
-      "title": "Grammar Struggle",
-      "instagram": "18093274463121043",
-      "metrics": {
-        "views": 28,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260724_110506"
-    },
     {
       "time": "20260720_103342",
       "niche": "facts",
@@ -2698,6 +2684,11 @@
     },
     {
       "time": "20260907_192323",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260908_130024",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
