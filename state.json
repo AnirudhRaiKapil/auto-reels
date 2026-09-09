@@ -1,7 +1,6 @@
 {
-  "run_count": 266,
+  "run_count": 267,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260720_132608",
-      "niche": "ai_news",
-      "title": "AI Goes Open",
-      "instagram": "18081146309669159",
-      "metrics": {
-        "views": 38,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260724_174513"
-    },
     {
       "time": "20260720_183018",
       "niche": "facts",
@@ -2682,6 +2668,11 @@
       "time": "20260908_171157",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260909_130822",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
