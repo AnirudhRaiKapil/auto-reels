@@ -1,12 +1,11 @@
 {
-  "run_count": 269,
+  "run_count": 270,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260721_160426",
-      "niche": "facts",
-      "title": "Lions Rule Night",
-      "instagram": "18108312632015029",
-      "metrics": {
-        "views": 121,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1
-      },
-      "metrics_at": "20260725_145708"
-    },
     {
       "time": "20260721_172239",
       "niche": "facts",
@@ -2653,6 +2639,11 @@
     },
     {
       "time": "20260910_170217",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260910_194848",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
