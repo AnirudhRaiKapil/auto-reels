@@ -1,7 +1,6 @@
 {
-  "run_count": 268,
+  "run_count": 269,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260721_084309",
-      "niche": "facts",
-      "title": "Birds That Fly Backwards",
-      "instagram": "18093522287374829",
-      "metrics": {
-        "views": 1190,
-        "likes": 15,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260725_120442"
-    },
     {
       "time": "20260721_160426",
       "niche": "facts",
@@ -2664,6 +2650,11 @@
       "time": "20260909_172625",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260910_170217",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
