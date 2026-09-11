@@ -1,9 +1,8 @@
 {
-  "run_count": 272,
+  "run_count": 273,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260722_155459",
-      "niche": "facts",
-      "title": "Turtles' Magnetic Navigation",
-      "instagram": "17980197449885103",
-      "metrics": {
-        "views": 169,
-        "likes": 5,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260726_061115"
-    },
     {
       "time": "20260722_172316",
       "niche": "facts",
@@ -2628,6 +2614,11 @@
       "time": "20260911_171230",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260911_193643",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
