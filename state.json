@@ -1,7 +1,6 @@
 {
-  "run_count": 275,
+  "run_count": 276,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260723_141915",
-      "niche": "facts",
-      "title": "French Roots in English",
-      "instagram": "17899773156533604",
-      "metrics": {
-        "views": 116,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260726_134746"
-    },
     {
       "time": "20260723_163440",
       "niche": "ai_news",
@@ -2599,6 +2585,11 @@
     },
     {
       "time": "20260912_162225",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260912_192150",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
