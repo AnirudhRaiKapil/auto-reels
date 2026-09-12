@@ -1,7 +1,6 @@
 {
-  "run_count": 274,
+  "run_count": 275,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260723_060453",
-      "niche": "facts",
-      "title": "Bridges Defy Extreme Winds",
-      "instagram": "18182454217364973",
-      "metrics": {
-        "views": 124,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260726_114250"
-    },
     {
       "time": "20260723_141915",
       "niche": "facts",
@@ -2608,6 +2594,11 @@
     },
     {
       "time": "20260912_080010",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260912_162225",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
