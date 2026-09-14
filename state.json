@@ -1,10 +1,9 @@
 {
-  "run_count": 278,
+  "run_count": 279,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -46,6 +45,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260724_083355",
-      "niche": "facts",
-      "title": "Forgetting Curve Explained",
-      "instagram": "17956788294175785",
-      "metrics": {
-        "views": 116,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260727_164342"
-    },
     {
       "time": "20260724_110515",
       "niche": "facts",
@@ -2572,6 +2558,11 @@
     },
     {
       "time": "20260913_172726",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260914_155237",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
