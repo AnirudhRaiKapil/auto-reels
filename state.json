@@ -1,7 +1,6 @@
 {
-  "run_count": 281,
+  "run_count": 282,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260724_174522",
-      "niche": "facts",
-      "title": "Chocolate's Secret",
-      "instagram": "17987149664848049",
-      "metrics": {
-        "views": 125,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260728_141900"
-    },
     {
       "time": "20260725_060800",
       "niche": "facts",
@@ -2547,6 +2533,11 @@
       "time": "20260915_142949",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260915_185136",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
