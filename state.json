@@ -1,7 +1,6 @@
 {
-  "run_count": 282,
+  "run_count": 283,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260725_060800",
-      "niche": "facts",
-      "title": "Voting Mandatory",
-      "instagram": "18105944105023831",
-      "metrics": {
-        "views": 132,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260728_164231"
-    },
     {
       "time": "20260725_120450",
       "niche": "facts",
@@ -2538,6 +2524,11 @@
       "time": "20260915_185136",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260916_141525",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
