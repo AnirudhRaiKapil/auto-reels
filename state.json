@@ -1,8 +1,7 @@
 {
-  "run_count": 285,
+  "run_count": 286,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260725_161446",
-      "niche": "facts",
-      "title": "Tallest Mountain Not Everest",
-      "instagram": "18140642470563869",
-      "metrics": {
-        "views": 159,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260729_142903"
-    },
     {
       "time": "20260725_180501",
       "niche": "facts",
@@ -2511,6 +2497,11 @@
       "time": "20260917_083506",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260917_142412",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
