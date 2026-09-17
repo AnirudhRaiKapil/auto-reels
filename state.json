@@ -1,9 +1,8 @@
 {
-  "run_count": 284,
+  "run_count": 285,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260725_145716",
-      "niche": "motivation",
-      "title": "Fear Less, Learn More",
-      "instagram": "17937757212292248",
-      "metrics": {
-        "views": 42,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260729_114702"
-    },
     {
       "time": "20260725_161446",
       "niche": "facts",
@@ -2518,6 +2504,11 @@
     },
     {
       "time": "20260916_185726",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260917_083506",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
