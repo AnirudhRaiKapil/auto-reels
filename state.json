@@ -1,7 +1,6 @@
 {
-  "run_count": 286,
+  "run_count": 287,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260725_180501",
-      "niche": "facts",
-      "title": "Ramadan Public Eating Fines",
-      "instagram": "18208227475359149",
-      "metrics": {
-        "views": 127,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260729_163223"
-    },
     {
       "time": "20260726_061125",
       "niche": "facts",
@@ -2502,6 +2488,11 @@
       "time": "20260917_142412",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260917_185151",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
