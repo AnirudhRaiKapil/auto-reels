@@ -1,7 +1,6 @@
 {
-  "run_count": 291,
+  "run_count": 292,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260726_150947",
-      "niche": "facts",
-      "title": "Space Station Orbits Earth",
-      "instagram": "17916157890422459",
-      "metrics": {
-        "views": 119,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260730_163509"
-    },
     {
       "time": "20260727_140444",
       "niche": "ai_news",
@@ -2457,6 +2443,11 @@
       "time": "20260919_164222",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260919_191809",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
