@@ -1,5 +1,5 @@
 {
-  "run_count": 293,
+  "run_count": 294,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -13,7 +13,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260727_164358",
-      "niche": "ai_news",
-      "title": "AI's Secret",
-      "instagram": "18418212370194801",
-      "metrics": {
-        "views": 10,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260731_064028"
-    },
     {
       "time": "20260727_183027",
       "niche": "facts",
@@ -2439,6 +2425,11 @@
       "time": "20260920_133436",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260920_173245",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
