@@ -1,7 +1,6 @@
 {
-  "run_count": 292,
+  "run_count": 293,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260727_140444",
-      "niche": "ai_news",
-      "title": "AI in Music Creation",
-      "instagram": "18123333961687560",
-      "metrics": {
-        "views": 27,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260730_182221"
-    },
     {
       "time": "20260727_164358",
       "niche": "ai_news",
@@ -2446,6 +2432,11 @@
     },
     {
       "time": "20260919_191809",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260920_133436",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
     }
