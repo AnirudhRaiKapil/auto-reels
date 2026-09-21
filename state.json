@@ -1,5 +1,5 @@
 {
-  "run_count": 294,
+  "run_count": 295,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -12,7 +12,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260727_183027",
-      "niche": "facts",
-      "title": "Memory Limit Found",
-      "instagram": "18017983559904942",
-      "metrics": {
-        "views": 115,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260731_152229"
-    },
     {
       "time": "20260728_084456",
       "niche": "facts",
@@ -2430,6 +2416,11 @@
       "time": "20260920_173245",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260921_155820",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
