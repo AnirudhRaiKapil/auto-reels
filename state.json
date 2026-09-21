@@ -1,5 +1,5 @@
 {
-  "run_count": 295,
+  "run_count": 296,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -11,7 +11,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
-    "You don't need motivation. You need this."
+    "You don't need motivation. You need this.",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260728_084456",
-      "niche": "facts",
-      "title": "Venus Hidden Volcanoes",
-      "instagram": "17979162144071075",
-      "metrics": {
-        "views": 927,
-        "likes": 14,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260731_180401"
-    },
     {
       "time": "20260728_141911",
       "niche": "facts",
@@ -2421,6 +2407,11 @@
       "time": "20260921_155820",
       "niche": "motivation",
       "title": "You don't need motivation. You need this."
+    },
+    {
+      "time": "20260921_202635",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
