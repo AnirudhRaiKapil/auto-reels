@@ -1,12 +1,11 @@
 {
-  "run_count": 300,
+  "run_count": 301,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -47,26 +46,13 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260729_142914",
-      "niche": "ai_news",
-      "title": "Phones Understand You",
-      "instagram": "18405651169080638",
-      "metrics": {
-        "views": 29,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260801_145014"
-    },
     {
       "time": "20260729_163232",
       "niche": "facts",
@@ -2374,6 +2360,11 @@
     },
     {
       "time": "20260923_143143",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260923_185506",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
