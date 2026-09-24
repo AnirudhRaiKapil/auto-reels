@@ -1,10 +1,9 @@
 {
-  "run_count": 302,
+  "run_count": 303,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -45,6 +44,7 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260729_181453",
-      "niche": "facts",
-      "title": "Dolphins Own Names",
-      "instagram": "17952911628194539",
-      "metrics": {
-        "views": 123,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260802_132420"
-    },
     {
       "time": "20260730_083724",
       "niche": "ai_news",
@@ -2356,6 +2342,11 @@
     },
     {
       "time": "20260924_141601",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260924_185408",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
