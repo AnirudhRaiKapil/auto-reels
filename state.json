@@ -1,9 +1,8 @@
 {
-  "run_count": 307,
+  "run_count": 308,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
@@ -40,6 +39,7 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260730_182232",
-      "niche": "facts",
-      "title": "Latin Roots",
-      "instagram": "17943550755267504",
-      "metrics": {
-        "views": 83,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260803_164637"
-    },
     {
       "time": "20260731_064037",
       "niche": "facts",
@@ -2311,6 +2297,11 @@
     },
     {
       "time": "20260927_144354",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260927_191938",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
