@@ -1,7 +1,6 @@
 {
-  "run_count": 309,
+  "run_count": 310,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
@@ -38,6 +37,7 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260731_152239",
-      "niche": "facts",
-      "title": "Ancient Ziggurat of Ur",
-      "instagram": "18609131983020961",
-      "metrics": {
-        "views": 160,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1
-      },
-      "metrics_at": "20260804_142612"
-    },
     {
       "time": "20260731_180410",
       "niche": "ai_news",
@@ -2293,6 +2279,11 @@
     },
     {
       "time": "20260928_093024",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260928_181209",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
