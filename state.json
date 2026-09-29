@@ -1,7 +1,6 @@
 {
-  "run_count": 312,
+  "run_count": 313,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -35,6 +34,7 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260801_083148",
-      "niche": "facts",
-      "title": "Bird Brain Equals Human",
-      "instagram": "17859378987680540",
-      "metrics": {
-        "views": 132,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260805_114413"
-    },
     {
       "time": "20260801_104725",
       "niche": "facts",
@@ -2266,6 +2252,11 @@
     },
     {
       "time": "20260929_162812",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260929_214028",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
