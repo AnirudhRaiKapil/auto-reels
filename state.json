@@ -1,7 +1,6 @@
 {
-  "run_count": 311,
+  "run_count": 312,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -36,6 +35,7 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260801_060304",
-      "niche": "facts",
-      "title": "Tut's Tomb Discovery",
-      "instagram": "17896245330560278",
-      "metrics": {
-        "views": 653,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260804_183212"
-    },
     {
       "time": "20260801_083148",
       "niche": "facts",
@@ -2275,6 +2261,11 @@
     },
     {
       "time": "20260929_093705",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20260929_162812",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
