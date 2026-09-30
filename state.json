@@ -1,7 +1,6 @@
 {
-  "run_count": 315,
+  "run_count": 316,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260801_145023",
-      "niche": "facts",
-      "title": "Thailand's Underwear Law",
-      "instagram": "17901387828533153",
-      "metrics": {
-        "views": 1731,
-        "likes": 3,
-        "comments": 0,
-        "shares": 1,
-        "saved": 2
-      },
-      "metrics_at": "20260805_183608"
-    },
     {
       "time": "20260802_111928",
       "niche": "facts",
@@ -2239,6 +2225,11 @@
     },
     {
       "time": "20260930_164247",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20260930_214226",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
     }
