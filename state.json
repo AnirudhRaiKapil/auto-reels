@@ -1,7 +1,6 @@
 {
-  "run_count": 317,
+  "run_count": 318,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260802_132428",
-      "niche": "facts",
-      "title": "Nose Shape Matters",
-      "instagram": "17931774543360428",
-      "metrics": {
-        "views": 161,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260806_112840"
-    },
     {
       "time": "20260802_151805",
       "niche": "facts",
@@ -2221,6 +2207,11 @@
     },
     {
       "time": "20261001_101328",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261001_171932",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
