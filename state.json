@@ -1,8 +1,7 @@
 {
-  "run_count": 320,
+  "run_count": 321,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260803_062958",
-      "niche": "facts",
-      "title": "Delayed Reality",
-      "instagram": "17934579456350006",
-      "metrics": {
-        "views": 111,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260807_102225"
-    },
     {
       "time": "20260803_110321",
       "niche": "facts",
@@ -2196,6 +2182,11 @@
       "time": "20261002_161635",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261002_211349",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
