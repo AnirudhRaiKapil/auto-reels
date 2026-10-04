@@ -1,5 +1,5 @@
 {
-  "run_count": 323,
+  "run_count": 324,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -8,7 +8,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260803_190629",
-      "niche": "facts",
-      "title": "Earth's Lowest Town",
-      "instagram": "18608268553012661",
-      "metrics": {
-        "views": 132,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260807_171621"
-    },
     {
       "time": "20260804_142623",
       "niche": "facts",
@@ -2167,6 +2153,11 @@
     },
     {
       "time": "20261003_184512",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261004_152959",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
