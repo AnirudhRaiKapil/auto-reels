@@ -1,12 +1,11 @@
 {
-  "run_count": 325,
+  "run_count": 326,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -47,26 +46,13 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260804_165653",
-      "niche": "facts",
-      "title": "Earth's Lowest Point",
-      "instagram": "17872417977627281",
-      "metrics": {
-        "views": 1010,
-        "likes": 10,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1
-      },
-      "metrics_at": "20260808_100347"
-    },
     {
       "time": "20260804_183223",
       "niche": "facts",
@@ -2149,6 +2135,11 @@
     },
     {
       "time": "20261004_193133",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261005_195724",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
