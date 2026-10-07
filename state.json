@@ -1,9 +1,8 @@
 {
-  "run_count": 328,
+  "run_count": 329,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260805_143015",
-      "niche": "ai_news",
-      "title": "AI Trained on 1.5M Books",
-      "instagram": "18124814317682831",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260808_175527"
-    },
     {
       "time": "20260805_164653",
       "niche": "facts",
@@ -2122,6 +2108,11 @@
     },
     {
       "time": "20261006_214629",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261007_101403",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
