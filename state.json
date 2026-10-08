@@ -1,7 +1,6 @@
 {
-  "run_count": 331,
+  "run_count": 332,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "You don't need motivation. You need this."
+    "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260806_090020",
-      "niche": "facts",
-      "title": "Brain Forgets Daily",
-      "instagram": "18387537910162733",
-      "metrics": {
-        "views": 102,
-        "likes": 0,
-        "comments": 0,
-        "shares": 1,
-        "saved": 0
-      },
-      "metrics_at": "20260809_091008"
-    },
     {
       "time": "20260806_112848",
       "niche": "facts",
@@ -2097,6 +2083,11 @@
       "time": "20261008_102017",
       "niche": "motivation",
       "title": "You don't need motivation. You need this."
+    },
+    {
+      "time": "20261008_181018",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
