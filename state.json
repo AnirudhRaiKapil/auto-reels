@@ -1,9 +1,8 @@
 {
-  "run_count": 332,
+  "run_count": 333,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260806_112848",
-      "niche": "facts",
-      "title": "2,000 Year Old Tunnel Still Works",
-      "instagram": "18010591019935798",
-      "metrics": {
-        "views": 167,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260809_094127"
-    },
     {
       "time": "20260806_141811",
       "niche": "facts",
@@ -2086,6 +2072,11 @@
     },
     {
       "time": "20261008_181018",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261009_102253",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
