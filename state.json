@@ -1,8 +1,7 @@
 {
-  "run_count": 333,
+  "run_count": 334,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260806_141811",
-      "niche": "facts",
-      "title": "Most of You is Empty",
-      "instagram": "17906828421465018",
-      "metrics": {
-        "views": 42,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260809_104202"
-    },
     {
       "time": "20260807_063153",
       "niche": "facts",
@@ -2077,6 +2063,11 @@
     },
     {
       "time": "20261009_102253",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261009_173228",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
