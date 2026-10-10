@@ -1,9 +1,8 @@
 {
-  "run_count": 336,
+  "run_count": 337,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260807_145649",
-      "niche": "motivation",
-      "title": "Writing Before Ready",
-      "instagram": "18097957856525921",
-      "metrics": {
-        "views": 33,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260810_162640"
-    },
     {
       "time": "20260807_161541",
       "niche": "facts",
@@ -2050,6 +2036,11 @@
     },
     {
       "time": "20261010_154738",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261010_195637",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
