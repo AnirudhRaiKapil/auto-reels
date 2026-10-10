@@ -1,7 +1,6 @@
 {
-  "run_count": 335,
+  "run_count": 336,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260807_102234",
-      "niche": "facts",
-      "title": "Sharks Outswim Humans",
-      "instagram": "17977509339080034",
-      "metrics": {
-        "views": 388,
-        "likes": 8,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260810_151006"
-    },
     {
       "time": "20260807_145649",
       "niche": "motivation",
@@ -2061,6 +2047,11 @@
       "time": "20261010_095032",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20261010_154738",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
