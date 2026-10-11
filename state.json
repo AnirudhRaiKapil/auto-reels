@@ -1,7 +1,6 @@
 {
-  "run_count": 338,
+  "run_count": 339,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
@@ -48,25 +47,12 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260807_171630",
-      "niche": "facts",
-      "title": "Vanilla's Secret Origin",
-      "instagram": "17867036964601869",
-      "metrics": {
-        "views": 114,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260811_044023"
-    },
     {
       "time": "20260808_055254",
       "niche": "facts",
@@ -2032,6 +2018,11 @@
     },
     {
       "time": "20261011_162823",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261011_205434",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
