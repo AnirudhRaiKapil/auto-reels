@@ -1,7 +1,6 @@
 {
-  "run_count": 339,
+  "run_count": 340,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260808_055254",
-      "niche": "facts",
-      "title": "Africa's Saltiest Lake",
-      "instagram": "18136097500614653",
-      "metrics": {
-        "views": 140,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260811_101851"
-    },
     {
       "time": "20260808_100356",
       "niche": "facts",
@@ -2025,6 +2011,11 @@
       "time": "20261011_205434",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261013_181321",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
