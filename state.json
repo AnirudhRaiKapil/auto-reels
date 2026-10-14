@@ -1,7 +1,6 @@
 {
-  "run_count": 340,
+  "run_count": 341,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "You don't need motivation. You need this."
+    "You don't need motivation. You need this.",
+    "How AI actually 'reads' your messages"
   ],
   "history": [
-    {
-      "time": "20260808_100356",
-      "niche": "facts",
-      "title": "Desert Expansion",
-      "instagram": "17877256704529850",
-      "metrics": {
-        "views": 216,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260811_120329"
-    },
     {
       "time": "20260808_104155",
       "niche": "facts",
@@ -2016,6 +2002,11 @@
       "time": "20261013_181321",
       "niche": "motivation",
       "title": "You don't need motivation. You need this."
+    },
+    {
+      "time": "20261014_144004",
+      "niche": "ai_news",
+      "title": "How AI actually 'reads' your messages"
     }
   ]
 }
