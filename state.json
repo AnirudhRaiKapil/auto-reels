@@ -1,7 +1,6 @@
 {
-  "run_count": 342,
+  "run_count": 343,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260808_144321",
-      "niche": "facts",
-      "title": "Moon's Hidden Side",
-      "instagram": "18117737134697636",
-      "metrics": {
-        "views": 127,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260811_152058"
-    },
     {
       "time": "20260808_175538",
       "niche": "facts",
@@ -1998,6 +1984,11 @@
       "time": "20261014_193628",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20261015_082102",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
