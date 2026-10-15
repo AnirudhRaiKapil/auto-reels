@@ -1,7 +1,6 @@
 {
-  "run_count": 343,
+  "run_count": 344,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "You don't need motivation. You need this.",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260808_175538",
-      "niche": "facts",
-      "title": "Extra Spleen Found",
-      "instagram": "18107479696844125",
-      "metrics": {
-        "views": 108,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260812_062559"
-    },
     {
       "time": "20260809_043316",
       "niche": "facts",
@@ -1987,6 +1973,11 @@
     },
     {
       "time": "20261015_082102",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261015_140550",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
