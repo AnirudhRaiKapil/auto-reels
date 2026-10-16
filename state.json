@@ -1,5 +1,5 @@
 {
-  "run_count": 346,
+  "run_count": 347,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -18,7 +18,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this.",
     "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260809_091018",
-      "niche": "facts",
-      "title": "Extra Spleen Found",
-      "instagram": "18608965243000307",
-      "metrics": {
-        "views": 117,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260812_151144"
-    },
     {
       "time": "20260809_094133",
       "niche": "motivation",
@@ -1960,6 +1946,11 @@
     },
     {
       "time": "20261016_132424",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
+    },
+    {
+      "time": "20261016_180829",
       "niche": "motivation",
       "title": "You don't need motivation. You need this."
     }
