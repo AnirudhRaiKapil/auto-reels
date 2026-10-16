@@ -1,7 +1,6 @@
 {
-  "run_count": 345,
+  "run_count": 346,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260809_072228",
-      "niche": "motivation",
-      "title": "Fear of Judgment",
-      "instagram": "17878942878511579",
-      "metrics": {
-        "views": 23,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260812_131251"
-    },
     {
       "time": "20260809_091018",
       "niche": "facts",
@@ -1971,6 +1957,11 @@
       "time": "20261015_182717",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261016_132424",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
