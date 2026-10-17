@@ -1,5 +1,5 @@
 {
-  "run_count": 348,
+  "run_count": 349,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -16,7 +16,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260809_104210",
-      "niche": "facts",
-      "title": "Physics Saves Lives",
-      "instagram": "18101447741168741",
-      "metrics": {
-        "views": 53,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260813_062919"
-    },
     {
       "time": "20260810_104133",
       "niche": "facts",
@@ -1942,6 +1928,11 @@
     },
     {
       "time": "20261017_121323",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261017_162751",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
