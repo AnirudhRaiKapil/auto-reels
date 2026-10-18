@@ -1,5 +1,5 @@
 {
-  "run_count": 351,
+  "run_count": 352,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -13,7 +13,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260810_162649",
-      "niche": "facts",
-      "title": "Planet Near Our Sun",
-      "instagram": "18111899257778905",
-      "metrics": {
-        "views": 132,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260813_131729"
-    },
     {
       "time": "20260810_180202",
       "niche": "facts",
@@ -1915,6 +1901,11 @@
     },
     {
       "time": "20261018_125151",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261018_164210",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
