@@ -1,5 +1,5 @@
 {
-  "run_count": 352,
+  "run_count": 353,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -12,7 +12,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260810_180202",
-      "niche": "facts",
-      "title": "Spider Silk Secrets",
-      "instagram": "17986184715045389",
-      "metrics": {
-        "views": 132,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260813_182131"
-    },
     {
       "time": "20260811_044032",
       "niche": "facts",
@@ -1906,6 +1892,11 @@
     },
     {
       "time": "20261018_164210",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261018_191909",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
