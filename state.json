@@ -1,5 +1,5 @@
 {
-  "run_count": 353,
+  "run_count": 354,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -11,7 +11,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260811_044032",
-      "niche": "facts",
-      "title": "Dark Matter Revealed",
-      "instagram": "18135259957609384",
-      "metrics": {
-        "views": 96,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260814_050650"
-    },
     {
       "time": "20260811_101901",
       "niche": "motivation",
@@ -1899,6 +1885,11 @@
       "time": "20261018_191909",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261019_162626",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
