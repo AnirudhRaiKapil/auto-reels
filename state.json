@@ -1,5 +1,5 @@
 {
-  "run_count": 357,
+  "run_count": 358,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -7,7 +7,6 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260811_152118",
-      "niche": "facts",
-      "title": "Potholes Hit Hard",
-      "instagram": "18107570708022230",
-      "metrics": {
-        "views": 135,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260814_180655"
-    },
     {
       "time": "20260812_062608",
       "niche": "facts",
@@ -1863,6 +1849,11 @@
       "time": "20261020_192156",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261021_083110",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
