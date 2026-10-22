@@ -1,11 +1,10 @@
 {
-  "run_count": 359,
+  "run_count": 360,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260812_102902",
-      "niche": "facts",
-      "title": "Ancient Stone Wonder",
-      "instagram": "18112837918964583",
-      "metrics": {
-        "views": 85,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260815_084237"
-    },
     {
       "time": "20260812_131301",
       "niche": "motivation",
@@ -1843,6 +1829,11 @@
     },
     {
       "time": "20261021_192636",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261022_084324",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
