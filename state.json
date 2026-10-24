@@ -1,7 +1,6 @@
 {
-  "run_count": 365,
+  "run_count": 366,
   "recent_topics": [
-    "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -47,26 +46,13 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260813_115229",
-      "niche": "motivation",
-      "title": "Consistency Wins",
-      "instagram": "18387588076167773",
-      "metrics": {
-        "views": 35,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260816_094929"
-    },
     {
       "time": "20260813_131740",
       "niche": "facts",
@@ -1789,6 +1775,11 @@
     },
     {
       "time": "20261024_125158",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261024_163642",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
