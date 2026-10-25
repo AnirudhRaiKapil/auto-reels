@@ -1,8 +1,7 @@
 {
-  "run_count": 368,
+  "run_count": 369,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -44,6 +43,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260814_050700",
-      "niche": "motivation",
-      "title": "Discipline Beats Willpower",
-      "instagram": "18158950375489085",
-      "metrics": {
-        "views": 51,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260817_045802"
-    },
     {
       "time": "20260814_062109",
       "niche": "facts",
@@ -1762,6 +1748,11 @@
     },
     {
       "time": "20261025_134634",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261025_174929",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
