@@ -1,9 +1,8 @@
 {
-  "run_count": 367,
+  "run_count": 368,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -45,6 +44,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260813_182142",
-      "niche": "facts",
-      "title": "Webster's Massive Dictionary",
-      "instagram": "18091279598430320",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260816_130227"
-    },
     {
       "time": "20260814_050700",
       "niche": "motivation",
@@ -1771,6 +1757,11 @@
     },
     {
       "time": "20261024_192734",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261025_134634",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
