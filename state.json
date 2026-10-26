@@ -1,11 +1,10 @@
 {
-  "run_count": 371,
+  "run_count": 372,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -41,6 +40,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260814_161055",
-      "niche": "facts",
-      "title": "Birds That Fly Backwards",
-      "instagram": "18162399544463246",
-      "metrics": {
-        "views": 152,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260817_105747"
-    },
     {
       "time": "20260814_180705",
       "niche": "facts",
@@ -1735,6 +1721,11 @@
     },
     {
       "time": "20261026_160041",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261026_205952",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
