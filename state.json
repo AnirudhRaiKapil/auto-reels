@@ -1,7 +1,6 @@
 {
-  "run_count": 369,
+  "run_count": 370,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -43,6 +42,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260814_062109",
-      "niche": "facts",
-      "title": "Hottest Day Ever",
-      "instagram": "18133936951722350",
-      "metrics": {
-        "views": 111,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260817_070424"
-    },
     {
       "time": "20260814_114614",
       "niche": "facts",
@@ -1753,6 +1739,11 @@
     },
     {
       "time": "20261025_174929",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261026_085416",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
