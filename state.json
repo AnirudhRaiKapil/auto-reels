@@ -1,9 +1,8 @@
 {
-  "run_count": 373,
+  "run_count": 374,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "How AI actually 'reads' your messages"
+    "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260815_064546",
-      "niche": "facts",
-      "title": "Clear Air Turbulence Danger",
-      "instagram": "18013470002939031",
-      "metrics": {
-        "views": 745,
-        "likes": 7,
-        "comments": 0,
-        "shares": 1,
-        "saved": 1
-      },
-      "metrics_at": "20260818_070421"
-    },
     {
       "time": "20260815_084246",
       "niche": "facts",
@@ -1719,6 +1705,11 @@
       "time": "20261027_085055",
       "niche": "ai_news",
       "title": "How AI actually 'reads' your messages"
+    },
+    {
+      "time": "20261027_152812",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
     }
   ]
 }
