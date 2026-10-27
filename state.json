@@ -1,8 +1,7 @@
 {
-  "run_count": 374,
+  "run_count": 375,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260815_084246",
-      "niche": "facts",
-      "title": "Sleeping Too Much",
-      "instagram": "18118211473920594",
-      "metrics": {
-        "views": 60,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260818_130236"
-    },
     {
       "time": "20260815_104504",
       "niche": "facts",
@@ -1708,6 +1694,11 @@
     },
     {
       "time": "20261027_152812",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261027_203453",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
