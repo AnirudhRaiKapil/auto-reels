@@ -1,9 +1,8 @@
 {
-  "run_count": 377,
+  "run_count": 378,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -47,26 +46,13 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260815_124231",
-      "niche": "facts",
-      "title": "Sweat Loss",
-      "instagram": "18006412943975486",
-      "metrics": {
-        "views": 118,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260818_174831"
-    },
     {
       "time": "20260816_040820",
       "niche": "motivation",
@@ -1681,6 +1667,11 @@
     },
     {
       "time": "20261028_164524",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261028_213513",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
