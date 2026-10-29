@@ -1,7 +1,6 @@
 {
-  "run_count": 380,
+  "run_count": 381,
   "recent_topics": [
-    "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -44,6 +43,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260816_094937",
-      "niche": "facts",
-      "title": "Ocean's Oxygen Source",
-      "instagram": "17982205331882552",
-      "metrics": {
-        "views": 119,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260819_105243"
-    },
     {
       "time": "20260816_103147",
       "niche": "facts",
@@ -1654,6 +1640,11 @@
     },
     {
       "time": "20261029_165157",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261029_215131",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
