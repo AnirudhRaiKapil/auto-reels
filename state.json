@@ -1,7 +1,6 @@
 {
-  "run_count": 379,
+  "run_count": 380,
   "recent_topics": [
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -45,6 +44,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260816_043802",
-      "niche": "facts",
-      "title": "Coldest Place on Earth",
-      "instagram": "18368472043300931",
-      "metrics": {
-        "views": 110,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260819_083932"
-    },
     {
       "time": "20260816_094937",
       "niche": "facts",
@@ -1663,6 +1649,11 @@
     },
     {
       "time": "20261029_095259",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261029_165157",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
