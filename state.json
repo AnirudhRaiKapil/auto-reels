@@ -1,9 +1,8 @@
 {
-  "run_count": 381,
+  "run_count": 382,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -43,6 +42,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260816_103147",
-      "niche": "facts",
-      "title": "China's Dam",
-      "instagram": "17962600650155910",
-      "metrics": {
-        "views": 1171,
-        "likes": 22,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260819_131125"
-    },
     {
       "time": "20260816_130236",
       "niche": "ai_news",
@@ -1645,6 +1631,11 @@
     },
     {
       "time": "20261029_215131",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261030_100348",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
