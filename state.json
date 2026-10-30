@@ -1,8 +1,7 @@
 {
-  "run_count": 382,
+  "run_count": 383,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -50,23 +49,10 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years"
+    "Your skeleton replaces itself every 10 years",
+    "You don't need motivation. You need this."
   ],
   "history": [
-    {
-      "time": "20260816_130236",
-      "niche": "ai_news",
-      "title": "Code Shapes Your Choices",
-      "instagram": "18350125174218236",
-      "metrics": {
-        "views": 38,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260819_144842"
-    },
     {
       "time": "20260817_045810",
       "niche": "facts",
@@ -1638,6 +1624,11 @@
       "time": "20261030_100348",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261030_165007",
+      "niche": "motivation",
+      "title": "You don't need motivation. You need this."
     }
   ]
 }
