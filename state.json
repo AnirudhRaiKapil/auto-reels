@@ -1,9 +1,8 @@
 {
-  "run_count": 404,
+  "run_count": 405,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -43,6 +42,7 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "You don't need motivation. You need this.",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -53,20 +53,6 @@
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260821_105546",
-      "niche": "facts",
-      "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18103079225462189",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260824_070712"
-    },
     {
       "time": "20260821_125255",
       "niche": "facts",
@@ -1438,6 +1424,11 @@
     },
     {
       "time": "20261113_104518",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261113_182739",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
