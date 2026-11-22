@@ -1,9 +1,8 @@
 {
-  "run_count": 419,
+  "run_count": 420,
   "recent_topics": [
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
-    "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
@@ -49,24 +48,11 @@
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "How AI actually 'reads' your messages",
+    "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years",
     "Your skeleton replaces itself every 10 years"
   ],
   "history": [
-    {
-      "time": "20260824_070717",
-      "niche": "facts",
-      "title": "Your skeleton replaces itself every 10 years",
-      "instagram": "18099673814006483",
-      "metrics": {
-        "views": 52,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0
-      },
-      "metrics_at": "20260827_135948"
-    },
     {
       "time": "20260824_080417",
       "niche": "facts",
@@ -1303,6 +1289,11 @@
     },
     {
       "time": "20261121_175800",
+      "niche": "facts",
+      "title": "Your skeleton replaces itself every 10 years"
+    },
+    {
+      "time": "20261122_111302",
       "niche": "facts",
       "title": "Your skeleton replaces itself every 10 years"
     }
